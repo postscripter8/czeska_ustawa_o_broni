@@ -1,5 +1,5 @@
 # Co to?
-Jest to spo³eczny projekt przek³adu z jêzyka angielskiego ustawy Republiki Czeskiej o broni palnej i amunicji na jêzyk polski
+Jest to spo?eczny projekt przek?adu z j?zyka angielskiego ustawy Republiki Czeskiej o broni palnej i amunicji na j?zyk polski
 
 # Jakiej ustawy?
 Tej tutaj: http://www.mvcr.cz/mvcren/file/zakon-o-strelnych-zbranich-a-strelivu-en-doc.aspx
@@ -10,22 +10,22 @@ Bo tak. I tak: http://trybun.org.pl/2017/07/29/giewu-atakuje-a-my-pozostajemy-o-
 # Jak?
 ## Metodyka pracy
 Nieustalona
-## Plan wstêpny
-- [ ] Import tekstu ustawy w jêzyku angielskim.
-- [ ] Zmiana formatu dokumentu na tekstowy.
-- [ ] Podzia³ treœci mniejsze dokumenty nadaj¹ce siê do t³umaczenia.
-- [ ] Pozosta³e 99% roboty.
-- [ ] Synteza t³umaczenia.
+## Plan wst?pny
+- [x] Import tekstu ustawy w j?zyku angielskim.
+- [x] Zmiana formatu dokumentu na tekstowy.
+- [ ] Podzia? tre?ci mniejsze dokumenty nadaj?ce si? do t?umaczenia.
+- [ ] Pozosta?e 99% roboty.
+- [ ] Synteza t?umaczenia.
 
 # Prawa autorskie
-Autorem treœci ustawy wydaje siê byæ parlament Republiki Czeskiej, ale g³owy nie dam.
-T³umaczenie jest tworzone z zamiarem jego opublikowania i rozpowszechniania za darmo i bez ograniczeñ.
-Autorami przek³adu s¹ Ci, co t³umaczyli.
-Szczegó³y dotycz¹ce autorstwa konkretnych fragmentów mo¿na znaleŸæ w historii zmian o ile nie zaznaczono inaczej.
+Autorem tre?ci ustawy wydaje si? by? parlament Republiki Czeskiej, ale g?owy nie dam.
+T?umaczenie jest tworzone z zamiarem jego opublikowania i rozpowszechniania za darmo i bez ogranicze?.
+Autorami przek?adu s? Ci, co t?umaczyli.
+Szczeg??y dotycz?ce autorstwa konkretnych fragment?w mo?na znale?? w historii zmian o ile nie zaznaczono inaczej.
 
 # Gwarancja
-To nie jest program, to nie dzia³a - nie dajemy gwarancji.
+To nie jest program, to nie dzia?a - nie dajemy gwarancji.
 
-# Odpowiedzialnoœæ
-Za szkody poniesione w wyniku nieprawid³owego stosowania niniejszego przek³adu, jakkolwiek by tego dokonano, odpowiada Ÿle stosuj¹cy.
-Autorzy nie ponosz¹ ¿adnej odpowiedzialnoœci za nieprawid³owe, zw³aszcza niezgodne z prawem, u¿ycie treœci t³umaczenia, lub jego fragmentu.
+# Odpowiedzialno??
+Za szkody poniesione w wyniku nieprawid?owego stosowania niniejszego przek?adu, jakkolwiek by tego dokonano, odpowiada ?le stosuj?cy.
+Autorzy nie ponosz? ?adnej odpowiedzialno?ci za nieprawid?owe, zw?aszcza niezgodne z prawem, u?ycie tre?ci t?umaczenia, lub jego fragmentu.
