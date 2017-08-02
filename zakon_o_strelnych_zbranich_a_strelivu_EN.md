@@ -2692,8 +2692,11 @@ TYPES OF AMMUNITION
 ********************************************************************************
 
 <sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [^](#fn1_ref)
+
 <sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [^](#fn1a_ref)
+
 <sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [^](#fn1b_ref)
+
 <sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [^](#fn2_ref)
 
 # 3
