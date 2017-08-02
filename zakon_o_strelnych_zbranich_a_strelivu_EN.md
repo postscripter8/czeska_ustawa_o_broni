@@ -30,7 +30,7 @@ Scope of Application
 
 (2) Unless otherwise stipulated hereunder, the Act shall not apply to
 
-(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<sup><a name="fn1_ref"/>[1)](#fn1)</sup>, of the security forces<sup><a name="fn1a_ref"/>[1)](#fn1a)</sup>, of the Military Intelligence Service<sup><a name="fn1b_ref"/>[1)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<sup><a name="fn2_ref"/>[2)](#fn1)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
+(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<sup><a name="fn1_ref"/>[1)](#fn1)</sup>, of the security forces<sup><a name="fn1a_ref"/>[1a)](#fn1a)</sup>, of the Military Intelligence Service<sup><a name="fn1b_ref"/>[1b)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<sup><a name="fn2_ref"/>[2)](#fn1)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
 
 b)        firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the &#39;Ministry&#39;), the Ministry of Defence, the armed forces of the Czech Republic
 
@@ -2691,10 +2691,10 @@ TYPES OF AMMUNITION
 
 ********************************************************************************
 
-<sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [?](#fn1_ref)
-<sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [?](#fn1a_ref)
-<sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [?](#fn1b_ref)
-<sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [?](#fn2_ref)
+<sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [^](#fn1_ref)
+<sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [^](#fn1a_ref)
+<sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [^](#fn1b_ref)
+<sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [^](#fn2_ref)
 
 # 3
 
