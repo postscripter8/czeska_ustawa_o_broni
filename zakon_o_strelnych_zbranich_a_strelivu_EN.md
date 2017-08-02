@@ -14,7 +14,7 @@ as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/200
 
 The Parliament has adopted the following Act of the Czech Republic:
 
-P A R T  on E
+P A R T   O N E
 
 FIREARMS AND AMMUNITION
 
@@ -30,25 +30,7 @@ Scope of Application
 
 (2) Unless otherwise stipulated hereunder, the Act shall not apply to
 
-(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic
-# 1
-
-# )
-, of the security forces
-# 1
-
-# (a)
-,
-#
-of the Military Intelligence Service
-# 1
-
-# b)
- or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation
-# 2
-
-# )
- or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
+(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic [^1], of the security forces [^1a], of the Military Intelligence Service [^1b] or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation [^2] or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
 
 b)        firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the &#39;Ministry&#39;), the Ministry of Defence, the armed forces of the Czech Republic
 
@@ -2708,25 +2690,12 @@ TYPES OF AMMUNITION
 
 
 
-# 1
+[^1]: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended.
+[^1a]: Act No. 361/2003 Coll. on the service of members of the security forces, as amended.
 
-# )
-    Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended.
+[^1b]: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll.
 
-# 1
-
-# (a)
-  Act No. 361/2003 Coll. on the service of members of the security forces, as amended.
-
-# 1
-
-# b)
-  Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll.
-
-# 2
-
-# )
-    For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic.
+[^2]: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic.
 
 # 3
 
