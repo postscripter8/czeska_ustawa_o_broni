@@ -26,11 +26,11 @@ Section 1
 
 Scope of Application
 
-(1)This Act shall regulate categories of firearms (hereinafter referred to as &#39;firearms&#39;) and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of  holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
+(1)This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of  holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
 (2) Unless otherwise stipulated hereunder, the Act shall not apply to
 
-(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic [^1], of the security forces [^1a], of the Military Intelligence Service [^1b] or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation [^2] or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
+(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<sup><a name="fn1_ref"/>[1)](#fn1)</sup>, of the security forces<sup><a name="fn1a_ref"/>[1)](#fn1a)</sup>, of the Military Intelligence Service<sup><a name="fn1b_ref"/>[1)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<sup><a name="fn2_ref"/>[2)](#fn1)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
 
 b)        firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the &#39;Ministry&#39;), the Ministry of Defence, the armed forces of the Czech Republic
 
@@ -2689,13 +2689,12 @@ TYPES OF AMMUNITION
 20. **Training projectile** ­– a projectile designed for acoustic and lighting imitation of sharp shooting.
 
 
+********************************************************************************
 
-[^1]: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended.
-[^1a]: Act No. 361/2003 Coll. on the service of members of the security forces, as amended.
-
-[^1b]: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll.
-
-[^2]: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic.
+<sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [?](#fn1_ref)
+<sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [?](#fn1a_ref)
+<sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [?](#fn1b_ref)
+<sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [?](#fn2_ref)
 
 # 3
 
