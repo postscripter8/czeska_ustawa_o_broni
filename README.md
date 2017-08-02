@@ -13,6 +13,7 @@ Nieustalona
 ## Plan wstêpny
 - [x] Import tekstu ustawy w jêzyku angielskim.
 - [x] Zmiana formatu dokumentu na tekstowy.
+- [ ] 20% Normalizacja tekstu w formacie markdown, usuniêcie b³êdów i dziwactw wynik³ych z automatycznej konwersji.
 - [ ] Podzia³ treœci mniejsze dokumenty nadaj¹ce siê do t³umaczenia.
 - [ ] Pozosta³e 99% roboty.
 - [ ] Synteza t³umaczenia.
