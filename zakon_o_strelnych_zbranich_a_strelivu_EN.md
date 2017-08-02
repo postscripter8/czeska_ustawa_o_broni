@@ -30,17 +30,17 @@ Scope of Application
 
 (2) Unless otherwise stipulated hereunder, the Act shall not apply to
 
-(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<a name="fn1_ref"/><sup>[1)](#fn1)</sup>, of the security forces<a name="fn1a_ref"/><sup>[1a)](#fn1a)</sup>, of the Military Intelligence Service<a name="fn1b_ref"/><sup>[1b)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<a name="fn2_ref"/><sup>[2)](#fn2)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
+(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<a name="fn1_ref"></a><sup>[1)](#fn1)</sup>, of the security forces<a name="fn1a_ref"></a><sup>[1a)](#fn1a)</sup>, of the Military Intelligence Service<a name="fn1b_ref"></a><sup>[1b)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<a name="fn2_ref"></a><sup>[2)](#fn2)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
 
 b) firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the 'Ministry'), the Ministry of Defence, the armed forces of the Czech Republic<sup>[1)](#fn1)</sup> the security forces <sup>[1a)](#fn1a)</sup>, the Military Intelligence Service<sup>[1b)](#fn1b)</sup> or armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation <sup>[2)](#fn2)</sup> or an international agreement which is part of the national legal framework;
 
-c) firearms and ammunition designated for testing by the Czech Proof House for Firearms and Ammunition<a name="fn3_ref"/><sup>[3)](#fn3)</sup>,
+c) firearms and ammunition designated for testing by the Czech Proof House for Firearms and Ammunition<a name="fn3_ref"></a><sup>[3)](#fn3)</sup>,
 
 d) firearms and ammunition deemed to be cultural heritage, part of a set declared to be cultural heritage or a collection in the possession of the state, regions and municipalities;
 
 e) establishing and operating shooting ranges by the Czech Proof House for Firearms and Ammunition, the Ministry, the Ministry of Defence, the armed forces of the Czech Republic <sup>[1)](#fn1)</sup>, security forces<sup>[1a)](#fn1a)</sup>, the Military Intelligence Service<sup>[1b)](#fn1b)</sup> or armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation<sup>[2)](#fn2)</sup>, or an international agreement which is part of the national legal framework;
 
-f) explosives defined by a special legal regulation<a name="fn3a_ref"/><sup>[3a)](#fn3a)</sup> (hereinafter referred to as an 'explosive') with the exception of explosives detected by target searches for unexploded ordnance.
+f) explosives defined by a special legal regulation<a name="fn3a_ref"></a><sup>[3a)](#fn3a)</sup> (hereinafter referred to as an 'explosive') with the exception of explosives detected by target searches for unexploded ordnance.
 
 (3) Should the state, a region or a municipality, the Czech Proof House for Firearms and Ammunition, the Ministry, the Ministry of Defence, the armed forces of the Czech Republic
 
