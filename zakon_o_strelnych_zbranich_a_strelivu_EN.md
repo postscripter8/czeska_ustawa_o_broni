@@ -30,49 +30,17 @@ Scope of Application
 
 (2) Unless otherwise stipulated hereunder, the Act shall not apply to
 
-(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<sup><a name="fn1_ref"/>[1)](#fn1)</sup>, of the security forces<sup><a name="fn1a_ref"/>[1a)](#fn1a)</sup>, of the Military Intelligence Service<sup><a name="fn1b_ref"/>[1b)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<sup><a name="fn2_ref"/>[2)](#fn1)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
+(a) firearms and ammunition which are acquired or possessed as part of the military equipment of armed forces of the Czech Republic<a name="fn1_ref"/><sup>[1)](#fn1)</sup>, of the security forces<a name="fn1a_ref"/><sup>[1a)](#fn1a)</sup>, of the Military Intelligence Service<a name="fn1b_ref"/><sup>[1b)](#fn1b)</sup> or of armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic, or flying over the territory of the Czech Republic under a special legal regulation<a name="fn2_ref"/><sup>[2)](#fn2)</sup> or an international agreement which is part of the national legal framework, and which are determined for meeting their tasks;
 
-b)        firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the &#39;Ministry&#39;), the Ministry of Defence, the armed forces of the Czech Republic
+b) firearms and ammunition possessed by the state and that held for collecting, research and development or museum purposes by the Ministry of the Interior (hereinafter referred to as the 'Ministry'), the Ministry of Defence, the armed forces of the Czech Republic<sup>[1)](#fn1)</sup> the security forces <sup>[1a)](#fn1a)</sup>, the Military Intelligence Service<sup>[1b)](#fn1b)</sup> or armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation <sup>[2)](#fn2)</sup> or an international agreement which is part of the national legal framework;
 
-# 1)
-,
-#
-the security forces
-# 1(a)
-,
-#
-the Military Intelligence Service
-# 1b)
-or armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation
-# 2)
-or an international agreement which is part of the national legal framework;
+c) firearms and ammunition designated for testing by the Czech Proof House for Firearms and Ammunition<a name="fn3_ref"/><sup>[3)](#fn3)</sup>,
 
-c)firearms and ammunition designated for testing by the Czech Proof House for Firearms and Ammunition
-# 3
+d) firearms and ammunition deemed to be cultural heritage, part of a set declared to be cultural heritage or a collection in the possession of the state, regions and municipalities;
 
-# )
-,
+e) establishing and operating shooting ranges by the Czech Proof House for Firearms and Ammunition, the Ministry, the Ministry of Defence, the armed forces of the Czech Republic <sup>[1)](#fn1)</sup>, security forces<sup>[1a)](#fn1a)</sup>, the Military Intelligence Service<sup>[1b)](#fn1b)</sup> or armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation<sup>[2)](#fn2)</sup>, or an international agreement which is part of the national legal framework;
 
-1. d)firearms and ammunition deemed to be cultural heritage, part of a set declared to be cultural heritage or a collection in the possession of the state, regions and municipalities;
-2. e)establishing and operating shooting ranges by the Czech Proof House for Firearms and Ammunition, the Ministry, the Ministry of Defence, the armed forces of the Czech Republic
-# 1)
-,
-#
-security forces
-# 1(a)
-,
-#
-the Military Intelligence Service
-# 1b)
-r armed forces or troops of other countries staying in the Czech Republic, crossing the national border of the Czech Republic and transiting through the Czech Republic or flying over the territory of the Czech Republic under a special legal regulation
-# 2)
-r an international agreement which is part of the national legal framework;
-
-f)        explosives defined by a special legal regulation
-# 3
-
-# (a)
- (hereinafter referred to as an &#39;explosive&#39;) with the exception of explosives detected by target searches for unexploded ordnance.
+f) explosives defined by a special legal regulation<a name="fn3a_ref"/><sup>[3a)](#fn3a)</sup> (hereinafter referred to as an 'explosive') with the exception of explosives detected by target searches for unexploded ordnance.
 
 (3) Should the state, a region or a municipality, the Czech Proof House for Firearms and Ammunition, the Ministry, the Ministry of Defence, the armed forces of the Czech Republic
 
@@ -142,15 +110,15 @@ Classification of Firearms and Ammunition
 
 (1)For the purpose of this Act firearms and ammunition shall be classified as follows:
 
-a)prohibited firearms, prohibited ammunition or prohibited accessories – category A (hereinafter referred to as &#39;category A firearms&#39;);
+a)prohibited firearms, prohibited ammunition or prohibited accessories – category A (hereinafter referred to as 'category A firearms');
 
-b)firearms subject to authorisation - category B (hereinafter referred to as &#39;category B firearms&#39;);
+b)firearms subject to authorisation - category B (hereinafter referred to as 'category B firearms');
 
-c)firearms subject to declaration - category C (hereinafter referred to as &#39;category C firearms&#39;); and
+c)firearms subject to declaration - category C (hereinafter referred to as 'category C firearms'); and
 
-d)other firearms - category D (hereinafter referred to as &#39;category D firearms&#39;);
+d)other firearms - category D (hereinafter referred to as 'category D firearms');
 
-e)ammunition for firearms of categories A through D which is not prohibited (hereinafter referred to as &#39;ammunition&#39;);
+e)ammunition for firearms of categories A through D which is not prohibited (hereinafter referred to as 'ammunition');
 
         (2)        Firearms included in categories A through D shall also mean the main parts of firearms which are or will make up the integral parts thereof.
 
@@ -279,7 +247,7 @@ Section  9
 # 9
 )
 
-(2)The Police of the Czech Republic (hereinafter referred to as the &#39;Police&#39;) may grant an exception to the holder of a firearm permit for group A or of a firearm licence for groups A, F, G, H, I, or J, who
+(2)The Police of the Czech Republic (hereinafter referred to as the 'Police') may grant an exception to the holder of a firearm permit for group A or of a firearm licence for groups A, F, G, H, I, or J, who
 
 a)is a collector or pursues museum related activities;
 
@@ -299,11 +267,11 @@ Section  10
 
 (1)The holder of  a firearm permit for group A or of a firearm licence for groups  A, F, G, H, I or J  shall apply for an exception under Section 9 (2) on an official form, the specimen of which shall be set out in the implementing legal regulation. The application shall encompass the following:
 
-a)the name, surname, maiden name, the date and place of birth and the place of residence of a natural person (hereinafter referred to as &#39;personal data&#39;), or the name of business name, legal form, seat and identification number of the legal person (hereinafter referred to as &#39;data identifying a legal entity&#39;);
+a)the name, surname, maiden name, the date and place of birth and the place of residence of a natural person (hereinafter referred to as 'personal data'), or the name of business name, legal form, seat and identification number of the legal person (hereinafter referred to as 'data identifying a legal entity');
 
-b)the type of the firearm, firearm manufacturer&#39;s trademark, model, calibre and serial number of the firearm, if the applicant is aware of it (hereinafter referred to as &#39;firearm data&#39;);
+b)the type of the firearm, firearm manufacturer's trademark, model, calibre and serial number of the firearm, if the applicant is aware of it (hereinafter referred to as 'firearm data');
 
-c)the type of prohibited ammunition, ammunition manufacturer&#39;s trademark, the calibre and the amount of ammunition in the case of an application for an exception to acquire and possess or to carry prohibited ammunition;
+c)the type of prohibited ammunition, ammunition manufacturer's trademark, the calibre and the amount of ammunition in the case of an application for an exception to acquire and possess or to carry prohibited ammunition;
 
 d)the type of prohibited accessory of the firearm and its description or a serial number;
 
@@ -311,9 +279,9 @@ e)the number of the firearm permit or firearm licence; and
 
 f)the purpose and reason for the requested exception.
 
-(2)Applications must be filed with the regional police directorate having competence over the place of residence of the respective natural person or the seat of legal entity (hereinafter referred to as the &#39;relevant police unit&#39;).
+(2)Applications must be filed with the regional police directorate having competence over the place of residence of the respective natural person or the seat of legal entity (hereinafter referred to as the 'relevant police unit').
 
- (3) The holder of a firearm permit for group A whose place of residence is in a Member State of the European Union, in any other state under the Agreement on the European Economic Area or the Swiss Confederation (hereinafter referred to as a &#39;Member State&#39;) shall be obliged to submit the consent of the Member State to such an exception under paragraph 1 or a statement indicating that such consent is not deemed to be necessary, translated into the Czech language by a certified interpreter recorded in the Register of Forensic Experts and Interpreters.
+ (3) The holder of a firearm permit for group A whose place of residence is in a Member State of the European Union, in any other state under the Agreement on the European Economic Area or the Swiss Confederation (hereinafter referred to as a 'Member State') shall be obliged to submit the consent of the Member State to such an exception under paragraph 1 or a statement indicating that such consent is not deemed to be necessary, translated into the Czech language by a certified interpreter recorded in the Register of Forensic Experts and Interpreters.
 
 Section  11
 
@@ -337,7 +305,7 @@ Section 12
 
 a)personal data or data identifying a legal entity;
 
-b)        data on the firearm in question; the firearm manufacturer&#39;s trademark, model, calibre and serial number of a firearm, if the applicant is aware of it;
+b)        data on the firearm in question; the firearm manufacturer's trademark, model, calibre and serial number of a firearm, if the applicant is aware of it;
 
 c)the number of the firearm permit or firearm licence; and
 
@@ -407,11 +375,11 @@ Section 16
 
 Firearm Permits and Their Groups
 
-(1)A firearm permit is a public instrument authorising a natural person to acquire and possess firearms and ammunition for such firearms within the scope of authorisation specified for individual groups of firearm permits, and within the scope of such authorisation to carry such firearm or to carry out activities in the field of unexploded ordnance under authorisation stipulated for a firearm permit of Group F. A firearm permit shall be issued for a period of five years. A firearm permit may be issued upon medical certification of the applicant&#39;s health condition for a period not exceeding five years.
+(1)A firearm permit is a public instrument authorising a natural person to acquire and possess firearms and ammunition for such firearms within the scope of authorisation specified for individual groups of firearm permits, and within the scope of such authorisation to carry such firearm or to carry out activities in the field of unexploded ordnance under authorisation stipulated for a firearm permit of Group F. A firearm permit shall be issued for a period of five years. A firearm permit may be issued upon medical certification of the applicant's health condition for a period not exceeding five years.
 
 (2)Firearm permits shall be distinguished according to the purpose for which the firearm or ammunition is to be used and according to the scope of authorisation, and shall be divided into the following groups:
 
-a)A – collectors&#39; purposes;
+a)A – collectors' purposes;
 
 b)B – sport purposes;
 
@@ -434,11 +402,11 @@ b)data indicating the group of a firearm permit.
 
 (2)Applicants shall be obliged to submit alongside the application
 
-a)medical certification of capability, in terms of health condition, to possess or carry a firearm and ammunition or, in the case of a firearm permit for group F, to carry out activities in the field of unexploded ordnance (hereinafter referred to as &#39;health capability&#39;);
+a)medical certification of capability, in terms of health condition, to possess or carry a firearm and ammunition or, in the case of a firearm permit for group F, to carry out activities in the field of unexploded ordnance (hereinafter referred to as 'health capability');
 
-b)a document on professional competence to possess or carry a firearm and ammunition or, in the case of a firearm permit for group F, to carry out activities in the field of unexploded ordnance (hereinafter referred to as &#39;professional competence&#39;); and
+b)a document on professional competence to possess or carry a firearm and ammunition or, in the case of a firearm permit for group F, to carry out activities in the field of unexploded ordnance (hereinafter referred to as 'professional competence'); and
 
-c)        two photographs sized 35 x 45 mm corresponding to the actual appearance of the applicant, displaying the applicant in a frontal view; the height of the face from the eyes to the chin must be at minimum 13 mm. The applicant shall be in civil clothes, without spectacles with tinted glass and without headwear unless the headwear is justified for religious or health reasons; in such case the headwear must not cover any part of the face whereby it is impossible to identify an applicant; the photographs must meet technical requirements laid down in an implementing legal regulation (hereinafter referred to as a &#39;photograph&#39;) **.**
+c)        two photographs sized 35 x 45 mm corresponding to the actual appearance of the applicant, displaying the applicant in a frontal view; the height of the face from the eyes to the chin must be at minimum 13 mm. The applicant shall be in civil clothes, without spectacles with tinted glass and without headwear unless the headwear is justified for religious or health reasons; in such case the headwear must not cover any part of the face whereby it is impossible to identify an applicant; the photographs must meet technical requirements laid down in an implementing legal regulation (hereinafter referred to as a 'photograph') **.**
 
 **       ** (3) In the case of an application for a firearm permit for group C the applicant shall be obliged to submit a hunting licence.
 
@@ -533,7 +501,7 @@ Section  21
 
 Professional Competence of an Applicant for a Firearm Permit for Groups A through E
 
-(1)An applicant for a firearm permit for groups A through E shall prove his/her professional competence by a qualifications examination taken before an examining commissionaire  who shall, after the applicant successfully passes the examination, issue a certificate proving the applicant&#39;s professional competence.
+(1)An applicant for a firearm permit for groups A through E shall prove his/her professional competence by a qualifications examination taken before an examining commissionaire  who shall, after the applicant successfully passes the examination, issue a certificate proving the applicant's professional competence.
 
 (2)The relevant police unit shall appoint an examining commissionaire.
 
@@ -831,7 +799,7 @@ e)submit, when required by the relevant police unit, a firearm permit, a firearm
 
 f)report forthwith at any police unit the loss or theft of a firearm of categories A, B or C, or of ammunition for such firearms, or of a firearm permit or a firearm certificate;
 
-g)exchange their firearm permit or firearm certificate at the relevant police unit for a new one if the firearm permit or firearm certificate holder&#39;s name, surname or the place of residence has been changed; he/she shall be obliged to do so within ten working days from the date on which such change occurred and at the same time to hand over all original documents;
+g)exchange their firearm permit or firearm certificate at the relevant police unit for a new one if the firearm permit or firearm certificate holder's name, surname or the place of residence has been changed; he/she shall be obliged to do so within ten working days from the date on which such change occurred and at the same time to hand over all original documents;
 
 h)carry their firearm permit and firearm certificate if he/she is carrying a firearm of categories  A, B or C or ammunition for such firearm;
 
@@ -884,7 +852,7 @@ d)        shoot a firearm without an affixed proof mark
 9. i)ensure that his/her firearm permit is not abused, lost, or stolen;
 10. j)submit, when required by the relevant police unit, his/her firearm permit to be examined by the police;
 11. k)report forthwith at the relevant police unit the loss or theft of his/her firearm permit and discovered unexploded artillery ammuntion or explosives;
-12. l)exchange his/her firearm permit or firearm certificate at the relevant police unit for a new one if the firearm permit or firearm certificate holder&#39;s name, surname or the place of residence  has been changed; the permit holder shall be obliged to do so within ten working days from the date on which such change occurred and at the same time to render all original documents;
+12. l)exchange his/her firearm permit or firearm certificate at the relevant police unit for a new one if the firearm permit or firearm certificate holder's name, surname or the place of residence  has been changed; the permit holder shall be obliged to do so within ten working days from the date on which such change occurred and at the same time to render all original documents;
 13. m)carry his/her firearm permit when carring out activities in the field of unexploded ordnanceand searching for unexploded artillery ammunition or explosives;
 14. n)submit, after being required to do so by a police officer, prior to performing activities in question or during the performance of such activities, to an indicative test by breathalyzer or to a medical examination in order to determine whether he/she is intoxicated;11)
 15. )forthwith record discovered unexploded artillery ammuntion or explosives in a register; and
@@ -960,7 +928,7 @@ c)requested to be removed.
 
 (12) The Ministry shall suspend the activities of an examining commissionaire prior to the period for which he/she was appointed lapsing if
 
-a)the examining commissionaire&#39;s firearm permit has been withdrawn (Section 57); any examining commissionaire shall be obliged to forthwith inform the Ministry thereof;
+a)the examining commissionaire's firearm permit has been withdrawn (Section 57); any examining commissionaire shall be obliged to forthwith inform the Ministry thereof;
 
 b)there is a reasonable suspicion that the examining commissionaire gravely or repeatedly violated legal provisions regulating the qualifications examination for applicants for a firearm permit.
 
@@ -1050,7 +1018,7 @@ c)        the address of production, holding, storing, using or destroying firea
 
 # );
 
-d)personal data of the person who within his/her job fulfils duties concerning holding, storing or using firearms or ammunition  and who is the holder of a firearm permit of a relevant group (hereinafter referred to as a &#39;gunsmith&#39;) including the number of the firearm permit if a firearm licence for groups A through J is concerned;
+d)personal data of the person who within his/her job fulfils duties concerning holding, storing or using firearms or ammunition  and who is the holder of a firearm permit of a relevant group (hereinafter referred to as a 'gunsmith') including the number of the firearm permit if a firearm licence for groups A through J is concerned;
 
 e)personal data of the responsible representative or the member of the statutory body of a legal entity or personal data of the responsible representative of a natural person if such representative has been established;  and
 
@@ -1252,7 +1220,7 @@ b)to issue to the firearm holder a certificate on the destruction of his/her fir
 
 (5)Maintenance of records pursuant to paragraph 1 (k) and (l) shall be stipulated in an implementing legal regulation.
 
-(6)If a firearm licence holder carries out activities independently, he/she shall not be obliged to meet obligations referred to in paragraphs (a), (c), (i) and (l).  Nonetheless, such holder shall be obliged to meet all gunsmith&#39;s obligations laid down in Section 40 (1) (b) and (e).
+(6)If a firearm licence holder carries out activities independently, he/she shall not be obliged to meet obligations referred to in paragraphs (a), (c), (i) and (l).  Nonetheless, such holder shall be obliged to meet all gunsmith's obligations laid down in Section 40 (1) (b) and (e).
 
 (7) The holder of a firearm licence for group K shall be obliged
 
@@ -1375,7 +1343,7 @@ c)the place where the firearm of category A, B or C or ammunition for such firea
 
 d)the particulars enabling identification of the firearm of category A, B or C;
 
-e)the particulars enabling identification of the ammunition (type, manufacturer&#39;s trademark, calibre, and amount);
+e)the particulars enabling identification of the ammunition (type, manufacturer's trademark, calibre, and amount);
 
 f)data concerning the type and amount of smokeless powder or black powder;
 
@@ -1436,7 +1404,7 @@ Transit of Firearms and Ammunition
 
 (5)Authorisation pursuant to paragraph 2 shall not be obligatory for a hunter from a Member State being in possession of a firearm and ammunition of category C or a marksman in respect of sporting firearms of category B or C and ammunition for them provided that they are in possession of the European firearms pass listing such transporting firearms and provided that they are able to substantiate the reason for his/her journey, in particular by producing an invitation under paragraph 4.
 
-(6)Authorisation pursuant to paragraph 2 shall not be obligatory for other holders of a European firearms pass for firearms of category B or C and ammunition for such firearms in the case of transit, if the firearm is recorded in the pass and if the Police Presidium of the Czech Republic (hereinafter referred to as the &#39;Police Presidium&#39;) granted its authorisation in advance. Such authorisation may be granted for a period of up to one year and shall be entered in the European firearms pass and may be extended always for one more year.
+(6)Authorisation pursuant to paragraph 2 shall not be obligatory for other holders of a European firearms pass for firearms of category B or C and ammunition for such firearms in the case of transit, if the firearm is recorded in the pass and if the Police Presidium of the Czech Republic (hereinafter referred to as the 'Police Presidium') granted its authorisation in advance. Such authorisation may be granted for a period of up to one year and shall be entered in the European firearms pass and may be extended always for one more year.
 
 (7)Travellers from a third country who travel to a Member State must produce, when being checked  at the external border of the European Union, the authorisation of each Member State through which they intend to travel with a firearm or ammunition.
 
@@ -1480,7 +1448,7 @@ a)        it expires;
 
 b)        its loss or theft is reported; or
 
-c)        its holder&#39;s firearm permit has been terminated or a decision on the withdrawal of the firearm permit comes into effect (Section 27).
+c)        its holder's firearm permit has been terminated or a decision on the withdrawal of the firearm permit comes into effect (Section 27).
 
 (6) The relevant police unit shall decide on terminating the validity of a European firearms pass if
 
@@ -1496,7 +1464,7 @@ If the holder of a European firearms pass recognises the reason for termination 
 
 (8) If the validity of a European firearms passis terminated under paragraph (5) (b) or paragraph 6 (a) or (c), the relevant police unit shall issue, after two photographs have been presented by an applicant for a European firearm pass a new European firearms passwithout any application, with the period of validity being the same as that of the original European firearms pass. If a European firearms passis issued as a replacement for a lost or stolen European firearms passit shall be clearly indicated that it is a duplicate.
 
-** ** (9) The relevant police unit shall retain or withdraw a European firearms pass if its holder&#39;s firearm permit is also retained or withdrawn.
+** ** (9) The relevant police unit shall retain or withdraw a European firearms pass if its holder's firearm permit is also retained or withdrawn.
 
 Section 50
 
@@ -1727,7 +1695,7 @@ Securing Firearms and Ammunition
 
 ** ** (1) Carried or transported firearms of category A, B or C or ammunition for them shall be under the permanent supervision of the holder of a firearm permit or a holder of a firearm letter of conveyance for permanent export, permanent import or transit of firearms and ammunitionwho transports them.  Carried or transported firearms of category D and ammunition for them shall be under the permanent supervision of their authorised holder.
 
-(2)Possessed firearms of category A, B or C in custody, deposited or stored (hereinafter referred to as &#39;kept firearms&#39;) in the amount of ten pieces, or ammunition in the amount of up to 10,000 cartridges, shall be secured by being deposited in a lockable steel case or a lockable steel cabinet or special locked equipment so long as such case, cabinet or equipment meet technical requirements stipulated by the implementing legal regulation. The provisions of this paragraph shall not apply to kept firearms of category B or C in the amount of two pieces or ammunition in the amount of up to 500 cartridges, however, the holder shall be obliged to secure them in a suitable way against abuse, loss and theft.
+(2)Possessed firearms of category A, B or C in custody, deposited or stored (hereinafter referred to as 'kept firearms') in the amount of ten pieces, or ammunition in the amount of up to 10,000 cartridges, shall be secured by being deposited in a lockable steel case or a lockable steel cabinet or special locked equipment so long as such case, cabinet or equipment meet technical requirements stipulated by the implementing legal regulation. The provisions of this paragraph shall not apply to kept firearms of category B or C in the amount of two pieces or ammunition in the amount of up to 500 cartridges, however, the holder shall be obliged to secure them in a suitable way against abuse, loss and theft.
 
 (3)More than ten kept firearms and more than 10,000 cartridges shall be secured in
 
@@ -2490,7 +2458,7 @@ Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended b
 
 &quot;For production, repairs, modification, deactivation and destruction of ammunition a licence of an explosive disposal technician who shall be at least 21 years old.
 
-For development of ammunition, higher education1) attained by completing a bachelor&#39;s, master&#39;s or doctoral study programme in the field of technical sciences and technologies, a study field of theory and technology of explosives&quot;.
+For development of ammunition, higher education1) attained by completing a bachelor's, master's or doctoral study programme in the field of technical sciences and technologies, a study field of theory and technology of explosives&quot;.
 
 
 
@@ -2545,7 +2513,7 @@ Entry into effect of the amendments
 5. Act No. 359/2005 Coll. amending Act No. 40/1964 Coll. the Civil Code, as amended, and some related acts came into effect on the first day of the calendar month  following the date of its publication (1 October 2005).
 6. Act No. 444/2005 Coll. amending Act No. 531/1990 Coll. on territorial financial authorities, as amended and some related acts came into effect on 1 January 2006.
 7. Act No. 310/2006 Coll. on managing certain articles which can be used for defence and security purposes in the Czech Republic (the Act on Managing Dangerous Material) came into effect on 1 July 2006.
-8. Act No. 170/2007 Coll. amending some acts relating to the Czech Republic&#39;s accession to the Schengen area came into effect on the date that checks at the national  border were abolished, laid down in the Decision of the Council of the European Union concerning the entry into force of the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders signed at Schengen in the Grand Duchy of Luxembourg on 19 June 1990, on the gradual abolition of checks at the national border of the Czech Republic (21 December 2007).
+8. Act No. 170/2007 Coll. amending some acts relating to the Czech Republic's accession to the Schengen area came into effect on the date that checks at the national  border were abolished, laid down in the Decision of the Council of the European Union concerning the entry into force of the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders signed at Schengen in the Grand Duchy of Luxembourg on 19 June 1990, on the gradual abolition of checks at the national border of the Czech Republic (21 December 2007).
 9. Act No. 124/2008 Coll. amending Act No. 269/1994 Coll. on the Register of Criminal Records, as amended, and some other acts came into effect on 1 July 2008.
 10. Act No. 189/2008 Coll. amending Act No. 18/2004 Coll. on the recognition of professional qualifications and other competences of nationals of Member States of the European Union and nationals of other countries and on the amendment to some other acts (Act on the Recognition of Professional Qualifications), as amended, and other related acts came into effect on the first day of the calendar month following the date of its publication (1 July 2008).
 11. Act No. 274/2008 Coll. amending some acts in relation to the adoption of the Act on the Police of the Czech Republic came into effect on 1 January 2009.
@@ -2691,176 +2659,80 @@ TYPES OF AMMUNITION
 
 ********************************************************************************
 
-<sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [^](#fn1_ref)
+<sup><a name="fn1">1)</a></sup>: Act No. 219/1999 Coll. on armed forces of the Czech Republic, as amended. [^](#fn1_ref "Powrót do treœci...")
 
-<sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [^](#fn1a_ref)
+<sup><a name="fn1a">1a)</a></sup>: Act No. 361/2003 Coll. on the service of members of the security forces, as amended. [^](#fn1a_ref "Powrót do treœci...")
 
-<sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [^](#fn1b_ref)
+<sup><a name="fn1b">1b)</a></sup>: Act No. 289/2005 Coll. on the Military Intelligence Service, as amended by Act No. 274/2008 Coll. [^](#fn1b_ref "Powrót do treœci...")
 
-<sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [^](#fn2_ref)
+<sup><a name="fn2">2)</a></sup>: For example Act No 310/1999 Coll. on the stay of armed forces of other countries in the Czech Republic. [^](#fn2_ref "Powrót do treœci...")
 
-# 3
+<sup><a name="fn3">3)</a></sup>: Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges, as amended. [^](#fn3_ref "Powrót do treœci...")
 
-# )
-  Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges, as amended.
+<sup><a name="fn3a">3a)</a></sup>: Sec. 21  (1) of Act No. 61/1988 Coll. on mining, explosives and state mining administration, as amended. [^](#fn3a_ref "Powrót do treœci...")
 
-# 3
+<sup><a name="fn3b">3b)</a></sup>: For example Act No. 219/1999 Coll. as amended, Act No. 20/1987 Coll. on state monument care as amended by Act No. 122/2000 Coll. on the protection of museum and related collections and on the amendment to some other acts, as amended. [^](#fn3b_ref "Powrót do treœci...")
 
-# (a)
- Sec. 21  (1) of Act No. 61/1988 Coll. on mining, explosives and state mining administration, as amended.
+<sup><a name="fn4">4)</a></sup>: Sec. 10 (1) of Act No. 133/2000 Coll. on registers of inhabitants and birth identification numbers and on the amendment to some other acts (the Act on Registers of Inhabitants). [^](#fn4_ref "Powrót do treœci...")
 
-# 3b)
- For example Act No. 219/1999 Coll. as amended, Act No. 20/1987 Coll. on state monument care as amended by Act No. 122/2000 Coll. on the protection of museum and related collections and on the amendment to some other acts, as amended.
+<sup><a name="fn5">5)</a></sup>: Sec. 30 through 34, Sec. 49 and Sec. 65 through 87 of Act No. 326/1999 Coll. on the Rresidence of aliens in the Czech Republic and on the amendment to some other acts, as amended by Act No. 140/2001 Coll. [^](#fn5_ref "Powrót do treœci...")
 
-# 4
-)Sec. 10 (1) of Act No. 133/2000 Coll. on registers of inhabitants and birth identification numbers and on the amendment to some other acts (the Act on Registers of Inhabitants).
+<sup><a name="fn6">6)</a></sup>: Sec. 1 (2) of Act No. 326/1999 Coll. [^](#fn6_ref "Powrót do treœci...")
 
-# 5
+<sup><a name="fn7">7)</a></sup>: For example Act No. 455/1991 Coll. on trade licences (the Trade Licensing Acts), as amended. [^](#fn7_ref "Powrót do treœci...")
 
-# 5
-)        Sec. 30 through 34, Sec. 49 and Sec. 65 through 87 of Act No. 326/1999 Coll. on the Rresidence of aliens in the Czech Republic and on the amendment to some other acts, as amended by Act No. 140/2001 Coll.
+<sup><a name="fn8">8)</a></sup>: Sec. 17 of Act No. 156/2000 Coll. [^](#fn8_ref "Powrót do treœci...")
 
-# 6
+<sup><a name="fn9">9)</a></sup>: For example Act No. 38/1994 Coll. on international trade in military material and on supplementing Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended and Act No. 140/1961 Coll. the Criminal Code, as amended, Act No. 42/1980 Coll. on economic relations with foreign countries, as amended and Act No. 62/2000 Coll. on some measures concerning the export and import of products and on licensing procedures and amending some other acts. [^](#fn9_ref "Powrót do treœci...")
 
-# 6
-)        Sec. 1 (2) of Act No. 326/1999 Coll.
+<sup><a name="fn10">10)</a></sup>: For example Act No. 553/1991 Coll. on the municipal police, as amended. [^](#fn10_ref "Powrót do treœci...")
 
-# 7
+<sup><a name="fn11">11)</a></sup>: Sec. 2 (a) of Act No. 167/1998 Coll. on addictive substances and on the amendment to some other acts. [^](#fn11_ref "Powrót do treœci...")
 
-# 7
-)        For example Act No. 455/1991 Coll. on trade licences (the Trade Licensing Acts), as amended.
+<sup><a name="fn11a">11a)</a></sup>: Sec. 15a of Act No. 326/1999 Coll. as amended. [^](#fn11a_ref "Powrót do treœci...")
 
-# 8
-)  Sec. 17 of Act No. 156/2000 Coll.
+<sup><a name="fn11b">11b)</a></sup>: Sec. 83 through 85 of Act No. 326/1999 Coll. as amended by Act No. 161/2006 Coll. [^](#fn11b_ref "Powrót do treœci...")
 
-)For example Act No. 38/1994 Coll. on international trade in military material and on supplementing Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended and Act No. 140/1961 Coll. the Criminal Code, as amended, Act No. 42/1980 Coll. on economic relations with foreign countries, as amended and Act No. 62/2000 Coll. on some measures concerning the export and import of products and on licensing procedures and amending some other acts.
+<sup><a name="fn11c">11c)</a></sup>: Sec. 42c of Act No. b326/1999 Coll. as amended by Act No. 161/2006 Coll. [^](#fn11c_ref "Powrót do treœci...")
 
+<sup><a name="fn11d">11d)</a></sup>: Act No. 18/2004 Coll. on the recognition of professional qualifications and other competences of nationals of Member States of the European Union and nationals of other countries and on the amendment to some other acts (Act on the Recognition of Professional Qualifications), as amended. [^](#fn11d_ref "Powrót do treœci...")
 
+<sup><a name="fn11e">11e)</a></sup>: Sec. 11 (3), Sec. 172 (4) and Sec. 227 of the Code of Criminal Procedure [^](#fn11e_ref "Powrót do treœci...")
 
-# 10
-)        For example Act No. 553/1991 Coll. on the municipal police, as amended.
+<sup><a name="fn11f">11f)</a></sup>: Sec. 70 (5) and (6) of Act No. 218/2003 Coll. on the liability of juveniles for illegal acts and on juvenile courtsand on the amendment to some other acts (the Act on Juvenile Courts). [^](#fn11f_ref "Powrót do treœci...")
 
-# 11
-)        Sec. 2 (a) of Act No. 167/1998 Coll. on addictive substances and on the amendment to some other acts.
+<sup><a name="fn12">12)</a></sup>: Sec. 10 (2) of Act No. 269/1994 Coll. on the Register of Criminal Records, as amended by Act No. 126/2003 Coll. [^](#fn12_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn13">13)</a></sup>: Act No. 141/1961 Coll. on criminal law procedure (the Code of Criminal Procedure), as amended. [^](#fn13_ref "Powrót do treœci...")
 
-# 1(a)
-Sec. 15a of Act No. 326/1999 Coll. as amended.
+<sup><a name="fn13a">13a)</a></sup>: For example Act No. 218/2003 Coll. as amended. [^](#fn13a_ref "Powrót do treœci...")
 
-# 1
+*[przypis 14) nieobecny w oryginale, przyp. t³umacza]*
 
-# 1b)
-  Sec. 83 through 85 of Act No. 326/1999 Coll. as amended by Act No. 161/2006 Coll.
+<sup><a name="fn15">15)</a></sup>: For example Act No. 19/1997 Coll. on some measures concerning the banning of chemical weapons and on the amendment and supplement to Act No. 50/1976 Coll. on spatial planning and on the rules of construction (the Construction Act), as amended, Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended, and Act No. 140/1961 Coll. the Criminal Code, as amended, Act No. 305/1999 Coll. on banning the use, storage, manufacture, and transfer of anti-personnel mines and on ordering their destruction and on the amendment to Act No. 140/1961 Coll. the Criminal Code, as amended. [^](#fn15_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn16">16)</a></sup>: Act No. 97/1974 Coll. on archiving, as amended [^](#fn16_ref "Powrót do treœci...")
 
-# 1c)
- Sec. 42c of Act No. b326/1999 Coll. as amended by Act No. 161/2006 Coll. **       **
+<sup><a name="fn17">17)</a></sup>: Sec. 17 (1 a 2 Act No. 455/1991 Coll. [^](#fn17_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn17a">17a)</a></sup>: Act No. 227/2000 Coll. on electronic signatures and on the amendment to some other acts (the Act On Electronic Signatures), as amended. [^](#fn17a_ref "Powrót do treœci...")
 
-# 1d
-) Act No. 18/2004 Coll. on the recognition of professional qualifications and other competences of nationals of Member States of the European Union and nationals of other countries and on the amendment to some other acts (Act on the Recognition of Professional Qualifications), as amended.
+<sup><a name="fn17b">17b)</a></sup>: Act No. 216/2002 Coll. , on protection of the national border of the Czech Republic and on the amendment to some other acts (the Act on the Protection of the National Border) as amended by Act No. 481/2004 Coll. [^](#fn17b_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn18">18)</a></sup>: For example Sec. 22 and 23 of Act 111/1994 Coll. on road transport as amended by Act No. 304/1997 Coll. and Act No. 150/2000 Coll. [^](#fn18_ref "Powrót do treœci...")
 
-# 1e)
- Sec. 11 (3), Sec. 172 (4) and Sec. 227 of the Code of Criminal Procedure
+<sup><a name="fn18_2">18)</a></sup>: For example Sec. 22 and 23 of Act 111/1994 Coll. on road transport as amended by Act No. 304/1997 Coll. and Act No. 150/2000 Coll. [^](#fn18_ref "Powrót do treœci...") *[przypis 18 obecny dwukrotnie równie¿ w oryginale, przyp. t³umacza]*
 
-# 1
+<sup><a name="fn19">19)</a></sup>: For example Act No. 50/1976 Coll. on spatial planning and the rules of construction (the Act on Construction), as amended [^](#fn19_ref "Powrót do treœci...")
 
-# 1
-f
-# )
- Sec. 70 (5) and (6) of Act No. 218/2003 Coll. on the liability of juveniles for illegal acts and on juvenile courtsand on the amendment to some other acts (the Act on Juvenile Courts).
+<sup><a name="fn20">20)</a></sup>: Act No. 552/1991 Coll. on state inspection, as amended. [^](#fn20_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn20a">20a)</a></sup>: Act No. 379/2005 Coll. on measures adopted to protect damage caused by tobacco products, alcohol and other addictive substances and on the amendment to other related acts, as amended. [^](#fn20a_ref "Powrót do treœci...")
 
-# 2
+<sup><a name="fn21">21)</a></sup>: Sec. 2 (2) of the Commercial Code [^](#fn21_ref "Powrót do treœci...")
 
-# )
-Sec. 10 (2) of Act No. 269/1994 Coll. on the Register of Criminal Records, as amended by Act No. 126/2003 Coll.
+<sup><a name="fn22">22)</a></sup>: Sec. 151 of Act No. 500/2004 Coll., the Rules of Administrative Procedure. [^](#fn22_ref "Powrót do treœci...")
 
-# 1
+<sup><a name="fn23">23)</a></sup>: Decree No. 371/2002 Coll. laying down the procedure for deactivating and destructing firearms, ammunition and for production of their cuts as amended by Decree 632/2004 Coll. [^](#fn23_ref "Powrót do treœci...")
 
-# 3)
- Act No. 141/1961 Coll. on criminal law procedure (the Code of Criminal Procedure), as amended.
-
-# 1
-
-# 3(a)
-  For example Act No. 218/2003 Coll. as amended.
-
-# 1
-
-# 5
-)        For example Act No. 19/1997 Coll. on some measures concerning the banning of chemical weapons and on the amendment and supplement to Act No. 50/1976 Coll. on spatial planning and on the rules of construction (the Construction Act), as amended, Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended, and Act No. 140/1961 Coll. the Criminal Code, as amended, Act No. 305/1999 Coll. on banning the use, storage, manufacture, and transfer of anti-personnel mines and on ordering their destruction and on the amendment to Act No. 140/1961 Coll. the Criminal Code, as amended.
-
-# 1
-
-# 6
-)        Act No. 97/1974 Coll. on archiving, as amended
-
-# 1
-
-# 7)
-        Sec. 17 (1 a 2 Act No. 455/1991 Coll.
-
-# 1
-
-# 7(a)
-Act No. 227/2000 Coll. on electronic signatures and on the amendment to some other acts (the Act On Electronic Signatures), as amended.
-
-# 1
-
-# 7b)
-Act No. 216/2002 Coll. , on protection of the national border of the Czech Republic and on the amendment to some other acts (the Act on the Protection of the National Border) as amended by Act No. 481/2004 Coll.
-
-# 1
-
-# 8
-)        For example Sec. 22 and 23 of Act 111/1994 Coll. on road transport as amended by Act No. 304/1997 Coll. and Act No. 150/2000 Coll.
-
-# 1
-
-# 8
-)        For example Sec. 22 and 23 of Act 111/1994 Coll. on road transport as amended by Act No. 304/1997 Coll. and Act No. 150/2000 Coll.
-
-# 1
-
-# 9)
-)        For example Act No. 50/1976 Coll. on spatial planning and the rules of construction (the Act on Construction), as amended
-
-# 2
-
-# 0)
-        Act No. 552/1991 Coll. on state inspection, as amended.
-
-# 2
-
-# 0(a)
-Act No. 379/2005 Coll. on measures adopted to protect damage caused by tobacco products, alcohol and other addictive substances and on the amendment to other related acts, as amended.
-
-
-
-# 2
-
-# 1)
- Sec. 2 (2) of the Commercial Code
-
-# 2
-
-# 2)
- Sec. 151 of Act No. 500/2004 Coll., the Rules of Administrative Procedure.
-
-# 2
-
-# 3)
-Decree No. 371/2002 Coll. laying down the procedure for deactivating and destructing firearms, ammunition and for production of their cuts as amended by Decree 632/2004 Coll.
-
-# 2
-
-# 3)
-Decree No. 371/2002 Coll. laying down the procedure for deactivating and destroying firearms and ammunition and for the production of their cuts???????? as amended by Decree  632/2004 Coll.
-
+<sup><a name="fn23_2">23)</a></sup>: Decree No. 371/2002 Coll. laying down the procedure for deactivating and destroying firearms and ammunition and for the production of their cuts???????? as amended by Decree  632/2004 Coll. [^](#fn23_ref "Powrót do treœci...") *[przypis 23 obecny dwukrotnie równie¿ w oryginale, przyp. t³umacza]*
