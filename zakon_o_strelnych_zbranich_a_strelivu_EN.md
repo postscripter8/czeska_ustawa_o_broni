@@ -465,9 +465,7 @@ b) fixed arget shooting.
 
 (9) The content of the theoretical and practical parts of the qualifications examination and overall evaluation of the qualifications examination of applicants for a firearm permit for groups A through E as well as the amount of remuneration for the examining commissionaire shall be stipulated by the implementing legal regulation.
 
-# Section 21a
-
-# Professional Competence of an Applicant for a Firearm Permit for Group F
+### <a name="section_21a"></a><p align="center">Section 21a <br /> **Professional Competence of an Applicant for a Firearm Permit for Group F**</p>
 
 (1) An applicant for a firearm permit for group F shall prove his/her professional competence by the qualifications examination taken before an examining commission appointed by the Minister of the Interior and consisting of representatives designated by the Ministry, the police, the Ministry of Defence, the Ministry of Industry and Trade, and the Czech Mining Authority.
 
@@ -1880,11 +1878,9 @@ g) check how gunsmiths and shooting range managers meet their obligations.
 
 ## <a name="title_12"></a><p align="center">T I T L E &emsp; XII <br /> ADMINISTRATIVE &emsp; INFRACTIONS</p>
 
-Minor Offences
+### <a name="section_76"></a><p align="center"> **Minor Offences** <br /> Section 76</p>
 
-### <a name="section_76"></a><p align="center">Section 76</p>
-
-###### (1) A natural person shall commit a minor offence if he/she
+(1) A natural person shall commit a minor offence if he/she
 
 a) acquires, possesses or carries a firearm contrary to Section 8;
 
@@ -1920,7 +1916,7 @@ e) the holder of a firearm letter of conveyance for permanent export, permanent 
 
 f) a shooting range operator, he/she does not meet his/her reporting duty under Section 54 (1).
 
-###### (3) A minor offence may be sanctioned by a fine of up to
+(3) A minor offence may be sanctioned by a fine of up to
 
 a) CZK 50,000 in the case of a minor offence under paragraph 1 (a), (d) or (h);
 
@@ -1930,7 +1926,7 @@ c) CZK 20,000 in the case of a minor offence under paragraph 1 (f) or (g);
 
 d) CZK 15,000 in the case of a minor offence under paragraph 1 (c), (e), (i), ( j) or paragraph 2.
 
-###### Section 76a
+### <a name="section_76a"></a><p align="center">Section 76a</p>
 
 (1) The holder of a firearm of category D shall commit a minor offence if he/she
 
@@ -2040,15 +2036,15 @@ c) CZK 20,000 in the case of a minor offence under paragraph 8 (a) through (e), 
 
 d) CZK 15,000 in the case of a minor offence under paragraph 1 (c) or paragraph 6 (b) or (c).
 
-###### Section 76b
+### <a name="section_76b"></a><p align="center">Section 76b</p>
 
-###### (1) A gunsmith or a person referred to in Section 40 (2) shall commit a minor offence if he/she
+(1) A gunsmith or a person referred to in Section 40 (2) shall commit a minor offence if he/she
 
 a) hands out a firearm or ammunition contrary to Section 40 (1) (a); or
 
 b) does not respect conditions of storing, keeping and handling black hunting powder, smokeless powder and primers laid down in the implementing legal regulation published under Section 79 (1).
 
-###### (2) A shooting range manager shall commit a minor offence if he/she
+(2) A shooting range manager shall commit a minor offence if he/she
 
 a) does not wear a badge under Section 55 (2) (a);
 
@@ -2058,23 +2054,21 @@ c) does not ensures operation including guarding of the shooting range in compli
 
 d) does not report to a police unit, without undue delay, any injury or death of a person during shooting or handling a firearm at the shooting range.
 
-###### (3) An assessing physician shall commit a minor offence if he/she, contrary to Section 20 (3) does not issue new medical certification of health capability or does not send it to the relevant police unit or does not inform the relevant employer.
+(3) An assessing physician shall commit a minor offence if he/she, contrary to Section 20 (3) does not issue new medical certification of health capability or does not send it to the relevant police unit or does not inform the relevant employer.
 
-###### (4) A doctor shall commit a minor offence if he/she does not meet his/her reporting duty under Section 20 (4).
+(4) A doctor shall commit a minor offence if he/she does not meet his/her reporting duty under Section 20 (4).
 
-###### (5) An examining commissionaire shall commit a minor offence if he/she does not, contrary to Section 30a (3) surrender the licence of an examining commissionaire the validity of which has terminated under Section 30a (1) (a), (c) or (d) or under Section 30a (2).
+(5) An examining commissionaire shall commit a minor offence if he/she does not, contrary to Section 30a (3) surrender the licence of an examining commissionaire the validity of which has terminated under Section 30a (1) (a), (c) or (d) or under Section 30a (2).
 
-###### (6) A minor offence may be sanctioned by a fine of up to
+(6) A minor offence may be sanctioned by a fine of up to
 
 a) CZK 50,000 in the case of a minor offence under paragraphs 1 through 4;
 
 b) CZK 15,000 in the case of a minor offence under paragraph 5.
 
-###### **Administrative Infractions of Legal Entities and Natural Persons (Entrepreneurs) **
+### <a name="section_76c"></a><p align="center">**Administrative Infractions of Legal Entities and Natural Persons (Entrepreneurs)** <br /> Section 76c</p>
 
-###### Section 76c
-
-###### (1) A legal entity or a natural person (entrepreneur) shall commit an administrative infraction if they acquires or possess a firearm and ammunition contrary to Section 8.
+(1) A legal entity or a natural person (entrepreneur) shall commit an administrative infraction if they acquires or possess a firearm and ammunition contrary to Section 8.
 
 (2) A legal entity or a natural person (entrepreneur) shall commit an administrative infraction if as
 
@@ -2090,7 +2084,7 @@ e) the holder of a firearm letter of conveyance for the permanent export, perman
 
 f) a shooting range operator, he/she does not meet his/her reporting duty under Section 54 (1).
 
-###### (3) An administrative infraction may be sanctioned by a fine of up to
+(3) An administrative infraction may be sanctioned by a fine of up to
 
 a) CZK 50,000 in the case of a minor offence under paragraph 1 (a), (d) or (h);
 
@@ -2098,7 +2092,7 @@ b) CZK 30,000 in the case of a minor offence under paragraph 1 (b);
 
 ### <a name="section_76d"></a><p align="center">Section 76d</p>
 
-###### (1) The holder of a firearm licence of groups A through J shall commit an administrative infraction if he/she
+(1) The holder of a firearm licence of groups A through J shall commit an administrative infraction if he/she
 
 a) does not establish a gunsmith under Section 39 (1) (a);
 
@@ -2132,7 +2126,7 @@ o) transfers legal title to a firearm or ammunition to a person who is not autho
 
 p) provides a firearm or ammunition which he/she is authorised to hold to meet assignments stipulated in a firearm licence to a person who is not a holder of a firearm permit of the relevant group or who is not an employee, a member of, or who is not in similar relationship with the holder of the firearm licence.
 
-###### (2) The holder of a firearm licence for groups B or E shall commit an administrative infraction if he/she
+(2) The holder of a firearm licence for groups B or E shall commit an administrative infraction if he/she
 
 a) does not respect the procedure stipulated for deactivating a firearm of category A, B or C or ammunition in Section 39 (2) (a);
 
@@ -2140,7 +2134,7 @@ b) does not mark a deactivated firearm under Section 39 (2) (b); or
 
 c) does not issue to the holder of a firearm a document certifying deactivation of a firearm or ammunition or production of a cut or ammunition.
 
-###### (3) The holder of a firearm licence for group E shall commit an administrative infraction if he/she
+(3) The holder of a firearm licence for group E shall commit an administrative infraction if he/she
 
 a) does not respect the procedure stipulated for destruction of a firearm or ammunition in Section 39 (3) (a); or
 
@@ -2216,13 +2210,13 @@ Common Provisions on Administrative Infractions
 
 ### <a name="section_77"></a><p align="center">Section 77</p>
 
-###### (1) A legal entity shall not be liable for an administrative infraction they are able to prove that they have made their best efforts to prevent violation of a legal obligation.
+(1) A legal entity shall not be liable for an administrative infraction they are able to prove that they have made their best efforts to prevent violation of a legal obligation.
 
-###### (2) When determining the amount of a fine to be imposed on a legal entity the gravity of the administrative infraction shall be taken into account, in particular the manner in which it was committed and under what circumstances and what its consequences were.
+(2) When determining the amount of a fine to be imposed on a legal entity the gravity of the administrative infraction shall be taken into account, in particular the manner in which it was committed and under what circumstances and what its consequences were.
 
-###### (3) Liability of a legal entity for an administrative infraction shall cease if an administrative authority did not commence the relevant proceedings within one year from the date on which the authority was informed of the infraction, however not later than within three years from the date on which such administrative infraction was committed.
+(3) Liability of a legal entity for an administrative infraction shall cease if an administrative authority did not commence the relevant proceedings within one year from the date on which the authority was informed of the infraction, however not later than within three years from the date on which such administrative infraction was committed.
 
-###### (4) Administrative infractions by legal entities or natural persons (entrepreneurs) under this Act shall, within the first level, be dealt with by supervising authorities according to their competence concerning the supervision stipulated in Section 75 (1).
+(4) Administrative infractions by legal entities or natural persons (entrepreneurs) under this Act shall, within the first level, be dealt with by supervising authorities according to their competence concerning the supervision stipulated in Section 75 (1).
 
 (5) The Provisions of this Act on liability and sanctions of legal persons shall apply to business undertaking of natural persons (entrepreneurs)<a name="fn21_ref"></a><sup>[21)](#fn21)</sup> or to their activities carried out in direct relation to their business undertaking.
 
