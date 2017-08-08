@@ -3,7 +3,7 @@ A C T
 
 of 8 March 2002
 
-**on firearms and ammunition and on the amendment to Act No. 156/2000 Coll. on proving of firearms, ammunition and pyrotechnic items and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges, as amended, and Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended, (the Act on Firearms) **
+**on firearms and ammunition and on the amendment to Act No. 156/2000 Coll. on proving of firearms, ammunition and pyrotechnic items and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges, as amended, and Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended, (the Act on Firearms)**
 
 as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/2003 Coll., Act No. 228/2003 Coll., Act No. 537/2004 Coll., Act No. 359/2005 Coll., Act No. 444/2005 Coll., Act No. 310/2006 Coll., Act No. 170/2007 Coll., Act No. 124/2008 Coll., Act No.189 /2008 Coll., Act No. 274/2008 Coll., and Act No. 484/2008 Coll.
 
@@ -11,15 +11,11 @@ as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/200
 
 The Parliament has adopted the following Act of the Czech Republic:
 
-# P A R T &emsp; O N E
-# FIREARMS &ensp; AND &ensp; AMMUNITION
+# <a name="part_1"></a><p align="center">P A R T &emsp; O N E <br /> FIREARMS &ensp; AND &ensp; AMMUNITION</p>
 
-## T I T L E &emsp; I
-## INTRODUCTORY PROVISIONS
+## <a name="title_1"></a><p align="center">T I T L E &emsp; I <br /> INTRODUCTORY &emsp; PROVISIONS</p>
 
-<a name="section_1"></a><center>Section 1</center>
-
-**Scope of Application**
+### Section 1 <br /> **Scope of Application**
 
 (1) This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
