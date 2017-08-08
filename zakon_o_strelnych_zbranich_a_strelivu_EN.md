@@ -2337,7 +2337,7 @@ The following Acts are hereby repealed:
 
 2. Act No. 13/1998 Coll. amending and supplementing Act No.288/1995 Coll. on firearms and ammunition (the Act on Firearms).
 
-# <a name="part_2"></a><p align="center">P A R T &emsp; T W O <br /> Amendment &ensp; to Act No. 156/2000 Coll.</p>
+# <a name="part_2"></a><p align="center">P A R T &emsp; T W O <br /> Amendment &ensp; to &ensp; Act No. 156/2000 Coll.</p>
 
 ### <a name="section_84"></a><p align="center">Section 84</p>
 
@@ -2355,7 +2355,7 @@ Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles 
 
 
 
-# <a name="part_3"></a><p align="center">P A R T &emsp; T H R E E <br /> Amendment &ensp; to to the Trade Licensing Act</p>
+# <a name="part_3"></a><p align="center">P A R T &emsp; T H R E E <br /> Amendment &ensp; to &ensp; the Trade Licensing Act</p>
 
 ### <a name="section_85"></a><p align="center">Section 85</p>
 
@@ -2404,17 +2404,12 @@ Transitional Provisions
 
 # <a name="part_3"></a><p align="center">P A R T &emsp; F O U R</p>
 
-### <a name="section_87"></a><p align="center">Section 87</p>
-
-**ENTRY INTO EFFECT **
+### <a name="section_87"></a><p align="center">Section 87 <br />ENTRY INTO EFFECT</p>
 
 This Act shall enter into effect on 1 January 2003 with the exception of the provisions of Section 10 (3), Section 12 (4), Section 17 (4), Section 46 (5) through (7), Section 49, Section 50 (9), Section 51 (7) and (8), and Section 73 (4) of the Act on Firearms which shall come into effect on the date on which the Agreement on the Accession of the Czech Republic to the European Union shall come into force.
 
 
-
-\* \* \*
-
-Entry into effect of the amendments
+#### <p align="center">\* \* \* <br /> Entry into effect of the amendments</p>
 
 1. Act No. 320/2002 Coll. on the amendment to and repealing of some acts in relation to terminating activities of district offices came into effect on 1 January 2003.
 2. Act No. 227/2003 Coll. amending Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic items and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges as amended by Act No. 119/2002 Coll. and Act No. 309/2002 Coll. and some other acts came into effect on 1 October 2003.
