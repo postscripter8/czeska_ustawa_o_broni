@@ -329,16 +329,17 @@ Firearm Permits and Their Groups
 
 (2) Firearm permits shall be distinguished according to the purpose for which the firearm or ammunition is to be used and according to the scope of authorisation, and shall be divided into the following groups:
 
-a) A – collectors' purposes;
+a) A - collectors' purposes;
 
-b) B – sport purposes;
+b) B - sport purposes;
 
-c) C – hunting purposes;
+c) C - hunting purposes;
 
-d) D – pursuing a profession or occupation;
+d) D - pursuing a profession or occupation;
 
-1. e) E – protecting life, health or property; or
-2. f) F – activities in the field of unexploded ordnance.
+e) E - protecting life, health or property; or
+
+f) F - activities in the field of unexploded ordnance.
 
 **Issuing a Firearm Permit**
 
