@@ -1,7 +1,4 @@
-
-
 119
-
 A C T
 
 of 8 March 2002
@@ -14,17 +11,15 @@ as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/200
 
 The Parliament has adopted the following Act of the Czech Republic:
 
-P A R T O N E
+# P A R T &emsp; O N E
+# FIREARMS &ensp; AND &ensp; AMMUNITION
 
-FIREARMS AND AMMUNITION
+## T I T L E &emsp; I
+## INTRODUCTORY PROVISIONS
 
-T I T L E I
+<a name="section_1"></a><center>Section 1</center>
 
-INTRODUCTORY PROVISIONS
-
-Section 1
-
-Scope of Application
+**Scope of Application**
 
 (1) This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
