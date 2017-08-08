@@ -67,9 +67,7 @@ e) Providing firearms and ammunition shall mean to provide any other person with
 
 f) Activities in the field of unexploded ordnance shall mean a targeted search for ammunition and explosives and their identification using a specified procedure or their excavation.
 
-T I T L E II
-
-CATEGORIES OF FIREARMS AND AMMUNITION
+## <a name="title_2"></a><p align="center">T I T L E &emsp; II <br /> CATEGORIES &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_3"></a><p align="center">Section 3</p>
 
@@ -195,9 +193,7 @@ j) deactivated artillery ammunition and ammunition; and
 
 k) firearms not listed in categories A through C.
 
-T I T L E III
-
-ACQUISITION, POSSESSION AND CARRYING FIREARMS AND AMMUNITION
+## <a name="title_3"></a><p align="center">T I T L E &emsp; III <br /> ACQUISITION, &emsp; POSSESSION &emsp; AND &emsp; CARRYING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_8"></a><p align="center">Section 8</p>
 
@@ -323,9 +319,7 @@ b) carry a firearm or handle it in public places or in any place accessible to t
 
 c) store more than three kilos of smokeless or black hunting powder and more than 1,000 primers; primers must be stored separately in a separate box.
 
-T I T L E IV
-
-FIREARM PERMIT
+## <a name="title_4"></a><p align="center">T I T L E &emsp; IV <br /> FIREARM &emsp; PERMIT</p>
 
 ### <a name="section_16"></a><p align="center">Section 16</p>
 
@@ -865,9 +859,7 @@ If the holder of an examining commissionaire certificate recognises the reason f
 
 (4) If an examining commissionaire certificate isinvalidated under paragraph1 (b) or under paragraph2 (a) or (c), the Ministryshall issue, after two photographs of the examining commissionaire are presented a new examining commissionaire certificatewithout any application with the period of validity being the same as that of the original examining commissionaire certificate.
 
-T I T L E V
-
-FIREARM LICENCE
+## <a name="title_5"></a><p align="center">T I T L E &emsp; V <br /> FIREARM &emsp; LICENCE</p>
 
 ### <a name="section_31"></a><p align="center">Section 31</p>
 
@@ -1148,9 +1140,7 @@ e) to meet assignments listed in the internal regulation issued under 39 (1) (d)
 
 (2) If a gunsmith cannot perform his/her duties, his obligations referred to in paragraph 1 shall be taken over by responsible representatives of a natural person, if such representative was established, or the responsible representative or member of the statutory body of a legal person.
 
-T I T L E VI
-
-Registration of firearms and a firearm certificate
+## <a name="title_6"></a><p align="center">T I T L E &emsp; VI <br /> Registration &emsp; of &emsp; firearms &emsp; and &emsp; a &emsp; firearm &emsp; certificate</p>
 
 ### <a name="section_41"></a><p align="center">Section 41</p>
 
@@ -1189,9 +1179,7 @@ c) the way in which legal title was transferred.
 
 The obligation to register a firearm pursuant to Section 41 shall not apply to firearms which are the subject of business undertaking in the sector of firearms and ammunition. In other cases this obligation shall not apply to a natural or legal person who acquired a firearm upon a firearm letter of conveyance for a permanent export of a firearm or ammunition (Section 44 (2) ) or who imported a firearm to the Czech Republic upon a letter of conveyance for transit of such firearm of ammunition (Section 46 (2) ) with the intention to export it later from the Czech Republic, or where a firearm is only transported throughout the Czech Republic.
 
-T I T L E VII
-
-EXPORT, IMPORT AND tranSit OF FIREARMS AND AMMUNITION
+## <a name="title_7"></a><p align="center">T I T L E &emsp; VII <br /> EXPORT, &emsp; IMPORT &emsp; AND &emsp; tranSit &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_44"></a><p align="center">Section 44</p>
 
@@ -1422,10 +1410,7 @@ f) the border crossing point across which firearms or ammunition is to leave the
 (8) The Ministry shall supply other Member States with the list of firearms and ammunition which may be imported to the Czech Republic without the prior consent of the relevant authorities of the Czech Republic.
 
 
-
- T I T L E VIII
-
-SHOOTING RANGE
+## <a name="title_8"></a><p align="center">T I T L E &emsp; VIII <br /> SHOOTING &emsp; RANGE</p>
 
 ### <a name="section_52"></a><p align="center">Section 52</p>
 
@@ -1507,9 +1492,7 @@ e) to cease shooting if life, health or property is endangered;
 
 f) to report, without undue delay, to a police unit any injuries or the death of persons during shooting or handling a firearm in the shooting range.
 
-T I T L E IX
-
-SPECIAL PROVISIONS ON HANDLING FIREARMS AND AMMUNITON
+## <a name="title_9"></a><p align="center">T I T L E &emsp; IX <br /> SPECIAL &emsp; PROVISIONS &emsp; ON &emsp; HANDLING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITON</p>
 
 ### <a name="section_56"></a><p align="center">Section 56</p>
 
@@ -1731,9 +1714,7 @@ Exceptional Measures
 
 (2) A decision under paragraph 1 shall be published by mass media and shall be published as an Act; it shall come into effect immediately on the date provided for in such act.
 
- T I T L E X
-
-INFORMATION SYSTEMS ON FIREARMS, AMMUNITION AND OPERATIONS OF SHOOTING RANGES
+## <a name="title_10"></a><p align="center">T I T L E &emsp; X <br /> INFORMATION &emsp; SYSTEMS &emsp; ON &emsp; FIREARMS, &emsp; AMMUNITION &emsp; AND &emsp; OPERATIONS &emsp; OF &emsp; SHOOTING &emsp; RANGES</p>
 
 ### <a name="section_71"></a><p align="center">Section 71</p>
 
@@ -1799,9 +1780,7 @@ c) on acquiring a firearm of category C,, to a Member State if the person who ac
 
 (5) An embassy or a consulate of the Czech Republic shall forward necessary information on issued firearm letters of conveyance to the Police Presidium.
 
-T I T L E XI
-
-EXECUTION OF STATE ADMINSITRATION
+## <a name="title_11"></a><p align="center">T I T L E &emsp; XI <br /> EXECUTION &emsp; OF &emsp; STATE &emsp; ADMINSITRATION</p>
 
 ### <a name="section_74"></a><p align="center">Section 74</p>
 
@@ -1899,9 +1878,7 @@ f) request the holder of a firearm permit or a firearm holder who carries a fire
 
 g) check how gunsmiths and shooting range managers meet their obligations.
 
-T I T L E XII
-
-ADMINISTRATIVE INFRACTIONS
+## <a name="title_12"></a><p align="center">T I T L E &emsp; XII <br /> ADMINISTRATIVE &emsp; INFRACTIONS</p>
 
 Minor Offences
 
@@ -2255,9 +2232,7 @@ Common Provisions on Administrative Infractions
 
 The police may deal with a minor offence under this Act on the spot by issuing a penalty ticket. A minor offence may be sanctioned by means of a penalty ticket in the amount of up to CZK 5,000.
 
-T I T L E XIII
-
-COMMON PROVISIONS
+## <a name="title_13"></a><p align="center">T I T L E &emsp; XIII <br /> COMMON &emsp; PROVISIONS</p>
 
 ### <a name="section_78"></a><p align="center">Section 78</p>
 
@@ -2287,9 +2262,7 @@ e) the specimen of a notification of acquiring or transferring legal title to a 
 
 (5) The Ministry of Health shall issue the Decree in order to implement Section 20 (6) and Section 54 (2).
 
- T I T L E XIV
-
-TRANSITIONAL PROVISIONS
+## <a name="title_14"></a><p align="center">T I T L E &emsp; XIV <br /> TRANSITIONAL &emsp; PROVISIONS</p>
 
 ### <a name="section_80"></a><p align="center">Section 80</p>
 
