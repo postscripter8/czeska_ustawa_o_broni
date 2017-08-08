@@ -15,7 +15,7 @@ The Parliament has adopted the following Act of the Czech Republic:
 
 ## <a name="title_1"></a><p align="center">T I T L E &emsp; I <br /> INTRODUCTORY &emsp; PROVISIONS</p>
 
-### Section 1 <br /> **Scope of Application**
+### <a name="section_1"></a><p align="center">Section 1 <br /> **Scope of Application**</p>
 
 (1) This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
@@ -37,7 +37,7 @@ f) explosives defined by a special legal regulation<a name="fn3a_ref"></a><sup>[
 
  (4) The provisions regulating records and the storing of firearms and ammunition shall apply reasonably to firearms and ammunition pursuant to paragraph 2 (a) through (d) unless a special legal regulation <a name="fn3b_ref"></a><sup>[3b)](#fn3b)</sup> stipulates otherwise
 
-Section 2
+### <a name="section_2"></a><p align="center">Section 2</p>
 
 Definition of Some Terms
 
@@ -71,7 +71,7 @@ T I T L E II
 
 CATEGORIES OF FIREARMS AND AMMUNITION
 
-Section 3
+### <a name="section_3"></a><p align="center">Section 3</p>
 
 Classification of Firearms and Ammunition
 
@@ -91,7 +91,7 @@ e) ammunition for firearms of categories A through D which is not prohibited (he
 
 (3) Should any doubt arise concerning the inclusion of a type of a firearm or ammunition in any respective category then the Czech Proof House for Firearms and Ammunition (Section 74 (6)<a name="fn8_ref"></a><sup>[8)](#fn8)</sup> shall decide. The procedure to be taken by the Czech Proof House for Firearms and Ammunition, in order to include firearms or ammunition in the relevant category pursuant to paragraph 1 shall be stipulated by an implementing legal regulation.
 
-Section 4
+### <a name="section_4"></a><p align="center">Section 4</p>
 
 Category A Firearms
 
@@ -131,7 +131,7 @@ c) firearm accessories
 
 3. laser sights.
 
-Section 5
+### <a name="section_5"></a><p align="center">Section 5</p>
 
 Category B Firearms
 
@@ -153,7 +153,7 @@ g) semi-automatic firearms which resemble automaticfirearms; and
 
 h) signal weapons with signal cartridges having a calibre over 16mm.
 
-Section 6
+### <a name="section_6"></a><p align="center">Section 6</p>
 
 Category C Firearms
 
@@ -167,7 +167,7 @@ c) gas guns whose kinetic energy of projectiles is more than 16 J at the breech 
 
 d) more than two-shot or repeating firearms constructed on the principle of percussion ignition systems.
 
-Section 7
+### <a name="section_7"></a><p align="center">Section 7</p>
 
 Category D Firearms
 
@@ -199,11 +199,11 @@ T I T L E III
 
 ACQUISITION, POSSESSION AND CARRYING FIREARMS AND AMMUNITION
 
-Section 8
+### <a name="section_8"></a><p align="center">Section 8</p>
 
 Only persons who have been granted a firearm permit or firearm licence shall be permitted to acquire, with the exception of inheritance (Section 66), possess or carry a firearm or ammunition unless stipulated otherwise herein.
 
-Section 9
+### <a name="section_9"></a><p align="center">Section 9</p>
 
 (1) It shall be prohibited to acquire, possess or carry category A firearms unless otherwise stipulated hereunder. The prohibition pursuant to the first sentence shall not apply to exports and imports traded under any special legal regulation.<a name="fn9_ref"></a><sup>[9)](#fn9)</sup>
 
@@ -223,7 +223,7 @@ An exception may be granted if it does not contradict public order and security,
 
 (3) If an exception for the acquisition or possession of firearms referred to in Section 4 (a) (1) which is subject to special rules of controls in accordance with an international agreement which is part of the national legal framework is granted then the Ministry of Defence shall be obliged to give its approval.
 
-Section 10
+### <a name="section_10"></a><p align="center">Section 10</p>
 
 (1) The holder of a firearm permit for group A or of a firearm licence for groups A, F, G, H, I or J shall apply for an exception under Section 9 (2) on an official form, the specimen of which shall be set out in the implementing legal regulation. The application shall encompass the following:
 
@@ -243,7 +243,7 @@ f) the purpose and reason for the requested exception.
 
 (3) The holder of a firearm permit for group A whose place of residence is in a Member State of the European Union, in any other state under the Agreement on the European Economic Area or the Swiss Confederation (hereinafter referred to as a 'Member State') shall be obliged to submit the consent of the Member State to such an exception under paragraph 1 or a statement indicating that such consent is not deemed to be necessary, translated into the Czech language by a certified interpreter recorded in the Register of Forensic Experts and Interpreters.
 
-Section 11
+### <a name="section_11"></a><p align="center">Section 11</p>
 
 (1) An exception granted under Section 9 (2) shall expire or cease to exist if
 
@@ -255,7 +255,7 @@ b) the person who was granted such exception has ceased to be a holder of a fire
 
 (3) Should an exception cease to exist pursuant to paragraph 1 or should it be withheld pursuant to paragraph 2 the holder of a category A firearm shall be obliged to surrender the firearm concerned and deliver it to the relevant police unit within ten working days from the date on which the exception expired or ceased to exist or from the date on which the decision on its withholding came into effect, and he/she shall be obliged to proceed in accordance with this Act (Section 64).
 
-Section 12
+### <a name="section_12"></a><p align="center">Section 12</p>
 
 (1) A category B firearm may be acquired and possessed or carried only upon authorisation unless otherwise stipulated herein.
 
@@ -293,7 +293,7 @@ f) a firearm is determined to be for the protection of life, health, or property
 
 (8) Authorisation to carry a category B firearm shall be recorded in the firearm permit.
 
-Section 13
+### <a name="section_13"></a><p align="center">Section 13</p>
 
 (1) Authorisation issued pursuant to Section 12 shall cease if the person who was issued such authorisation has ceased to be a holder of a firearm permit or a firearm licence. Authorisation to acquire a category B firearm shall also cease if the firearm is not used within twelve months from the date on which it was issued.
 
@@ -301,11 +301,11 @@ Section 13
 
 (3) Should authorisation cease pursuant to the first sentence of paragraph 1, or should it be withheld pursuant to paragraph 2, the holder of a category B firearm shall be obliged to surrender the firearm concerned and deliver it to the relevant police unit within ten working days from the date on which the authorisation ceased or from the date on which the decision on its withholding came into effect, and he/she shall be obliged to proceed in accordance with this Act (Section 64).
 
-Section 14
+### <a name="section_14"></a><p align="center">Section 14</p>
 
 A category C firearm or ammunition for such firearm may be acquired or possessed only by the holder of a firearm permit for a relevant group or the firearm licence for a relevant group who is obliged to report such acquisition to the relevant police unit. The holder of a firearm permit may carry such firearm only within the scope of authorisation specified for individual groups of firearm permits after such firearm has been registered (Section 41).
 
-Section 15
+### <a name="section_15"></a><p align="center">Section 15</p>
 
 (1) A category D firearm or ammunition for such firearm may be acquired and possessed or carried only by a natural person of over 18 years of age who is legally capable. A category D firearm or ammunition for such firearm may also be acquired and possessed by a legal entity.
 
@@ -327,7 +327,7 @@ T I T L E IV
 
 FIREARM PERMIT
 
-Section 16
+### <a name="section_16"></a><p align="center">Section 16</p>
 
 Firearm Permits and Their Groups
 
@@ -348,7 +348,7 @@ d) D – pursuing a profession or occupation;
 
 **Issuing a Firearm Permit**
 
-Section 17
+### <a name="section_17"></a><p align="center">Section 17</p>
 
 (1) The relevant police unit shall issue a firearm permit upon an application filed by a natural person on the official form the specimen of which shall be laid down in the implementing legal regulation. An application for a firearm permit shall encompass the following:
 
@@ -374,7 +374,7 @@ c) two photographs sized 35 x 45 mm corresponding to the actual appearance of th
 
 (7) The relevant police unit shall suspend the proceedings on the issue of a firearm permit if prosecution for a criminal offence stipulated in Section 22 was commenced against an applicant for a firearm permit.
 
-Section 18
+### <a name="section_18"></a><p align="center">Section 18</p>
 
 (1) The relevant police unit shall issue a firearm permit to a natural person who satisfies the below conditions. The natural person concerned should
 
@@ -405,7 +405,7 @@ e) a person who has been awarded asylum in the Czech Republic
 
 even though such foreign national satisfies all conditions referred to in paragraph 1. There is no appeal against such decision.
 
-Section 19
+### <a name="section_19"></a><p align="center">Section 19</p>
 
 Eligible Age for the Issue of a Firearm Permit
 
@@ -421,7 +421,7 @@ Eligible Age for the Issue of a Firearm Permit
 
 (6) In those cases referred to in paragraphs 3 and 4, the written consent of a statutory representative and the recommendation of the relevant civic association, school or vocational school shall be required. A person under 18 years of age may acquire, however not purchase, and keep a firearm and ammunition for sporting or hunting purposes only with the consent of the statutory representative. Such person may use a firearm or ammunition only in the presence of a person who is at least 21 years of age and who has been a holder of a firearm permit for group B or C for at least three years and who shall ensure safe use of the firearm or ammunition.
 
-Section 20
+### <a name="section_20"></a><p align="center">Section 20</p>
 
 Health Capability to be Issued a Firearm Permit
 
@@ -437,7 +437,7 @@ Health Capability to be Issued a Firearm Permit
 
 (6) Requirements for health capability pursuant to paragraph 1, types of medical examinations, their content, the content of a medical certification and the period of validity, description of diseases, impairments and health conditions for which it is impossible to issue a positive opinion and or where such opinion may be issued only if the holder is examined by a medical specialist, shall be stipulated in an implementing legal regulation.
 
-Section 21
+### <a name="section_21"></a><p align="center">Section 21</p>
 
 Professional Competence of an Applicant for a Firearm Permit for Groups A through E
 
@@ -503,7 +503,7 @@ d) destruction of artillery ammunition and explosives.
 
 (9) Prior to commencing temporary and occasional carrying out of activities concerning unexploded ordnance in the Czech Republic by a natural person who is in a Member State authorised to perform similar activities the Ministry may request the recognition of professional qualifications in accordance with the Act on the recognition of professional qualifications<a name="fn11d_ref"></a><sup>[11d)](#fn11d)</sup>.
 
-Section 22
+### <a name="section_22"></a><p align="center">Section 22</p>
 
 **Natural Person with No Criminal Record**
 
@@ -530,7 +530,7 @@ d) a criminal offence committed with negligence by violating duties concerning p
 (4) For the purpose of assessing the criminal records of a natural person the relevant police unit shall apply for an extract from the Register of Criminal Records
 <a name="fn12_ref"></a><sup>[12)](#fn12)</sup>. An application for an extract from the Register of Criminal Records and the extract from the Register of Criminal Records itself shall be submitted and then provided in electronic form via e-mail. When assessing the criminal record of a natural person neither erasure of a sentence under a special legal regulation<a name="fn13_ref"></a><sup>[13)](#fn13)</sup> nor other any cases which constitute grounds that an offender is deemed to have never been sentenced shall be taken into account<a name="fn13a_ref"></a><sup>[13a)](#fn13a)</sup>.
 
-Section 23
+### <a name="section_23"></a><p align="center">Section 23</p>
 
 Reliability of a Natural Person
 
@@ -562,7 +562,7 @@ c) his/her conduct poses a serious threat to internal order and security and he/
 
 (3) The relevant police unit shall be authorised to request a municipal authority or an office of the State Mining Administration for data allowing assessment of the reliability of a natural person pursuant to paragraph 1 (c). The municipal authority and a relevant branch office of the State Mining Administration shall satisfy such request without undue delay.
 
-Section 24
+### <a name="section_24"></a><p align="center">Section 24</p>
 
 Issuing a New Firearm Permit
 
@@ -578,7 +578,7 @@ Issuing a New Firearm Permit
 
 (6) The relevant police unit shall dismiss an application for a new firearm permit if conditions regarding health capability and requirements on absence of a criminal record and on reliability stipulated for the issue of a firearm permit are not satisfied or, in the case of a firearm permit for group C, the application shall be also rejected if the applicant does not possess a hunting licence.
 
-Section 25
+### <a name="section_25"></a><p align="center">Section 25</p>
 
 Extension of Groups on a Firearm Permit
 
@@ -596,7 +596,7 @@ c) two photographs.
 
 (4) The relevant police unit shall dismiss an application for the extension of groups on a firearm permit if the applicant does not satisfy conditions stipulated for a firearm permit for the group concerned.
 
-Section 26
+### <a name="section_26"></a><p align="center">Section 26</p>
 
 Termination of the Validity of a Firearm Permit
 
@@ -624,7 +624,7 @@ If the holder of a firearm permit recognises the reason for termination of the v
 
 (3) If the validity of a firearm permit is terminated under paragraph (1) (b) or paragraph (2) (a) or (c), the relevant police unit shall issue, after two photographs are presented by permit holder, a new firearm permit without any application, with the period of validity being the same as that of the original firearm permit. If a firearm permit is issued as a replacement for a lost or stolen firearm permit it shall be clearly indicated that it is a duplicate.
 
-Section 27
+### <a name="section_27"></a><p align="center">Section 27</p>
 
 Withdrawal of a Firearm Permit
 
@@ -646,11 +646,11 @@ e) for group F has breached duties stipulated in Section 29 (7) (a) through (h) 
 
 (4) An appeal against a decision on withdrawal of a firearm permit pursuant to paragraph 1 or 2 shall not have a suspensive effect and a firearm permit holder shall be obliged to forthwith deliver his/her firearm permit to the relevant police unit.
 
-Section 27a
+### <a name="section_27a"></a><p align="center">Section 27a</p>
 
 The scope of competence specified for a municipal authority of a municipality with an extended scope of competences under this Act shall be deemed to beexecution of a delegated competence.
 
-Section 28
+### <a name="section_28"></a><p align="center">Section 28</p>
 
 Authorisation of Firearm Permit Holders
 
@@ -690,7 +690,7 @@ c) to carry not more than two firearms and ammunition for such firearms; he/she 
 
 (6) The holder of a firearm permit for group F shall be authorised to carry out activities in the field of unexploded ordnance only as an employee or a sole trader; if the artillery ammunition or explosives found during target searches for unexploded ordnance immediately jeopardise the life, health or property the holder of a firearm permit for group F shall be authorised to deactivate them.
 
-Section 29
+### <a name="section_29"></a><p align="center">Section 29</p>
 
 **Obligations of a Firearm Permit Holder**
 
@@ -765,7 +765,7 @@ a) carry out activities in the field of unexploded ordnancewhen his/her capabili
 b) handle discovered ammuntion or explosives contrary to this Act;
 c) deactivate unexploded artillery ammuntion or explosives.
 
-Section 30
+### <a name="section_30"></a><p align="center">Section 30</p>
 
 Examining Commissionaire
 
@@ -839,7 +839,7 @@ The Ministry shall renew the activities of an examining commissionaire as soon a
 
 (14) Prior to commencing temporary or occasional performance of activities of an examining commissionaire in the Czech Republic by a natural person who has been authorised in a Member State to carry out similar activities the Ministry may request the recognition of professional qualifications in accordance with the special Act<sup>[11d)](#fn11d)</sup>.
 
-Section 30a
+### <a name="section_30a"></a><p align="center">Section 30a</p>
 
 **Termination of the Validity of anExamining Commissionaire Certificate**
 
@@ -869,7 +869,7 @@ T I T L E V
 
 FIREARM LICENCE
 
-Section 31
+### <a name="section_31"></a><p align="center">Section 31</p>
 
 Firearm Licences and Their Groups
 
@@ -899,7 +899,7 @@ k) K – carrying out activities in the field of unexploded ordnance.
 
 
 
-Section 32
+### <a name="section_32"></a><p align="center">Section 32</p>
 
 Particulars of the Application for a Firearm Licence
 
@@ -921,7 +921,7 @@ f) information regarding which group of firearm licence he/she is applying for.
 
 (3) The applicant shall be obliged to submit along with the application a notarised copy of a trade licence or concession, a certificate or any other document authorising the applicant to carry out business activities if the reason stated in the application for firearm licence is business undertaking in the sector of firearms and ammunition, or a document permitting education in schools where it is necessary to handle firearms and ammunition in accordance with this Act.
 
-Section 33
+### <a name="section_33"></a><p align="center">Section 33</p>
 
 **Issue of a Firearm Licence**
 
@@ -934,13 +934,13 @@ Section 33
 
  (3) The relevant police unit shall suspend the procedure on issuing a firearm licence if prosecution has been commenced against the persons provided for in paragraph 2 for a criminal offence laid down in Section 22.
 
-Section 34
+### <a name="section_34"></a><p align="center">Section 34</p>
 
 Verification of Criminal Record and Reliability
 
 After five years have lapsed from the date of issue of a firearm licence and then always after every five years or if any change occurs, the relevant police unit shall verify that persons stipulated in Section 33 (2) have no criminal record and are reliable.
 
-Section 35
+### <a name="section_35"></a><p align="center">Section 35</p>
 
 Extension of Groups on Firearm Licence
 
@@ -950,7 +950,7 @@ Extension of Groups on Firearm Licence
 
 (3) The relevant police unit shall dismiss an application for the extension of groups on a firearm licence if the applicant does not satisfy conditions stipulated for a firearm licence of the group concerned.
 
-Section 36
+### <a name="section_36"></a><p align="center">Section 36</p>
 
 Withdrawal of a Firearm Licence
 
@@ -962,7 +962,7 @@ c) a responsible representative or a member of the statutory body of a legal per
 
 (2) An appeal against a decision on withdrawal of a firearm licence pursuant to paragraph 1 shall not have a suspensive effect and the firearm licence holder shall be obliged to forthwith deliver the licence to the relevant police unit.
 
-Section 37
+### <a name="section_37"></a><p align="center">Section 37</p>
 
 Termination of the Validity of a Firearm Permit
 
@@ -992,7 +992,7 @@ If the holder of a firearm licence recognises the reason for termination of the 
 
 (4) If the validity of a firearm licence is terminated under paragraph (1) (b) or paragraph (2), the relevant police unit shall issue a new firearm licence without any application with the period of validity being the same as that of the original firearm licence. If a firearm licence is issued as a replacement for a lost or stolen firearm licence it shall be clearly indicated that it is a duplicate.
 
-Section 38
+### <a name="section_38"></a><p align="center">Section 38</p>
 
 Authorisation of a Firearm Licence Holder
 
@@ -1038,7 +1038,7 @@ c) if he/she is forensic expert, possess a category A, B, or C firearm and ammun
 
 (9) The holder of a firearm licence for group K shall be authorised to carry out activities in the field of unexploded ordnance, to identify unexploded artillery ammunition and explosives, and to secure them.
 
-Section 39
+### <a name="section_39"></a><p align="center">Section 39</p>
 
 Obligations of a Firearm Licence Holder
 
@@ -1130,7 +1130,7 @@ j) to record in a construction site journal all data and information concerning 
 
 (8) Details on all particulars for maintaining documentation encompassing an overview of all detected unexploded artillery ammunition and explosives shall be laid down in the implementing legal regulation.
 
-Section 40
+### <a name="section_40"></a><p align="center">Section 40</p>
 
 Obligations of a Gunsmith
 
@@ -1152,7 +1152,7 @@ T I T L E VI
 
 Registration of firearms and a firearm certificate
 
-Section 41
+### <a name="section_41"></a><p align="center">Section 41</p>
 
 (1) Each firearm of category A, B or C shall be registered; this obligation shall not apply to prohibited ammunition.
 
@@ -1168,7 +1168,7 @@ b) a category A, B or C firearm which a person stipulated in Section 42 (1) is n
 
 (5) A firearm holder whose firearm was not registered by the relevant police unit under paragraph 3 (a) or (b) or where registration procedure was suspended, shall be obliged to proceed in accordance with this Act (Section 64).
 
-Section 42
+### <a name="section_42"></a><p align="center">Section 42</p>
 
 (1) A natural or legal person who has acquired a category A, B or C firearm shall be obliged to provide information thereof to the relevant police unit on an official form, the specimen of which shall be set out in the implementing legal regulation. The information shall be provided within ten working days from the date of acquisition and the firearm shall be submitted at the same time. If a firearm has been inherited (Section 66) the time limit for registration starts to run from the date on which the decision of the court regarding inheritance came into effect.
 
@@ -1185,7 +1185,7 @@ b) data on the category A, B or C firearm concerned, including data on firearm p
 
 c) the way in which legal title was transferred.
 
-Section 43
+### <a name="section_43"></a><p align="center">Section 43</p>
 
 The obligation to register a firearm pursuant to Section 41 shall not apply to firearms which are the subject of business undertaking in the sector of firearms and ammunition. In other cases this obligation shall not apply to a natural or legal person who acquired a firearm upon a firearm letter of conveyance for a permanent export of a firearm or ammunition (Section 44 (2) ) or who imported a firearm to the Czech Republic upon a letter of conveyance for transit of such firearm of ammunition (Section 46 (2) ) with the intention to export it later from the Czech Republic, or where a firearm is only transported throughout the Czech Republic.
 
@@ -1193,7 +1193,7 @@ T I T L E VII
 
 EXPORT, IMPORT AND tranSit OF FIREARMS AND AMMUNITION
 
-Section 44
+### <a name="section_44"></a><p align="center">Section 44</p>
 
 Permanent Export of Firearms and Ammunition
 
@@ -1231,7 +1231,7 @@ j) the date of departure and the estimated date of arrival of the firearm of cat
 
 (7) The police unit which decides on the issue of a firearm letter of conveyance for the permanent export of a firearm or ammunition shall dismiss an application if the firearm subject of proving under a special legal regulation<sup>[3)](#fn3)</sup> does not have an affixed proof mark or if the firearm not subject to proving under a special legal regulation<sup>[3)](#fn3)</sup> is not registered. Further, the police unit shall dismiss any application as regards firearms and ammunition specified in the special legal regulation<sup>[9)](#fn9)</sup> as military material. As regards the export of firearms of category A to countries other than Member States, a police unit shall not issue a firearm letter of conveyance for the permanent export of firearms or ammunition without the consent of the Ministry of Foreign Affairs.
 
-Section 45
+### <a name="section_45"></a><p align="center">Section 45</p>
 
 Permanent Import of Firearms and Ammunition
 
@@ -1249,7 +1249,7 @@ Permanent Import of Firearms and Ammunition
 
  (7) If a firearm letter of conveyance for the permanent import of firearms or ammunition is issued the relevant police unit or embassy or consulate of the Czech Republic abroad shall also issue a preliminary consent to the import of firearms and ammunition to the Czech Republic.
 
-Section 46
+### <a name="section_46"></a><p align="center">Section 46</p>
 
 Transit of Firearms and Ammunition
 
@@ -1269,13 +1269,13 @@ Transit of Firearms and Ammunition
 
 (8) The provisions of this Act on authorisations and obligations of a firearm permit holder shall apply to the holder of a firearm letter of conveyance for transit of firearms or ammunition reasonably. A firearm entered in a firearm letter of conveyance for transit of firearms or ammunition or in a European firearms pass shall not be subject to registration pursuant to Section 41 (1).
 
-Section 47
+### <a name="section_47"></a><p align="center">Section 47</p>
 
 Termination of a Firearm Letter of Conveyance for Permanent Export, Permanent Import or Transit of Firearms or Ammunition
 
 The provision of Section 37 shall apply to termination of a firearm letter of conveyance for permanent export, permanent import or for transit of firearms or ammunition issued pursuant to Sections 44 and 45 or Section 46 accordingly.
 
-Section 48
+### <a name="section_48"></a><p align="center">Section 48</p>
 
 Withdrawal of a Firearm Letter of Conveyance for Permanent Export, Permanent Import or Transit of Firearms or Ammunition
 
@@ -1289,7 +1289,7 @@ c) gravely or repeatedly violated provisions of this Act.
 
 (2) An appeal against a decision on withdrawal of a firearm letter of conveyance for permanent export, permanent import or for transit of firearms or ammunition pursuant to paragraph 1 shall not have a suspensive effect
 
-Section 49
+### <a name="section_49"></a><p align="center">Section 49</p>
 
 European Firearms Pass
 
@@ -1325,7 +1325,7 @@ If the holder of a European firearms pass recognises the reason for termination 
 
 (9) The relevant police unit shall retain or withdraw a European firearms pass if its holder's firearm permit is also retained or withdrawn.
 
-Section 50
+### <a name="section_50"></a><p align="center">Section 50</p>
 
 Transport of Firearms and Ammunition by a Dealer Whose Business Consists in Firearms and Ammunition
 
@@ -1361,7 +1361,7 @@ g) the date of departure and the estimated date of arrival; this provision shall
 
 (9) The relevant police unit shall supply a dealer who has been issued authorisation pursuant to paragraph 4 a list of firearms and ammunition for such firearms which may be transferred to individual Member States without their prior agreement.
 
-Section 50a
+### <a name="section_50a"></a><p align="center">Section 50a</p>
 
 Reporting Transport of Firearms by a Dealer
 
@@ -1389,7 +1389,7 @@ h) a description of how such transport has been secured.
 
 (4) The provisions of previous paragraphs shall apply without prejudice to the transportation of firearms and ammunition as dangerous goods under a special legal regulation<a name="fn18_ref"></a><sup>[18)](#fn18)</sup>.
 
-Section 51
+### <a name="section_51"></a><p align="center">Section 51</p>
 
 Common Provisions for Permanent Export, Permanent Import and Transit of Firearms and Ammunition
 
@@ -1427,7 +1427,7 @@ f) the border crossing point across which firearms or ammunition is to leave the
 
 SHOOTING RANGE
 
-Section 52
+### <a name="section_52"></a><p align="center">Section 52</p>
 
  Operating Shooting Ranges
 
@@ -1453,7 +1453,7 @@ c) a notarised copy of the concession of the shooting range operator if such sho
 
 d) an extract from the Companies Register if the applicant is registered therein.
 
-Section 53
+### <a name="section_53"></a><p align="center">Section 53</p>
 
 Suspension of Shooting Rage Operations
 
@@ -1471,7 +1471,7 @@ b) a shooting range manager does not perform his/her duties and a shooting range
 
 (5) The relevant police unit shall cancel authorisation to operate a shooting range if deficiencies for which operations of the shooting rage were suspended are not removed within the specified time limit.
 
-Section 54
+### <a name="section_54"></a><p align="center">Section 54</p>
 
 Obligations of a Shooting Range Operator
 
@@ -1487,7 +1487,7 @@ d) termination of operations or closing of the shooting range.
 
 (2) The shooting range operator shall be also obliged to furnish the shooting range with a first-aid kit, the contents of which shall be set out in the implementing legal regulation.
 
-Section 55
+### <a name="section_55"></a><p align="center">Section 55</p>
 
 Shooting Range Manager
 
@@ -1511,13 +1511,13 @@ T I T L E IX
 
 SPECIAL PROVISIONS ON HANDLING FIREARMS AND AMMUNITON
 
-Section 56
+### <a name="section_56"></a><p align="center">Section 56</p>
 
 Seizing a Firearm, Ammunition, a Firearm Permit, a Firearm Certificate and a Firearm Letter of Conveyance for Permanent export, Permanent Import or Transit of Firearms and Ammunition
 
 A police officer shall be authorised to seize a firearm of category A, B, C or D, ammunition, a firearm permit, a firearm certificate or a firearm letter of conveyance for permanent export, permanent import or transit of firearms and ammunition in order to prevent their holder from violating obligations or for not respecting bans stipulated herein. A police officer who has seized an article referred to in the first sentence shall issue, on the spot, to its holder a certificate confirming the seizure and shall forthwith render the seized article to the relevant police unit stating the reason for seizure. The police unit shall decide on retaining the article (Section 57), on withdrawal of the firearm permit pursuant to Section 27, or on withdrawal of the firearm letter of conveyance for permanent export, permanent import or transit of firearms and ammunition pursuant to Section 48.
 
-Section 57
+### <a name="section_57"></a><p align="center">Section 57</p>
 
 Retaining a Firearm, Ammunition, a Prohibited Accessory to a Firearm, a Firearm Permit, a Firearm Certificate and a Firearm Letter of Conveyance for Permanent Export, Permanent Import or Transit of Firearms and Ammunition
 
@@ -1531,7 +1531,7 @@ Retaining a Firearm, Ammunition, a Prohibited Accessory to a Firearm, a Firearm 
 
 (5) As soon as the reason for which a firearm, ammunition, a prohibited accessory to a firearm, a firearm permit, a firearm certificate or a firearm letter of conveyance for permanent export, permanent import or transit of firearms and ammunition was retained ceases to exist the police unit in whose custody the articles remain, shall, without undue delay, return such articles after the certificate confirming the seizure thereof is submitted. If the person from whom the articles were seized is not identical with the holder, the articles shall be returned to the holder.
 
-Section 58
+### <a name="section_58"></a><p align="center">Section 58</p>
 
 Securing Firearms and Ammunition
 
@@ -1555,7 +1555,7 @@ b) a locked room or separate premises if these meet technical requirements stipu
 
 (8) The relevant police unit shall be authorised to carry out checks on holders of firearm permits in order to find out how firearms of category A are secured; in doing so police officers shall be authorised to enter their residential premises.
 
-Section 59
+### <a name="section_59"></a><p align="center">Section 59</p>
 
 Providing a Firearm
 
@@ -1589,7 +1589,7 @@ b) for other manipulation with a firearm or ammunition at a place determined by 
 
 (4) In training, preparing or during contests a part of which is shooting, a person under 18 years of age but of at least 10 years of age may use a firearm only in the presence of a person older than 21 years who has been the holder of a firearm permit for group B or C for at least three years and who is able to ensure safe handling of the firearm and ammunition.
 
-Section 60
+### <a name="section_60"></a><p align="center">Section 60</p>
 
 Possessing and Carrying a Firearm during Special Occasions
 
@@ -1605,7 +1605,7 @@ d) if it is indispensable for the protection of life, health or property and the
 
 
 
-Section 61
+### <a name="section_61"></a><p align="center">Section 61</p>
 
 Public Display of Firearms and Ammunition
 
@@ -1625,11 +1625,11 @@ e) the way in which the firearms are to be displayed and how the firearms, main 
 
 (3) Prior to issuing authorisation for displaying firearms or ammunition the police unit referred to in paragraph 1 shall assess in particular conditions for protecting firearms, the main parts of firearms, prohibited accessories and ammunition against abuse, loss or theft. The police unit may stipulate in their decision on authorising a public display of firearms and ammunition other conditions in order to secure the displayed firearms and ammunition. If such conditions are not satisfied the application shall be rejected. An appeal against a negative decision shall not have a suspensive effect.
 
-Section 62
+### <a name="section_62"></a><p align="center">Section 62</p>
 
 If the conditions for securing firearms and ammunition are breached during the public display of firearms and ammunition the police unit which issued authorisation shall require the person authorised to amend the situation so that conditions are no longer breached. In case such requirement is not fulfilled or conditions are breached more than once the police unit which issued the authorisation shall withdraw it. The police unit shall forthwith inform the organiser of the display thereof. No appeal is permissible against a decision on withdrawing the authorisation.
 
-Section 63
+### <a name="section_63"></a><p align="center">Section 63</p>
 
 Deactivating and Destroying Firearms and Ammunition and Production of Cuts of Firearm and Ammunition
 
@@ -1663,7 +1663,7 @@ The relevant police unit shall issue a certificate on taking over any of the art
 
 (8) The holder of a deactivated firearm may not carry it visibly in public places or in places accessible to the general public. When carrying a deactivated firearm he/she shall be obliged to carry with him/her a certificate on its deactivation.
 
-Section 64
+### <a name="section_64"></a><p align="center">Section 64</p>
 
 Procedure for the Holder of a Firearm Permit, a Firearm Licence or a Firearm Letter of Conveyance for Permanent Export, Permanent Import or Transit of Firearms and Ammunition after Termination
 
@@ -1681,7 +1681,7 @@ c) request the relevant police unit to transfer the firearm of category A, B or 
 
 (4) If a legal entity or a natural person (entrepreneur) who was the holder of a firearm licence or a firearm letter of conveyance for permanent export of firearms and ammunition ceases to exist or dies the person who manages the assets of the dissolved legal entity or natural person (entrepreneur) shall meet the obligations, as the case may be, referred to in paragraph 1.
 
-Section 65
+### <a name="section_65"></a><p align="center">Section 65</p>
 
 Death of Holder of a Firearm or Ammunition
 
@@ -1689,7 +1689,7 @@ Death of Holder of a Firearm or Ammunition
 
 (2) The relevant police unit shall provide the authority responsible for inheritance proceedings with information on the deceased holder of the firearm and on his/her firearm, the main part of a firearm, the prohibited accessory to a firearm or ammunition.
 
-Section 66
+### <a name="section_66"></a><p align="center">Section 66</p>
 
 Inheriting a Firearm or Ammunition
 
@@ -1697,13 +1697,13 @@ Inheriting a Firearm or Ammunition
 
 (2) If a natural person acquires a firearm referred to in paragraph 1 by inheriting it and he/she has a responsible representative the provisions of paragraph 1 shall apply to such representative accordingly.
 
-Section 67
+### <a name="section_67"></a><p align="center">Section 67</p>
 
 Notification of Forfeiture or Seizure of a Firearm, a main Part of a Firearm, a Prohibited Accessory to a Firearm or Ammunition
 
 An authority which took a decision, within criminal proceedings or proceedings on minor offences, on forfeiture or seizure of a firearm, a main part of a firearm, a prohibited accessory of a firearm or ammunition shall send a duplicate of such decision furnished with a clause of legal force to the relevant police unit.
 
-Section 68
+### <a name="section_68"></a><p align="center">Section 68</p>
 
 Discoveries of Documents, Firearms, Ammunition and Explosives
 
@@ -1715,7 +1715,7 @@ Discoveries of Documents, Firearms, Ammunition and Explosives
 
 (4) Unexploded artillery ammunition and explosives which were found within activities in the field of unexploded ordnance shall be in public ownership and shall be determined for destruction or deactivation. The police shall order and carry out the destruction.
 
-Section 69
+### <a name="section_69"></a><p align="center">Section 69</p>
 
 Extinguishment of Punishability of Unauthorized Acquisition and Possession of Firearms
 
@@ -1723,7 +1723,7 @@ Extinguishment of Punishability of Unauthorized Acquisition and Possession of Fi
 
 (2) The person who delivered a firearm or main part of a firearm may, within a period of two months from the date of such delivery, apply for relevant documents authorising him/her to possess such firearm or main part of a firearm. If the person does not apply for specified documents or if the documents are not issued Section 64 shall apply accordingly.
 
-Section 70
+### <a name="section_70"></a><p align="center">Section 70</p>
 
 Exceptional Measures
 
@@ -1735,7 +1735,7 @@ Exceptional Measures
 
 INFORMATION SYSTEMS ON FIREARMS, AMMUNITION AND OPERATIONS OF SHOOTING RANGES
 
-Section 71
+### <a name="section_71"></a><p align="center">Section 71</p>
 
 Information Systems
 
@@ -1769,7 +1769,7 @@ j) discovered unexploded artillery ammunition and explosives.
 
 (5) The Ministry shall be authorised to constantly enter information systems of the police maintained pursuant to paragraph 2 and to use the data included for meeting their tasks relating to firearms and ammunition.
 
-Section 72
+### <a name="section_72"></a><p align="center">Section 72</p>
 
 Storing Data and Documentation
 
@@ -1779,7 +1779,7 @@ Storing Data and Documentation
 
 (3) When maintaining documentation concerning information systems a special legal regulation shall apply.16) 
 
-Section 73
+### <a name="section_73"></a><p align="center">Section 73</p>
 
 Data Provision
 
@@ -1803,7 +1803,7 @@ T I T L E XI
 
 EXECUTION OF STATE ADMINSITRATION
 
-Section 74
+### <a name="section_74"></a><p align="center">Section 74</p>
 
 (1) The Ministry, the police, embassies or consulates of the Czech Republic and the Czech Proof House for Firearms and Ammunition shall execute state administration in matters concerning firearms, ammunition and activities in the field of unexploded ordnance.
 
@@ -1843,7 +1843,7 @@ e) authorise transportation of firearms and ammunition (Section 50 (1) ).
 
 (7) An embassy or a consulate of the Czech Republic shall issue firearm letters of conveyance for permanent import of firearms and ammunition, firearm letters of conveyance for the transit of firearms and ammunition and receive applications for authorising transportation which are then sent to the Police Presidium.
 
-Section 75
+### <a name="section_75"></a><p align="center">Section 75</p>
 
 (1) Supervision of compliance with this Act and related legal regulations shall be carried out by
 
@@ -1871,7 +1871,7 @@ e) to seize discovered unexploded artillery ammunition or explosives from a hold
 
 
 
-Section 75a
+### <a name="section_75a"></a><p align="center">Section 75a</p>
 
 (1) The police shall supervise whether the Act is adhered to by holders of firearm permits, holders of firearms of category D and ammunition for such firearms and other holders of firearms and ammunition. Within the supervision the police shall
 
@@ -1905,7 +1905,7 @@ ADMINISTRATIVE INFRACTIONS
 
 Minor Offences
 
-Section 76
+### <a name="section_76"></a><p align="center">Section 76</p>
 
 ###### (1) A natural person shall commit a minor offence if he/she
 
@@ -2119,7 +2119,7 @@ a) CZK 50,000 in the case of a minor offence under paragraph 1 (a), (d) or (h);
 
 b) CZK 30,000 in the case of a minor offence under paragraph 1 (b);
 
-Section 76d
+### <a name="section_76d"></a><p align="center">Section 76d</p>
 
 ###### (1) The holder of a firearm licence of groups A through J shall commit an administrative infraction if he/she
 
@@ -2211,7 +2211,7 @@ a) CZK 1,000,000 in the case of a minor offence under paragraph 1 (b), (d), (f),
 
 b) CZK 500,000 in the case of a minor offence under paragraph 1 (a), (c), (e), (g), (h), (j), (k), (l) or (p), paragraph 2 (c), paragraph 3 (b), paragraphs 4, 5 or 6, paragraph 7 (d), (e) or (h).
 
-Section 76e
+### <a name="section_76e"></a><p align="center">Section 76e</p>
 
 (1) For an administrative infraction pursuant to Section 76c or Section 76d a sanction of confiscation of a firearm of category A, B, C or D or ammunition may be imposed if a firearm of category A, B, C or D or ammunition is in the possession of the offender of an administrative infraction and
 
@@ -2223,7 +2223,7 @@ b) such firearm or ammunition was obtained or acquired through an administrative
 
 (3) The state shall become the owner of a confiscated firearm of category A, B, C or D or ammunition.
 
-Section 76f
+### <a name="section_76f"></a><p align="center">Section 76f</p>
 
 (1) If a sanction of confiscation of a firearm of category A, B, C or D or ammunition was not imposed under Section 76e (1) (a) or (b) it may be decided that such firearm shall be seized if
 
@@ -2237,7 +2237,7 @@ and if it is required for the safety of persons or property or if it is in other
 
 Common Provisions on Administrative Infractions
 
-Section 77
+### <a name="section_77"></a><p align="center">Section 77</p>
 
 ###### (1) A legal entity shall not be liable for an administrative infraction they are able to prove that they have made their best efforts to prevent violation of a legal obligation.
 
@@ -2251,7 +2251,7 @@ Section 77
 
 (6) Fines for administrative infractions committed by legal entities or natural persons (entrepreneurs) shall be collected by the authority which imposed such fine or enforced by a customs office if the fine has not been paid. The revenue from fines shall be deemed to be the revenue of the state budget.
 
-Section 77a
+### <a name="section_77a"></a><p align="center">Section 77a</p>
 
 The police may deal with a minor offence under this Act on the spot by issuing a penalty ticket. A minor offence may be sanctioned by means of a penalty ticket in the amount of up to CZK 5,000.
 
@@ -2259,11 +2259,11 @@ T I T L E XIII
 
 COMMON PROVISIONS
 
-Section 78
+### <a name="section_78"></a><p align="center">Section 78</p>
 
 If an application by a natural person or legal entity for an exception under this Act, for authorisation to acquire and possess firearms of category B or for a document or for authorisation for transportation is fully satisfied the relevant document may be issued instead of a written decision<a name="fn22_ref"></a><sup>[22)](#fn22)</sup>.
 
-Section 79
+### <a name="section_79"></a><p align="center">Section 79</p>
 
 Empowering Provisions
 
@@ -2291,7 +2291,7 @@ e) the specimen of a notification of acquiring or transferring legal title to a 
 
 TRANSITIONAL PROVISIONS
 
-Section 80
+### <a name="section_80"></a><p align="center">Section 80</p>
 
 (1) An exception concerning a firearm of category A granted in accordance with the current legal regulation shall be deemed to be an exception granted under this Act. The relevant police unit shall issue a new firearm permit within six months from the effective date of this Act to a person who is authorised according to the aforementioned exception to carry such firearm. A record of previous authorisation shall be included in the new firearm permit.
 
@@ -2301,7 +2301,7 @@ Section 80
 
 (4) All persons who are authorised as of the date of effect of this Act to operate a shooting range shall be obliged to establish a shooting range manager and to furnish the shooting range with a first aid kit under this Act not later than within four months of the date of effect of this Act; the relevant police unit shall be supplied with the personal data of the established shooting range manager within ten working days from the date of the appointment of the new shooting range manager.
 
-Section 81
+### <a name="section_81"></a><p align="center">Section 81</p>
 
 (1) A firearm permit issued prior to the date of effect of this Act shall be valid for the period recorded in it unless otherwise stipulated hereunder and groups of firearm permits are to be transferred as follows:
 
@@ -2323,11 +2323,11 @@ c) group F – for protecting health, life and property in places which are not ac
 
 (7) Other documents issued in accordance with a legal regulation effective prior to the date of effect of this Act shall remain valid for a period specified in a legal regulation valid prior to the date of effect of this Act.
 
-Section 82
+### <a name="section_82"></a><p align="center">Section 82</p>
 
 Proceeding on an application for a firearm permit or a firearm licence commenced prior the date of effect of this Act shall be completed under the current legal regulations.
 
-Section 83
+### <a name="section_83"></a><p align="center">Section 83</p>
 
 Repealing Provisions
 
@@ -2341,7 +2341,7 @@ The following Acts are hereby repealed:
 
 **Amendment to Act No. 156/2000 Coll.**
 
-Section 84
+### <a name="section_84"></a><p align="center">Section 84</p>
 
 Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges, as amended is hereby amended as follows:
 
@@ -2361,7 +2361,7 @@ Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles 
 
 Amendment to the Trade Licensing Act
 
-Section 85
+### <a name="section_85"></a><p align="center">Section 85</p>
 
 Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), as amended by Act No. 231/1992 Coll., Act No. 591/1992 Coll., Act No. 600/1992 Coll., Act No. 273/1993 Coll., Act No. 303/1993 Coll., Act No. 38/1994 Coll., Act No. 42/1994 Coll., Act No. 136/1994 Coll., Act No. 200/1994 Coll., Act No. 237/1995 Coll., Act No. 286/1995 Coll., Act No. 94/1996 Coll., Act No. 95/1996 Coll., Act No.147/1996 Coll., Act No. 19/1997 Coll., Act No. 49/1997 Coll., Act No. 61/1997 Coll., Act No. 79/1997 Coll., Act No. 217/1997 Coll., Act No. 280/1997 Coll., Act No. 15/1998 Coll., Act No. 83/1998 Coll., Act No. 157/1998 Coll., Act No. 167/1998 Coll., Act No. 159/1999 Coll., Act No. 356/1999 Coll., Act No. 358/1999 Coll., Act No. 360/1999 Coll., Act No. 363/1999 Coll., Act No. 27/2000 Coll., Act No. 29/2000 Coll., Act No. 121/2000 Coll., Act No. 122/2000 Coll., Act No. 123/2000 Coll., Act No. 124/2000 Coll., Act No. 149/2000 Coll., Act No. 151/2000 Coll., Act No. 158/2000 Coll., Act No. 247/2000 Coll., Act No. 249/2000 Coll., Act No. 258/2000 Coll., Act No. 309/2000 Coll., Act No. 362/2000 Coll., Act No. 409/2000 Coll., Act No. 458/2000 Coll., Act No. 100/2001 Coll., Act No. 120/2001 Coll., Act No. 164/2001 Coll., Act No. 256/2001 Coll., Act No. 274/2001 Coll., Act No. 477/2001 Coll., Act No. 478/2001 Coll., Act No. 501/2001 Coll., and Act No. 86/2002 Coll. are hereby amended as follows
 
@@ -2391,7 +2391,7 @@ In column 5 the words &quot;Section 63 of Act No. 288/1995 Coll. on firearms and
 
 6. In Annex 3 titled PERMITTED TRADES, Group 314 &quot;Miscellaneous&quot; the trade &quot;Providing shooting training courses&quot; in column 5 the words &quot;Section 63 of Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms),&quot; are hereby removed.
 
-Section 86
+### <a name="section_86"></a><p align="center">Section 86</p>
 
 Transitional Provisions
 
@@ -2407,7 +2407,7 @@ Transitional Provisions
 
 P A R T F O U R
 
-Section 87
+### <a name="section_87"></a><p align="center">Section 87</p>
 
 **ENTRY INTO EFFECT **
 
