@@ -2337,9 +2337,7 @@ The following Acts are hereby repealed:
 
 2. Act No. 13/1998 Coll. amending and supplementing Act No.288/1995 Coll. on firearms and ammunition (the Act on Firearms).
 
-**P A R T T W O**
-
-**Amendment to Act No. 156/2000 Coll.**
+# <a name="part_2"></a><p align="center">P A R T &emsp; T W O <br /> Amendment &ensp; to Act No. 156/2000 Coll.</p>
 
 ### <a name="section_84"></a><p align="center">Section 84</p>
 
@@ -2357,9 +2355,7 @@ Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles 
 
 
 
-**P A R T T H R E E**
-
-Amendment to the Trade Licensing Act
+# <a name="part_3"></a><p align="center">P A R T &emsp; T H R E E <br /> Amendment &ensp; to to the Trade Licensing Act</p>
 
 ### <a name="section_85"></a><p align="center">Section 85</p>
 
@@ -2405,7 +2401,8 @@ Transitional Provisions
 
 (5) Acts under paragraphs 2 and 3 shall be exempted from administrative charges.
 
-P A R T F O U R
+
+# <a name="part_3"></a><p align="center">P A R T &emsp; F O U R</p>
 
 ### <a name="section_87"></a><p align="center">Section 87</p>
 
@@ -2432,15 +2429,13 @@ Entry into effect of the amendments
 11. Act No. 274/2008 Coll. amending some acts in relation to the adoption of the Act on the Police of the Czech Republic came into effect on 1 January 2009.
 12. Act No. 484/2008 Coll. amending Act No. 119/2002 Coll. on firearms and ammunition and n the amendment to Act No. 156/2000 Coll. and on the amendment to Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms), as amended, Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges and Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), (the Act on Firearms), as amended, and Act No. 200/1990 Coll. on minor offences, as amended came into effect on the first day of the second calendar month following the date of its publication (1 February 2009).
 
-\* \* \*
+********************************************************************************
 
-Selected transitional and final provisions
+# <p align="center">\* \* \* <br /> Selected transitional and final provisions</p>
 
 Article II of Act No. 484/2008 Coll. amending Act No. 119/2002 Coll. on firearms and ammunition and on the amendment to Act No. 156/2000 Coll. and on the amendment to Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms), as amended by Act No. 13/1998 Coll. and by Act No. 368/1992 Coll. on administrative fees and charges and Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), (the Act on Firearms), as amended and Act No. 200/1990 Coll. on minor offences, as amended, reads as follows:
 
-## Article. II
-
-Transitional Provisions
+## <p align="center">Article. II <br />**Transitional Provisions**</p>
 
 1. Punishment of unauthorised arming shall not apply provided that any person who, without being authorised to do so, keeps a firearm of category A, B or C or a main part of such firearm delivers such firearm or its main part within six months of the date of effect of this Act voluntarily to any police office for custody. The police office shall issue a certificate thereon. Such person who delivered a firearm or a main part of a firearm may, within a period of two months from the date of such delivery, apply for relevant documents authorising him/her to possess such firearm or a main part of a firearm. If such person does not apply for the specified documents or if the documents are not issued the provisions of Section 64 of Act No. 119/2002 Coll. shall apply accordingly.
 
@@ -2452,13 +2447,13 @@ Transitional Provisions
 
 5. Anyone who as of the e date of effect of this Act keeps ammunition with a penetration projectile which is made of material harder than 250 HB - Brinell hardness or a projectile which is loaded into ammunition and which, by its construction or impact energy demonstrates a penetrating effect, shall be authorised to keep it and shall be obliged to treat it, as of the effective date of this Act, as prohibited ammunition.
 
+********************************************************************************
+
 Annex to Act. 119/2002 Coll.
 
-Definitions of Firearms, Weapons and Ammunition
+# <p align="center">Definitions of Firearms, Weapons and Ammunition</p>
 
-PART ONE
-
-TYPES OF FIREARMS
+## <p align="center">PART ONE <br /> TYPES OF FIREARMS</p>
 
  1. **Firearm** – a weapon the function of which is derived from the immediate release of energy during discharge; designated for for a required effect at a defined distance.
 
@@ -2512,9 +2507,8 @@ TYPES OF FIREARMS
 
  26. **Firing equipment** – equipment for propelling projectiles with reactive propulsion or ammunition with the reactive impact of a bag-cartridge such as anti-tank weapons; a bazooka, a rocket gun, and land, air or sea firing equipment; firing equipment for special projectiles.
 
-PART WO
+## <p align="center">PART WO <br /> TYPES OF AMMUNITION</p>
 
-TYPES OF AMMUNITION
 
 1. **Ammunition** – comprehensive expression for cartridges, bag-cartridges and projectiles for firearms.
 
