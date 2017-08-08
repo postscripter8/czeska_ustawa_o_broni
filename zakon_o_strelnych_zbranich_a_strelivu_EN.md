@@ -75,7 +75,7 @@ Classification of Firearms and Ammunition
 
 (1) For the purpose of this Act firearms and ammunition shall be classified as follows:
 
-a) prohibited firearms, prohibited ammunition or prohibited accessories – category A (hereinafter referred to as 'category A firearms');
+a) prohibited firearms, prohibited ammunition or prohibited accessories - category A (hereinafter referred to as 'category A firearms');
 
 b) firearms subject to authorisation - category B (hereinafter referred to as 'category B firearms');
 
@@ -416,9 +416,7 @@ Eligible Age for the Issue of a Firearm Permit
 
 (6) In those cases referred to in paragraphs 3 and 4, the written consent of a statutory representative and the recommendation of the relevant civic association, school or vocational school shall be required. A person under 18 years of age may acquire, however not purchase, and keep a firearm and ammunition for sporting or hunting purposes only with the consent of the statutory representative. Such person may use a firearm or ammunition only in the presence of a person who is at least 21 years of age and who has been a holder of a firearm permit for group B or C for at least three years and who shall ensure safe use of the firearm or ammunition.
 
-### <a name="section_20"></a><p align="center">Section 20</p>
-
-Health Capability to be Issued a Firearm Permit
+### <a name="section_20"></a><p align="center">Section 20 <br /> Health Capability to be Issued a Firearm Permit</p>
 
 (1) An assessing physician shall issue a certificate regarding the health capability of an applicant for a firearm permit on the basis of a medical examination or, as the case may be, on the basis of a psychological examination and other necessary tests. For the purposes of this Act the assessing physician shall be a family doctor with whom the applicant for a firearm permit or the firearm permit holder is registered for medical care; in the case of an applicant for a firearm permit for group D, the assessing physician shall be a doctor at a medical facility providing preventive medical care to the relevant employer.
 
@@ -866,27 +864,27 @@ Firearm Licences and Their Groups
 
 A firearm licence is an official deed authorising a legal or natural person to acquire and hold firearms and ammunition within the scope of authorisation stipulated for individual groups of firearm licence or for carrying out activities in the field of unexploded ordnance in accordance with authorisation stipulated for a firearm licence for group K. Firearm licences shall be divided, in accordance with the reasons for using such firearms and ammunition and the scope of authorisation, into the following groups:
 
-a) A – development and production of firearms and ammunition;
+a) A - development and production of firearms and ammunition;
 
-b) B – repairs, modifications or deactivation of firearms and ammunition;
+b) B - repairs, modifications or deactivation of firearms and ammunition;
 
-c) C – purchase, sale or transport of firearms and ammunition;
+c) C - purchase, sale or transport of firearms and ammunition;
 
-d) D – lending firearms or storing firearms and ammunition;
+d) D - lending firearms or storing firearms and ammunition;
 
-e) E – destruction or deactivation of firearms and ammunition;
+e) E - destruction or deactivation of firearms and ammunition;
 
-f) F – teaching or training shooting;
+f) F - teaching or training shooting;
 
-g) G – guarding property and people;
+g) G - guarding property and people;
 
-h) H – organising and holding sporting, cultural or similar activities;
+h) H - organising and holding sporting, cultural or similar activities;
 
-i) I – pursuing cultural heritage activities, or for collecting purposes;
+i) I - pursuing cultural heritage activities, or for collecting purposes;
 
-j) J – meeting an assignment under a special legal regulation<sup>[10)](#fn10)</sup>; and
+j) J - meeting an assignment under a special legal regulation<sup>[10)](#fn10)</sup>; and
 
-k) K – carrying out activities in the field of unexploded ordnance.
+k) K - carrying out activities in the field of unexploded ordnance.
 
 
 
@@ -2275,9 +2273,9 @@ e) the specimen of a notification of acquiring or transferring legal title to a 
 
 a) group A, B or C shall remain;
 
-b) group D – for performing an occupation in places which are not accessible to the general public and group E – for performing an occupation in places which are accessible to the general public shall be transferred to group D - for performing an occupation or profession;
+b) group D - for performing an occupation in places which are not accessible to the general public and group E - for performing an occupation in places which are accessible to the general public shall be transferred to group D - for performing an occupation or profession;
 
-c) group F – for protecting health, life and property in places which are not accessible to the general public and group G - for protecting health, life and property in places which are accessible to the general public, shall be transferred to group E - for protecting health, life and property.
+c) group F - for protecting health, life and property in places which are not accessible to the general public and group G - for protecting health, life and property in places which are accessible to the general public, shall be transferred to group E - for protecting health, life and property.
 
 (2) The validity of a firearm permit for group H issued in accordance with the current legal regulation shall cease to exist after twelve months from the date of effect of this Act.
 
@@ -2418,100 +2416,100 @@ Annex to Act. 119/2002 Coll.
 
 ## <p align="center">PART ONE <br /> TYPES OF FIREARMS</p>
 
- 1. **Firearm** – a weapon the function of which is derived from the immediate release of energy during discharge; designated for for a required effect at a defined distance.
+ 1. **Firearm** - a weapon the function of which is derived from the immediate release of energy during discharge; designated for for a required effect at a defined distance.
 
- 2. **Firearm** – a weapon the function of which is derived from the immediate release of chemical energy.
+ 2. **Firearm** - a weapon the function of which is derived from the immediate release of chemical energy.
 
- 3. **Gas gun** – a firearm the function of which is derived from the immediate release of pressurised air or any other gas.
+ 3. **Gas gun** - a firearm the function of which is derived from the immediate release of pressurised air or any other gas.
 
- 4. **Mechanical weapon** – a weapon the function of which is derived from the immediate release of accumulated mechanical energy.
+ 4. **Mechanical weapon** - a weapon the function of which is derived from the immediate release of accumulated mechanical energy.
 
- 5. **Alarm weapon** – a firearm the construction of which excludes to use a ball cartridge or a cartridge with multiple projectiles (pellets).
+ 5. **Alarm weapon** - a firearm the construction of which excludes to use a ball cartridge or a cartridge with multiple projectiles (pellets).
 
- 6. **Firing device** – equipment where a primary source of energy is an explosive substance contained in ammunition for firing devices.
+ 6. **Firing device** - equipment where a primary source of energy is an explosive substance contained in ammunition for firing devices.
 
- 7. **Rifle** – a shooting gun with a barrel (or barrels) for shooting with ball cartridges or ball projectiles or with special cartridges or projectiles made for a rifle.
+ 7. **Rifle** - a shooting gun with a barrel (or barrels) for shooting with ball cartridges or ball projectiles or with special cartridges or projectiles made for a rifle.
 
  8. **Shotgun** - a shooting gun with a barrel (orbarrels) for shooting with shotgun cartridges or with special cartridges for a shotgun.
 
  9. **Combined firearm** - a shooting gun with a barrel (orbarrels) for shooting with ball cartridges or projectiles or with special cartridges or projectiles made for a rifle and with a barrel (or barrels) for shooting with shotgun cartridges or with special cartridges for a shotgun.
 
- 10. **Short firearm** – a shooting gun the barrel of which does not exceed 300 mm in length, or which in total does not exceed 600 mm in length.
+ 10. **Short firearm** - a shooting gun the barrel of which does not exceed 300 mm in length, or which in total does not exceed 600 mm in length.
 
- 11. **Long firearm** – a shooting gun which is not a short firearm.
+ 11. **Long firearm** - a shooting gun which is not a short firearm.
 
- 12. **Fully automatic firearm** – a firearm which loads a new cartrige through the energy of the fired round; the construction of such firearm enables multiple shots upon one pull of the trigger.
+ 12. **Fully automatic firearm** - a firearm which loads a new cartrige through the energy of the fired round; the construction of such firearm enables multiple shots upon one pull of the trigger.
 
- 13. **Semi-automatic (self-loading) ** firearm – a shooting gun which loads a new cartrige through the energy of the fired round; the construction of such firearm does not enable multiple shots upon one pull of the trigger.
+ 13. **Semi-automatic (self-loading)** firearm - a shooting gun which loads a new cartrige through the energy of the fired round; the construction of such firearm does not enable multiple shots upon one pull of the trigger.
 
- 14. **Repeating firearm** – a shooting gun with a magazine or a similar feeding device where the firearm is manually re-cocked and re-loaded or where a revolver cylinder is mechanically turned.
+ 14. **Repeating firearm** - a shooting gun with a magazine or a similar feeding device where the firearm is manually re-cocked and re-loaded or where a revolver cylinder is mechanically turned.
 
- 15. **One-shot firearm** – a shooting gun without a magazine or a similar feeding device which is reloaded by the manual insertion of a cartridge into a cartridge chamber, barrel or a firing chamber.
+ 15. **One-shot firearm** - a shooting gun without a magazine or a similar feeding device which is reloaded by the manual insertion of a cartridge into a cartridge chamber, barrel or a firing chamber.
 
- 16. **Multiple shot firearm** – a shooting gun without a magazine or similar feeding device with two or more barrels, which is reloaded by manual insertion of a cartridge into a cartridge chamber, barrel or a firing chamber.
+ 16. **Multiple shot firearm** - a shooting gun without a magazine or similar feeding device with two or more barrels, which is reloaded by manual insertion of a cartridge into a cartridge chamber, barrel or a firing chamber.
 
- 17. **Military weapon** – a firearm which is designed for sea, air or land warfare.
+ 17. **Military weapon** - a firearm which is designed for sea, air or land warfare.
 
  18. **Sporting weapon** - a firearm determined by rules of sports shooting both for national and international disciplines.
 
- 19. **Hunting weapon** – a firearm designed for hunting animals and shooting them in accordance with the Act on game keeping and hunting.
+ 19. **Hunting weapon** - a firearm designed for hunting animals and shooting them in accordance with the Act on game keeping and hunting.
 
- 20. **Paintball gun** – a gas gun that propels projectiles filled with a paint-like dye.
+ 20. **Paintball gun** - a gas gun that propels projectiles filled with a paint-like dye.
 
- 21. **Signal gun** – single purpose equipment constructed on the principle of a short or long firearm for the use of signal cartridges the calibre of which is more than 16mm.
+ 21. **Signal gun** - single purpose equipment constructed on the principle of a short or long firearm for the use of signal cartridges the calibre of which is more than 16mm.
 
- 22. **Historical weapon** – a firearm produced before 31 December 1890 where all main parts of such firearm were produced before so 31 December 1890.
+ 22. **Historical weapon** - a firearm produced before 31 December 1890 where all main parts of such firearm were produced before so 31 December 1890.
 
- 23. **Main parts of a firearm** – a barrel, insertion?? barrel, insertion?? cartridge chamber, frame, revolver cylinder, breech casing or body and breech.
+ 23. **Main parts of a firearm** - a barrel, insertion?? barrel, insertion?? cartridge chamber, frame, revolver cylinder, breech casing or body and breech.
 
- 24. **Deactivated firearm** – a firearm which was deactivated by procedure specified by a legal regulation.
+ 24. **Deactivated firearm** - a firearm which was deactivated by procedure specified by a legal regulation.
 
- 25. **Cut of a firearm** – a firearm modified by a procedure specified in a legal regulation which, at least partially, uncovers the internal construction of the firearm.
+ 25. **Cut of a firearm** - a firearm modified by a procedure specified in a legal regulation which, at least partially, uncovers the internal construction of the firearm.
 
- 26. **Firing equipment** – equipment for propelling projectiles with reactive propulsion or ammunition with the reactive impact of a bag-cartridge such as anti-tank weapons; a bazooka, a rocket gun, and land, air or sea firing equipment; firing equipment for special projectiles.
+ 26. **Firing equipment** - equipment for propelling projectiles with reactive propulsion or ammunition with the reactive impact of a bag-cartridge such as anti-tank weapons; a bazooka, a rocket gun, and land, air or sea firing equipment; firing equipment for special projectiles.
 
 ## <p align="center">PART WO <br /> TYPES OF AMMUNITION</p>
 
 
-1. **Ammunition** – comprehensive expression for cartridges, bag-cartridges and projectiles for firearms.
+1. **Ammunition** - comprehensive expression for cartridges, bag-cartridges and projectiles for firearms.
 
-2. **Reloaded ammunition** – ammunition which uses already used cases.
+2. **Reloaded ammunition** - ammunition which uses already used cases.
 
-3. **Testing ammunition** – ammunition determined for official testing of firearms under a special legal regulation.
+3. **Testing ammunition** - ammunition determined for official testing of firearms under a special legal regulation.
 
-4. **Military ammunition** – a comprehensive expression for hand and other grenades, projectiles for anti-tank weapons and bazookas, artillery ammunition, bombs, torpedoes, directed and non-directed missiles, case (container) ammunition, primers of explosives, mines, pyro- cartridges,deceptive target to be launched, imitation explosive means, signal and lighting means, incendiary devices including equipment for remote shooting; main parts such as artillery projectiles and bag-cartridges, exploders, igniters and initiators intended for military purposes are also deemed to be military ammunition.
+4. **Military ammunition** - a comprehensive expression for hand and other grenades, projectiles for anti-tank weapons and bazookas, artillery ammunition, bombs, torpedoes, directed and non-directed missiles, case (container) ammunition, primers of explosives, mines, pyro- cartridges,deceptive target to be launched, imitation explosive means, signal and lighting means, incendiary devices including equipment for remote shooting; main parts such as artillery projectiles and bag-cartridges, exploders, igniters and initiators intended for military purposes are also deemed to be military ammunition.
 
-5. **Inactive ammunition** –ammunition which does not contain explosives or other activating ammunition fills. It includes disassembled ammunition, deactivated ammunition, cuts of ammunition and dummy ammunition.
+5. **Inactive ammunition** -ammunition which does not contain explosives or other activating ammunition fills. It includes disassembled ammunition, deactivated ammunition, cuts of ammunition and dummy ammunition.
 
-6. **Projectile** – an object discharged from a firearm designed to hit a target or to have any other mpact.
+6. **Projectile** - an object discharged from a firearm designed to hit a target or to have any other mpact.
 
 7. **Compact projectile** - an object designed to hit a target or to have a different impact which does not divide after leaving the barrel.
 
-8. **Multiple projectiles** – an object or substance in solid, liquid or gaseous state designed to hit a target or to have a different impact which divides after leaving the barrel.
+8. **Multiple projectiles** - an object or substance in solid, liquid or gaseous state designed to hit a target or to have a different impact which divides after leaving the barrel.
 
-9. **Penetrating projectile** – a compact projectile which is made of material harder than 250 HB - Brinell hardness or a projectile incorporated into ammunition, which due to its construction or impact energy demonstrates a penetrating impact; as a rule ammunition has a penetrating projectile having a combined impact specified for military or other special purposes.
+9. **Penetrating projectile** - a compact projectile which is made of material harder than 250 HB - Brinell hardness or a projectile incorporated into ammunition, which due to its construction or impact energy demonstrates a penetrating impact; as a rule ammunition has a penetrating projectile having a combined impact specified for military or other special purposes.
 
-10. **Explosive projectile** – a composed metal cased projectile containing an explosive composed of a metal cased bullet containing an explosive component which explodes upon impact.
+10. **Explosive projectile** - a composed metal cased projectile containing an explosive composed of a metal cased bullet containing an explosive component which explodes upon impact.
 
 11. **Ignition charge** - a composed metal cased projectile containing an insendiary component which ignites in the air or upon impact.
 
-12. **Shock projectile** – a compact projectile with a point in the shape of a truncated cone which is furnished with an open cylindrical cavity upon which a part of the lead core in the shape of a truncated cone trenches and the metal case is lengthwise cut on the edges.
+12. **Shock projectile** - a compact projectile with a point in the shape of a truncated cone which is furnished with an open cylindrical cavity upon which a part of the lead core in the shape of a truncated cone trenches and the metal case is lengthwise cut on the edges.
 
-13. **Cartridge** – a unit designed to be inserted (loaded) into a gun, signal weapon or a special weapon; it consists of a case, primer or a primer component, explosive fill and a projectile.
+13. **Cartridge** - a unit designed to be inserted (loaded) into a gun, signal weapon or a special weapon; it consists of a case, primer or a primer component, explosive fill and a projectile.
 
 14. **Bag-cartridge** - a unit designed to be inserted (loaded) into an expansive firearm or expansive device; it consists of a case, primer or a primer component and can contain explosive fill, granules or irritable chemical substance.
 
-15. **Deactivated ammunition** – ammunition to which irreversible modifications have been made which have disabled the original function. Deactivated ammunition shall be identified in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
+15. **Deactivated ammunition** - ammunition to which irreversible modifications have been made which have disabled the original function. Deactivated ammunition shall be identified in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
 
-16. **Cut of ammunition** – a cut of ammunition made for teaching and training purposes for armed forces disposed of explosives and other active fills of ammunition and to which modifications have been made uncovering, at least partially, the internal construction of the ammunition including substitutive (inert) fills. A cut of ammunition shall be identified in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
+16. **Cut of ammunition** - a cut of ammunition made for teaching and training purposes for armed forces disposed of explosives and other active fills of ammunition and to which modifications have been made uncovering, at least partially, the internal construction of the ammunition including substitutive (inert) fills. A cut of ammunition shall be identified in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
 
-17. **Disassembled ammunition** – ammunition removed of explosives and other active ammunition fills, not marked in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
+17. **Disassembled ammunition** - ammunition removed of explosives and other active ammunition fills, not marked in accordance with a special legal regulation<a name="fn23_ref"></a><sup>[23)](#fn23)</sup>.
 
-18. **Dummy ammunition** – ammunition identical in terms of shape and dimensions with the original sample, not containing explosives and other active ammunition fills and usually produced from non-standard material. It can contain fills made of substitutive (inert) material. It includes civil or military training ammunition or ammunition specified for teaching or training.
+18. **Dummy ammunition** - ammunition identical in terms of shape and dimensions with the original sample, not containing explosives and other active ammunition fills and usually produced from non-standard material. It can contain fills made of substitutive (inert) material. It includes civil or military training ammunition or ammunition specified for teaching or training.
 
-19. **Unexploded artillery ammunition** – a comprehensive expression for ammunition which was prepared to be used or which has been used (for example it was discharged, dropped, scattered, fired, thrown or swept and unexploded for example as a result of failure of the initiation mechanism or which has been constructed so that it explodes for other reasons (by stepping on it).
+19. **Unexploded artillery ammunition** - a comprehensive expression for ammunition which was prepared to be used or which has been used (for example it was discharged, dropped, scattered, fired, thrown or swept and unexploded for example as a result of failure of the initiation mechanism or which has been constructed so that it explodes for other reasons (by stepping on it).
 
-20. **Training projectile** ­– a projectile designed for acoustic and lighting imitation of sharp shooting.
+20. **Training projectile** ­- a projectile designed for acoustic and lighting imitation of sharp shooting.
 
 
 ********************************************************************************
