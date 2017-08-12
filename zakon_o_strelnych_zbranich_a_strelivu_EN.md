@@ -2368,7 +2368,7 @@ Transitional Provisions
 (5) Acts under paragraphs 2 and 3 shall be exempted from administrative charges.
 
 
-# <a name="part_3"></a><p align="center">P A R T &emsp; F O U R</p>
+# <a name="part_4"></a><p align="center">P A R T &emsp; F O U R</p>
 
 ### <a name="section_87"></a><p align="center">Section 87 <br />ENTRY INTO EFFECT</p>
 
