@@ -11,11 +11,11 @@ as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/200
 
 The Parliament has adopted the following Act of the Czech Republic:
 
-# <a name="part_1"></a><p align="center">P A R T &emsp; O N E <br /> FIREARMS &ensp; AND &ensp; AMMUNITION</p>
+# <a name="part_1"></a><p align="center">P A R T &emsp; O N E<br /> FIREARMS &ensp; AND &ensp; AMMUNITION</p>
 
-## <a name="title_1"></a><p align="center">T I T L E &emsp; I <br /> INTRODUCTORY &emsp; PROVISIONS</p>
+## <a name="title_1"></a><p align="center">T I T L E &emsp; I<br /> INTRODUCTORY &emsp; PROVISIONS</p>
 
-### <a name="section_1"></a><p align="center">Section 1 <br /> **Scope of Application**</p>
+### <a name="section_1"></a><p align="center">Section 1<br /> **Scope of Application**</p>
 
 (1) This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
@@ -67,7 +67,7 @@ e) Providing firearms and ammunition shall mean to provide any other person with
 
 f) Activities in the field of unexploded ordnance shall mean a targeted search for ammunition and explosives and their identification using a specified procedure or their excavation.
 
-## <a name="title_2"></a><p align="center">T I T L E &emsp; II <br /> CATEGORIES &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
+## <a name="title_2"></a><p align="center">T I T L E &emsp; II<br /> CATEGORIES &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_3"></a><p align="center">Section 3</p>
 
@@ -193,7 +193,7 @@ j) deactivated artillery ammunition and ammunition; and
 
 k) firearms not listed in categories A through C.
 
-## <a name="title_3"></a><p align="center">T I T L E &emsp; III <br /> ACQUISITION, &emsp; POSSESSION &emsp; AND &emsp; CARRYING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
+## <a name="title_3"></a><p align="center">T I T L E &emsp; III<br /> ACQUISITION, &emsp; POSSESSION &emsp; AND &emsp; CARRYING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_8"></a><p align="center">Section 8</p>
 
@@ -319,7 +319,7 @@ b) carry a firearm or handle it in public places or in any place accessible to t
 
 c) store more than three kilos of smokeless or black hunting powder and more than 1,000 primers; primers must be stored separately in a separate box.
 
-## <a name="title_4"></a><p align="center">T I T L E &emsp; IV <br /> FIREARM &emsp; PERMIT</p>
+## <a name="title_4"></a><p align="center">T I T L E &emsp; IV<br /> FIREARM &emsp; PERMIT</p>
 
 ### <a name="section_16"></a><p align="center">Section 16</p>
 
@@ -416,7 +416,7 @@ Eligible Age for the Issue of a Firearm Permit
 
 (6) In those cases referred to in paragraphs 3 and 4, the written consent of a statutory representative and the recommendation of the relevant civic association, school or vocational school shall be required. A person under 18 years of age may acquire, however not purchase, and keep a firearm and ammunition for sporting or hunting purposes only with the consent of the statutory representative. Such person may use a firearm or ammunition only in the presence of a person who is at least 21 years of age and who has been a holder of a firearm permit for group B or C for at least three years and who shall ensure safe use of the firearm or ammunition.
 
-### <a name="section_20"></a><p align="center">Section 20 <br /> Health Capability to be Issued a Firearm Permit</p>
+### <a name="section_20"></a><p align="center">Section 20<br /> Health Capability to be Issued a Firearm Permit</p>
 
 (1) An assessing physician shall issue a certificate regarding the health capability of an applicant for a firearm permit on the basis of a medical examination or, as the case may be, on the basis of a psychological examination and other necessary tests. For the purposes of this Act the assessing physician shall be a family doctor with whom the applicant for a firearm permit or the firearm permit holder is registered for medical care; in the case of an applicant for a firearm permit for group D, the assessing physician shall be a doctor at a medical facility providing preventive medical care to the relevant employer.
 
@@ -464,7 +464,7 @@ b) fixed arget shooting.
 
 (9) The content of the theoretical and practical parts of the qualifications examination and overall evaluation of the qualifications examination of applicants for a firearm permit for groups A through E as well as the amount of remuneration for the examining commissionaire shall be stipulated by the implementing legal regulation.
 
-### <a name="section_21a"></a><p align="center">Section 21a <br /> **Professional Competence of an Applicant for a Firearm Permit for Group F**</p>
+### <a name="section_21a"></a><p align="center">Section 21a<br /> **Professional Competence of an Applicant for a Firearm Permit for Group F**</p>
 
 (1) An applicant for a firearm permit for group F shall prove his/her professional competence by the qualifications examination taken before an examining commission appointed by the Minister of the Interior and consisting of representatives designated by the Ministry, the police, the Ministry of Defence, the Ministry of Industry and Trade, and the Czech Mining Authority.
 
@@ -856,7 +856,7 @@ If the holder of an examining commissionaire certificate recognises the reason f
 
 (4) If an examining commissionaire certificate isinvalidated under paragraph1 (b) or under paragraph2 (a) or (c), the Ministryshall issue, after two photographs of the examining commissionaire are presented a new examining commissionaire certificatewithout any application with the period of validity being the same as that of the original examining commissionaire certificate.
 
-## <a name="title_5"></a><p align="center">T I T L E &emsp; V <br /> FIREARM &emsp; LICENCE</p>
+## <a name="title_5"></a><p align="center">T I T L E &emsp; V<br /> FIREARM &emsp; LICENCE</p>
 
 ### <a name="section_31"></a><p align="center">Section 31</p>
 
@@ -1137,7 +1137,7 @@ e) to meet assignments listed in the internal regulation issued under 39 (1) (d)
 
 (2) If a gunsmith cannot perform his/her duties, his obligations referred to in paragraph 1 shall be taken over by responsible representatives of a natural person, if such representative was established, or the responsible representative or member of the statutory body of a legal person.
 
-## <a name="title_6"></a><p align="center">T I T L E &emsp; VI <br /> Registration &emsp; of &emsp; firearms &emsp; and &emsp; a &emsp; firearm &emsp; certificate</p>
+## <a name="title_6"></a><p align="center">T I T L E &emsp; VI<br /> Registration &emsp; of &emsp; firearms &emsp; and &emsp; a &emsp; firearm &emsp; certificate</p>
 
 ### <a name="section_41"></a><p align="center">Section 41</p>
 
@@ -1176,7 +1176,7 @@ c) the way in which legal title was transferred.
 
 The obligation to register a firearm pursuant to Section 41 shall not apply to firearms which are the subject of business undertaking in the sector of firearms and ammunition. In other cases this obligation shall not apply to a natural or legal person who acquired a firearm upon a firearm letter of conveyance for a permanent export of a firearm or ammunition (Section 44 (2) ) or who imported a firearm to the Czech Republic upon a letter of conveyance for transit of such firearm of ammunition (Section 46 (2) ) with the intention to export it later from the Czech Republic, or where a firearm is only transported throughout the Czech Republic.
 
-## <a name="title_7"></a><p align="center">T I T L E &emsp; VII <br /> EXPORT, &emsp; IMPORT &emsp; AND &emsp; tranSit &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
+## <a name="title_7"></a><p align="center">T I T L E &emsp; VII<br /> EXPORT, &emsp; IMPORT &emsp; AND &emsp; tranSit &emsp; OF &emsp; FIREARMS &emsp; AND &emsp; AMMUNITION</p>
 
 ### <a name="section_44"></a><p align="center">Section 44</p>
 
@@ -1407,7 +1407,7 @@ f) the border crossing point across which firearms or ammunition is to leave the
 (8) The Ministry shall supply other Member States with the list of firearms and ammunition which may be imported to the Czech Republic without the prior consent of the relevant authorities of the Czech Republic.
 
 
-## <a name="title_8"></a><p align="center">T I T L E &emsp; VIII <br /> SHOOTING &emsp; RANGE</p>
+## <a name="title_8"></a><p align="center">T I T L E &emsp; VIII<br /> SHOOTING &emsp; RANGE</p>
 
 ### <a name="section_52"></a><p align="center">Section 52</p>
 
@@ -1489,7 +1489,7 @@ e) to cease shooting if life, health or property is endangered;
 
 f) to report, without undue delay, to a police unit any injuries or the death of persons during shooting or handling a firearm in the shooting range.
 
-## <a name="title_9"></a><p align="center">T I T L E &emsp; IX <br /> SPECIAL &emsp; PROVISIONS &emsp; ON &emsp; HANDLING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITON</p>
+## <a name="title_9"></a><p align="center">T I T L E &emsp; IX<br /> SPECIAL &emsp; PROVISIONS &emsp; ON &emsp; HANDLING &emsp; FIREARMS &emsp; AND &emsp; AMMUNITON</p>
 
 ### <a name="section_56"></a><p align="center">Section 56</p>
 
@@ -1711,7 +1711,7 @@ Exceptional Measures
 
 (2) A decision under paragraph 1 shall be published by mass media and shall be published as an Act; it shall come into effect immediately on the date provided for in such act.
 
-## <a name="title_10"></a><p align="center">T I T L E &emsp; X <br /> INFORMATION &emsp; SYSTEMS &emsp; ON &emsp; FIREARMS, &emsp; AMMUNITION &emsp; AND &emsp; OPERATIONS &emsp; OF &emsp; SHOOTING &emsp; RANGES</p>
+## <a name="title_10"></a><p align="center">T I T L E &emsp; X<br /> INFORMATION &emsp; SYSTEMS &emsp; ON &emsp; FIREARMS, &emsp; AMMUNITION &emsp; AND &emsp; OPERATIONS &emsp; OF &emsp; SHOOTING &emsp; RANGES</p>
 
 ### <a name="section_71"></a><p align="center">Section 71</p>
 
@@ -1777,7 +1777,7 @@ c) on acquiring a firearm of category C,, to a Member State if the person who ac
 
 (5) An embassy or a consulate of the Czech Republic shall forward necessary information on issued firearm letters of conveyance to the Police Presidium.
 
-## <a name="title_11"></a><p align="center">T I T L E &emsp; XI <br /> EXECUTION &emsp; OF &emsp; STATE &emsp; ADMINSITRATION</p>
+## <a name="title_11"></a><p align="center">T I T L E &emsp; XI<br /> EXECUTION &emsp; OF &emsp; STATE &emsp; ADMINSITRATION</p>
 
 ### <a name="section_74"></a><p align="center">Section 74</p>
 
@@ -1875,9 +1875,9 @@ f) request the holder of a firearm permit or a firearm holder who carries a fire
 
 g) check how gunsmiths and shooting range managers meet their obligations.
 
-## <a name="title_12"></a><p align="center">T I T L E &emsp; XII <br /> ADMINISTRATIVE &emsp; INFRACTIONS</p>
+## <a name="title_12"></a><p align="center">T I T L E &emsp; XII<br /> ADMINISTRATIVE &emsp; INFRACTIONS</p>
 
-### <a name="section_76"></a><p align="center"> **Minor Offences** <br /> Section 76</p>
+### <a name="section_76"></a><p align="center"> **Minor Offences**<br /> Section 76</p>
 
 (1) A natural person shall commit a minor offence if he/she
 
@@ -2065,7 +2065,7 @@ a) CZK 50,000 in the case of a minor offence under paragraphs 1 through 4;
 
 b) CZK 15,000 in the case of a minor offence under paragraph 5.
 
-### <a name="section_76c"></a><p align="center">**Administrative Infractions of Legal Entities and Natural Persons (Entrepreneurs)** <br /> Section 76c</p>
+### <a name="section_76c"></a><p align="center">**Administrative Infractions of Legal Entities and Natural Persons (Entrepreneurs)**<br /> Section 76c</p>
 
 (1) A legal entity or a natural person (entrepreneur) shall commit an administrative infraction if they acquires or possess a firearm and ammunition contrary to Section 8.
 
@@ -2225,7 +2225,7 @@ Common Provisions on Administrative Infractions
 
 The police may deal with a minor offence under this Act on the spot by issuing a penalty ticket. A minor offence may be sanctioned by means of a penalty ticket in the amount of up to CZK 5,000.
 
-## <a name="title_13"></a><p align="center">T I T L E &emsp; XIII <br /> COMMON &emsp; PROVISIONS</p>
+## <a name="title_13"></a><p align="center">T I T L E &emsp; XIII<br /> COMMON &emsp; PROVISIONS</p>
 
 ### <a name="section_78"></a><p align="center">Section 78</p>
 
@@ -2255,7 +2255,7 @@ e) the specimen of a notification of acquiring or transferring legal title to a 
 
 (5) The Ministry of Health shall issue the Decree in order to implement Section 20 (6) and Section 54 (2).
 
-## <a name="title_14"></a><p align="center">T I T L E &emsp; XIV <br /> TRANSITIONAL &emsp; PROVISIONS</p>
+## <a name="title_14"></a><p align="center">T I T L E &emsp; XIV<br /> TRANSITIONAL &emsp; PROVISIONS</p>
 
 ### <a name="section_80"></a><p align="center">Section 80</p>
 
@@ -2303,7 +2303,7 @@ The following Acts are hereby repealed:
 
 2. Act No. 13/1998 Coll. amending and supplementing Act No.288/1995 Coll. on firearms and ammunition (the Act on Firearms).
 
-# <a name="part_2"></a><p align="center">P A R T &emsp; T W O <br /> Amendment &ensp; to &ensp; Act No. 156/2000 Coll.</p>
+# <a name="part_2"></a><p align="center">P A R T &emsp; T W O<br /> Amendment &ensp; to &ensp; Act No. 156/2000 Coll.</p>
 
 ### <a name="section_84"></a><p align="center">Section 84</p>
 
@@ -2321,7 +2321,7 @@ Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles 
 
 
 
-# <a name="part_3"></a><p align="center">P A R T &emsp; T H R E E <br /> Amendment &ensp; to &ensp; the Trade Licensing Act</p>
+# <a name="part_3"></a><p align="center">P A R T &emsp; T H R E E<br /> Amendment &ensp; to &ensp; the Trade Licensing Act</p>
 
 ### <a name="section_85"></a><p align="center">Section 85</p>
 
@@ -2370,12 +2370,12 @@ Transitional Provisions
 
 # <a name="part_4"></a><p align="center">P A R T &emsp; F O U R</p>
 
-### <a name="section_87"></a><p align="center">Section 87 <br />ENTRY INTO EFFECT</p>
+### <a name="section_87"></a><p align="center">Section 87<br />ENTRY INTO EFFECT</p>
 
 This Act shall enter into effect on 1 January 2003 with the exception of the provisions of Section 10 (3), Section 12 (4), Section 17 (4), Section 46 (5) through (7), Section 49, Section 50 (9), Section 51 (7) and (8), and Section 73 (4) of the Act on Firearms which shall come into effect on the date on which the Agreement on the Accession of the Czech Republic to the European Union shall come into force.
 
 
-#### <p align="center">\* \* \* <br /> Entry into effect of the amendments</p>
+#### <p align="center">\* \* \*<br /> Entry into effect of the amendments</p>
 
 1. Act No. 320/2002 Coll. on the amendment to and repealing of some acts in relation to terminating activities of district offices came into effect on 1 January 2003.
 2. Act No. 227/2003 Coll. amending Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic items and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms) as amended by Act No. 13/1998 Coll. and Act No. 368/1992 Coll. on administrative fees and charges as amended by Act No. 119/2002 Coll. and Act No. 309/2002 Coll. and some other acts came into effect on 1 October 2003.
@@ -2392,11 +2392,11 @@ This Act shall enter into effect on 1 January 2003 with the exception of the pro
 
 ********************************************************************************
 
-# <p align="center">\* \* \* <br /> Selected transitional and final provisions</p>
+# <p align="center">\* \* \*<br /> Selected transitional and final provisions</p>
 
 Article II of Act No. 484/2008 Coll. amending Act No. 119/2002 Coll. on firearms and ammunition and on the amendment to Act No. 156/2000 Coll. and on the amendment to Act No. 156/2000 Coll. on proving firearms, ammunition and pyrotechnic articles and on the amendment to Act No. 288/1995 Coll. on firearms and ammunition (the Act on Firearms), as amended by Act No. 13/1998 Coll. and by Act No. 368/1992 Coll. on administrative fees and charges and Act No. 455/1991 Coll. on trade licences (the Trade Licensing Act), (the Act on Firearms), as amended and Act No. 200/1990 Coll. on minor offences, as amended, reads as follows:
 
-## <p align="center">Article. II <br />**Transitional Provisions**</p>
+## <p align="center">Article. II<br />**Transitional Provisions**</p>
 
 1. Punishment of unauthorised arming shall not apply provided that any person who, without being authorised to do so, keeps a firearm of category A, B or C or a main part of such firearm delivers such firearm or its main part within six months of the date of effect of this Act voluntarily to any police office for custody. The police office shall issue a certificate thereon. Such person who delivered a firearm or a main part of a firearm may, within a period of two months from the date of such delivery, apply for relevant documents authorising him/her to possess such firearm or a main part of a firearm. If such person does not apply for the specified documents or if the documents are not issued the provisions of Section 64 of Act No. 119/2002 Coll. shall apply accordingly.
 
@@ -2414,7 +2414,7 @@ Annex to Act. 119/2002 Coll.
 
 # <p align="center">Definitions of Firearms, Weapons and Ammunition</p>
 
-## <p align="center">PART ONE <br /> TYPES OF FIREARMS</p>
+## <p align="center">PART ONE<br /> TYPES OF FIREARMS</p>
 
  1. **Firearm** - a weapon the function of which is derived from the immediate release of energy during discharge; designated for for a required effect at a defined distance.
 
@@ -2468,7 +2468,7 @@ Annex to Act. 119/2002 Coll.
 
  26. **Firing equipment** - equipment for propelling projectiles with reactive propulsion or ammunition with the reactive impact of a bag-cartridge such as anti-tank weapons; a bazooka, a rocket gun, and land, air or sea firing equipment; firing equipment for special projectiles.
 
-## <p align="center">PART WO <br /> TYPES OF AMMUNITION</p>
+## <p align="center">PART WO<br /> TYPES OF AMMUNITION</p>
 
 
 1. **Ammunition** - comprehensive expression for cartridges, bag-cartridges and projectiles for firearms.

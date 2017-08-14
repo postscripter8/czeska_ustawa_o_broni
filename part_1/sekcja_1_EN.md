@@ -11,11 +11,11 @@ as results from amendments implemented by Act No.320/2002 Coll., Act No. 227/200
 
 The Parliament has adopted the following Act of the Czech Republic:
 
-# <a name="part_1"></a><p align="center">P A R T &emsp; O N E <br /> FIREARMS &ensp; AND &ensp; AMMUNITION</p>
+# <a name="part_1"></a><p align="center">P A R T &emsp; O N E<br /> FIREARMS &ensp; AND &ensp; AMMUNITION</p>
 
-## <a name="title_1"></a><p align="center">T I T L E &emsp; I <br /> INTRODUCTORY &emsp; PROVISIONS</p>
+## <a name="title_1"></a><p align="center">T I T L E &emsp; I<br /> INTRODUCTORY &emsp; PROVISIONS</p>
 
-### <a name="section_1"></a><p align="center">Section 1 <br /> **Scope of Application**</p>
+### <a name="section_1"></a><p align="center">Section 1<br /> **Scope of Application**</p>
 
 (1) This Act shall regulate categories of firearms (hereinafter referred to as 'firearms') and ammunition, conditions for the acquisition, possession, carrying and use of firearms and ammunition, the rights and obligations of holders of firearms and ammunition, conditions for the export, import and transit of firearms and ammunition and for operating shooting ranges, activities in the field of unexploded ordnance, operating information systems pertaining to the area of firearms and ammunition and to executing state administration in the field of firearms and ammunition, operating shooting ranges, and operating and carrying out activities in the field of unexploded ordnance.
 
