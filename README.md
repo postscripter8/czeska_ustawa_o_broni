@@ -14,8 +14,8 @@ Nieustalona
 - [x] Import tekstu ustawy w jêzyku angielskim.
 - [x] Zmiana formatu dokumentu na tekstowy.
 - [x] Normalizacja tekstu w formacie markdown, usuniêcie b³êdów i dziwactw wynik³ych z automatycznej konwersji.
-- [ ] Podzia³ treœci mniejsze dokumenty nadaj¹ce siê do t³umaczenia.
-- [ ] Pozosta³e 99% roboty.
+- [x] Podzia³ treœci mniejsze dokumenty nadaj¹ce siê do t³umaczenia.
+- [ ] _1/96_ T³umaczenie poszczególnych paragrafów.
 - [ ] Synteza t³umaczenia.
 
 # Prawa autorskie
