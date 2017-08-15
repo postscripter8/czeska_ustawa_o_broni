@@ -14,7 +14,7 @@ d) broñ pneumatyczna zasilana nabojami gazowymi _\[(np. 12g nabój CO2), przypis 
 
 e) broñ pneumatyczna o energii wylotowej pocisków nie przekraczaj¹cej 16 J;
 
-f) broñ i urz¹dzenia alarmowe (pirotechniczne?);
+f) broñ alarmowa i urz¹dzenia pirotechniczne, z wyj¹tkiem przenoœnych urz¹dzeñ z³¹czaj¹cych przeznaczonych do u¿ytku przemys³owego lub technicznego _\[np. zszywaczy, nitownic, gwoŸdziarek; przyp. t³umacza\]_ ;
 
 g) broñ mechaniczna o sile naci¹gu ponad 150N _\[(kusze, ³uki), przypis t³umacza\]_
 
