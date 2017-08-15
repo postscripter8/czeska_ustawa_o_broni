@@ -26,7 +26,7 @@ Jak wybraæ fragment do t³umaczenia:
 1. znajdŸ jak¹œ nieprzet³umaczon¹ sekcjê dokumentu w katalogach part_1-4 (czyli bêdzie tylko plik z EN w nazwie, ale bez odpowiadaj¹cego PL)
 2. dla pewnoœci sprawdŸ na [tej stronie](https://github.com/postscripter8/czeska_ustawa_o_broni/wiki/T%C5%82umaczenie-poszczeg%C3%B3lnych-sekcji), czy nikt aktualnie jej nie t³umaczy
 
-Przet³umacz tylko angielskie zwroty na jêzyk polski, omijaj¹c przy tym znaczniki HTML (wszelkie napisy w nawiasach trójk¹tnych, jak np. <sup>, <a name="coœtam">, itp.)
+Przet³umacz tylko angielskie zwroty na jêzyk polski, omijaj¹c przy tym znaczniki HTML (wszelkie napisy w nawiasach trójk¹tnych, jak np. \<sup\>, \<a name="coœtam"\>, itp.)
 
 Jeœli nie znasz platformy github ani narzêdzia git i nie chcesz siê uczyæ obs³ugi tego ca³ego komputerowego bajzlu, to wystarczy ¿e:
 
