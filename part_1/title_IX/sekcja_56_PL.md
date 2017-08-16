@@ -1,0 +1,6 @@
+## <a name="title_9"></a><p align="center">ROZDZIAŁ &emsp; IX<br /> SPECJALNE &emsp; PRZEPISY &emsp; DOTYCZĄCE &emsp; <!--- NISZCZENIA ---!> &emsp; BRONI &emsp; PALNEJ &emsp; I &emsp; AMUNICJI</p>
+
+### <a name="section_56"></a><p align="center">Artykuł 56</p>
+
+Konfiskowanie broni palnej, amunicji, pozwoleń na broń palną, certyfikatów broni palnej i listów przewozowych dotyczących stałego wywozu , przywozu lub tranzytu broni i amunicji
+Policjant będzie upoważniony do konfiskowania broni palnej kategorii A, B, C lub D, amunicji, pozwoleń na broń, certyfikatów broni palnej i listów przewozowych dotyczących stałego wywozu , przywozu lub tranzytu broni i amunicji aby zapobiec naruszeniu obowiązków przez ich właściciela lub nieprzestrzeganiu zakazów określonych w niniejszej Ustawie.  Policjan, który przejął przedmiot, o którym mowa w zdaniu pierwszym, wydaje właścicielowi na miejscu certyfikat potwierdzający przejęcie oraz niezwlocznie przekazuje (przedmiot) odpowiedniej jednostce wraz z powodem przejęcia.  Jednostka policji decyduje o przechowaniu (artykuł 57), cofnięciu pozwolenia na broń zgodnie z artykułem 27 lub cofnięciu listów przewozowych <!--- dotyczących stałego wywozu , przywozu lub tranzytu broni i amunicji - ja bym wycięła niepotrzebne powtarzanie ---!>  zgodnie z artykułem 48.
