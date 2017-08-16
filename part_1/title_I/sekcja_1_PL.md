@@ -16,7 +16,7 @@ Parlament przyjął następującą ustawę Republiki Czeskiej:
 
 ## <a name="title_1"></a><p align="center">T Y T U Ł &emsp; I <br /> PRZEPISY &emsp; WSTĘPNE</p>
 
-### <a name="section_1"></a><p align="center">Sekcja 1 <br /> **Zakres stosowania**</p>
+### <a name="section_1"></a><p align="center">Artykuł 1 <br /> **Zakres stosowania**</p>
 
 (1) Niniejsza ustawa reguluje kategorie broni palnej (nazywane dalej 'bronią palną') i amunicji, warunki nabycia, posiadania, noszenia i używania broni palnej i amunicji, prawa i obowiązki posiadaczy broni i amunicji, warunki eksportu, importu i przewozu broni i amunicji oraz funkcjonowania strzelnic, postępowanie z niewybuchami, funkcjonowanie systemów informatycznych dotyczących obszaru broni i amunicji oraz wykonywania administracji państwowej w zakresie broni i amunicji, funkcjonowania strzelnic, oraz przeprowadzanie i wykonywanie czynności związanych z niewybuchami.
 
