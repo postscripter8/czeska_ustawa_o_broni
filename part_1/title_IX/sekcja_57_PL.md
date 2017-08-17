@@ -1,17 +1,18 @@
 <a name="section_57"></a><p align="center">Artykuł 57</p>
 
-Zabezpieczenie broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji
+<s>Zabezpieczenie broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji</s>
 
-(1) Odpowiedni wydział policji może zdecydować o zabezpieczeniu: broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji; jeżeli 
-posiadaczowi pozwolenia na broń lub listu przewozowego zostało przedstawione oskarżenie o przestępstwo, o którym mowa w artykule 22 ust. 1 lub zostało wszczęte postępowanie administracyjne w sprawie wykroczenia określonego w: artykule 76 ust. 1 punkt a); artykule 76a ust. 1 punkt a), b) lub d); artykule 76a ust. 4 punkt a); artykule 76a ust. 5 punkt a) lub b); lub artykuje 76a ust. 10 punkt a) lub b).
+<s>(1) Odpowiedni wydział policji może zdecydować o zabezpieczeniu: broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji; jeżeli 
+posiadaczowi pozwolenia na broń lub listu przewozowego zostało przedstawione oskarżenie o przestępstwo, o którym mowa w artykule 22 ust. 1 lub zostało wszczęte postępowanie administracyjne w sprawie wykroczenia określonego w: artykule 76 ust. 1 punkt a); artykule 76a ust. 1 punkt a), b) lub d); artykule 76a ust. 4 punkt a); artykule 76a ust. 5 punkt a) lub b); lub artykuje 76a ust. 10 punkt a) lub b).</s>
 
-(2) Odwołanie od decyzji stosowanej w ust. 1 nie ma skutku zawieszającego.
+<s>(2) Odwołanie od decyzji stosowanej w ust. 1 nie ma skutku zawieszającego.</s>
 
-(3) Każda osoba, która posiada broń, amunicję, zakazane akcesoria do broni, pozwolenie na broń, świadectwo broni i listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, o których zabezpieczeniu zdecydowano na podstawie ust. 1 zobowiązany jest niezwłocznie oddać określone przedmioty pod nadzór wydziałowi policyji, która wydała decyzję o zabezpieczeniu. Wydział policji wyda świadectwo o przejęciu zabezpieczonych przedmiotów.
+<s>(3) Każda osoba, która posiada broń, amunicję, zakazane akcesoria do broni, pozwolenie na broń, świadectwo broni i listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, o których zabezpieczeniu zdecydowano na podstawie ust. 1 zobowiązany jest niezwłocznie oddać określone przedmioty pod nadzór wydziałowi policyji, która wydała decyzję o zabezpieczeniu. Wydział policji wyda świadectwo o przejęciu zabezpieczonych przedmiotów.</s>
 
-(4) Jeżeli obowiązek, o którym mowa w ust. 3, nie zostanie spelniony dobrowolnie, właściwy wydział policji może zabrać broń palną, amunicję, zabronione wyposażenie broni palnej, pozwolenie na broń palną, świadectwo broni palnej lub list przewozowy na broń palną w celu stałego wywozu, Stałego przywozu lub tranzytu broni palnej i amunicji w celu zabezpieczenia.
+<s>(4) Jeżeli obowiązek, o którym mowa w ust. 3, nie zostanie spelniony dobrowolnie, właściwy wydział policji może zabrać broń palną, amunicję, zabronione wyposażenie broni palnej, pozwolenie na broń palną, świadectwo broni palnej lub list przewozowy na broń palną w celu stałego wywozu, Stałego przywozu lub tranzytu broni palnej i amunicji w celu zabezpieczenia.</s>
 
-(5) Jeżeli wygasną powody, które doprowadziły do zabezpieczenia: broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji; właściwy wydział policji zwraca zatrzymane przedmioty bez zbędnej zwłoki, po przedłożeniu potwierdzenia przez tych, którym zatrzymano przedmioty. Jeśli nie jest on właścicielem przedmiotów, muszą być one zwrócone właścicielowi.
+<s>(5) Jeżeli wygasną powody, które doprowadziły do zabezpieczenia: broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji; właściwy wydział policji zwraca zatrzymane przedmioty bez zbędnej zwłoki, po przedłożeniu potwierdzenia przez tych, którym zatrzymano przedmioty. Jeśli nie jest on właścicielem przedmiotów, muszą być one zwrócone właścicielowi.
+</s>
 
 
 --- Czeskie ---
