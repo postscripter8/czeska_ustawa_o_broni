@@ -7,7 +7,7 @@
 <p align="center">Zatrzymanie broni palnej</p>
 
 (1) Funkcjonariusz policji ma prawo zatrzymać: broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny, zapałki, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a; aby zapobiec takim działaniom ich posiadaczy, które powodują nie spełnienie obowiązków lub łamamie zakazów ustanowionych ustawą.
-<!-- dosł: aby zapobiec ich właścicielom takich działań, które naruszają obowiązek lub nie przestrzegają zakazu ustanowionego w ustawie, ale to lepiej brzmi. -->
+<!-- dosł: aby zapobiec ich właścicielom takich działań, które naruszają obowiązek lub nie przestrzegają zakazu ustanowionego w ustawie, ale to lepiej brzmi. Potrzebne znalezienie, czy dobrze przedłumaczyłam szczególnie 'černý lovecký prach, bezdýmný prach, zápalky', bo wydaje się to... dziwne. -->
 
 (2) Funkcjonariusz policji ma prawo zatrzymać: broń kategorii A, B lub C, amunicję do tej broni, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, w której są zapisane bronie z kategorii A, B lub C, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a, jeśli
 
