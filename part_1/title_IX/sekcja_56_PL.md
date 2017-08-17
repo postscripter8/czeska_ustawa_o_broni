@@ -1,15 +1,25 @@
-<a name="title_9"></a><p align="center">ROZDZIAŁ &emsp; IX<br /> SPECJALNE &emsp; PRZEPISY &emsp; DOTYCZĄCE &emsp; NISZCZENIA &emsp; BRONI &emsp; PALNEJ &emsp; I &emsp; AMUNICJI</p>
+<a name="title_9"></a><p align="center">ROZDZIAŁ &emsp; IX<br /> SPECJALNE &emsp; PRZEPISY &emsp; DOTYCZĄCE &emsp; POSTĘPOWANIA &emsp; Z &emsp; BRONIĄ &emsp; PALNĄ &emsp; I &emsp; AMUNICJIĄ</p>
+
+<!--'nakládání' w zależności od kotekstu stosowane tu jako: postępowanie i obsługa - postępowanie w momencie zabrania broni i czynności, które robi policjant, a obsługa w momencie czynności posiadacza -->
 
 <a name="section56"> </a><p align="center">Artykuł 56</p>
 
 <p align="center">Zatrzymanie broni palnej</p>
 
-(1) Policjant ma prawo zatrzymać broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny
-Příslušník policie je oprávněn zadržet zbraň kategorie A, B, C nebo D, střelivo, černý lovecký prach, bezdýmný prach, zápalky, zbrojní průkaz, zbrojní licenci, průkaz zbraně, zbrojní průvodní list pro trvalý vývoz, trvalý dovoz nebo tranzit zbraní nebo střeliva, povolení k vývozu podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, evropský zbrojní pas, povolení k přepravě nebo hlášení přepravy zbraní a střeliva podle § 50 nebo 50a, aby jejich držiteli zabránil v jednání, kterým porušuje povinnost nebo nedodržuje zákaz stanovený tímto zákonem.
-(2) Příslušník policie je oprávněn zadržet zbraň kategorie A, B nebo C, střelivo do této zbraně, zbrojní průkaz, zbrojní licenci, průkaz zbraně nebo zbrojní průvodní list pro trvalý vývoz, trvalý dovoz nebo tranzit zbraní nebo střeliva, povolení k vývozu podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, evropský zbrojní pas, v němž jsou zapsány zbraně kategorie A, B nebo C, povolení k přepravě nebo hlášení přepravy zbraní a střeliva podle § 50 nebo 50a, pokud
-a) existuje důvodné podezření, že u držitele zbrojního průkazu došlo k takové změně zdravotního stavu, která může v souvislosti s nakládáním se zbraní představovat ohrožení jeho života nebo zdraví anebo života nebo zdraví jiných osob,
-b) byl odňat zbrojní průkaz podle § 27 odst. 1 písm. a), b) nebo c) nebo zbrojní licence podle § 36 odst. 1 písm. b) nebo § 36 odst. 2 a dosavadní držitel zbrojního průkazu nebo zbrojní licence neodevzdal průkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně příslušnému útvaru policie, nebo
-c) je dán důvod pro zajištění podle § 57 odst. 1 a existuje důvodné podezření, že další nakládání se zbraní nebo střelivem držitelem zbrojního průkazu nebo zbrojní licence může představovat ohrožení jeho života nebo zdraví anebo života nebo zdraví jiných osob.
+(1) Policjant ma prawo zatrzymać: broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny, zapałki, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a; aby zapobiec takim działaniom ich posiadaczy, które powodują nie spełnienie obowiązków lub łamamie zakazów ustanowionych ustawą.
+<!-- dosł: aby zapobiec ich właścicielom takich działań, które naruszają obowiązek lub nie przestrzegają zakazu ustanowionego w ustawie, ale to lepiej brzmi. -->
+
+(2) Policjant ma prawo zatrzymać: broń kategorii A, B lub C, amunicję do tej broni, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, w której są zapisane bronie z kategorii A, B lub C, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a, jeśli
+
+a) istnieje uzasadnione podejrzenie, że u posiadacza pozwolenia na broń doszło do takiej zmiany stanu zdrowia, która może w związku z obsługą broni stanowić zagrożenie dla jego życia lub zdrowia albo życia lub zdrowia innych osób,
+
+b) cofnięto : pozwolenie na broń zgodnie z artykułem 27 ust. 1 punkt a), b) lub c); lub licencję na broń zgodnie z artykułem 36 ust. 1 punkt b) lub artykułem 36 ust. 2; a uprzedni posiadacz karty broni palnej lub pozwolenia na broń nie oddał świadectwa broni, broni, amunicji i zakazanych akcesoriów do broni właściwemu wydziałowi policji lub   
+<!-- potrzebne sprawdzenie w poprzednich artykułach: różnica między 'zbrojní průkaz' i  'průkaz zbraně', to pierwsze jest b) - ja przetłumaczyłam jako pozwolenie na broń -->
+
+c) istnieją podstawy do zatrzymania zgodnie z artykułem 57 ust. 1 i istnieje uzasadnione podejrzenie, że dalsza obsługa broni może stanowić zagrożenie dla jego życia lub zdrowia albo życia lub zdrowia innych osób.
+
+(3)
+
 (3) Pokud držitel zbrojního průkazu nebo držitel zbrojní licence na výzvu příslušníka policie neprodleně neodevzdá věci, které mají být zadrženy podle odstavce 2, nebo nesdělí místo jejich uložení a neumožní jejich převzetí policií, je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek, lze-li důvodně předpokládat, že se zde tyto věci nalézají, a zadržet je.
 (4) Příslušník policie může zadržet zbraň, zakázaný doplněk zbraně nebo střelivo podle odstavce 1 v místě jejich dosavadního uložení a současně zabránit přístupu k nim osobě, které byly zbraň, zakázaný doplněk zbraně nebo střelivo zadrženy, nebo jiné neoprávněné osobě, je-li to odůvodněno jejich množstvím nebo velikostí.
 (5) Příslušník policie, který zadržel věc uvedenou v odstavcích 1 a 2, vydá jejímu držiteli na místě potvrzení o převzetí zadržené věci a neprodleně ji odevzdá s uvedením důvodu zadržení příslušnému útvaru policie.
