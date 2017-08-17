@@ -6,10 +6,10 @@
 
 <p align="center">Zatrzymanie broni palnej</p>
 
-(1) Policjant ma prawo zatrzymać: broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny, zapałki, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a; aby zapobiec takim działaniom ich posiadaczy, które powodują nie spełnienie obowiązków lub łamamie zakazów ustanowionych ustawą.
+(1) Funkcjonariusz policji ma prawo zatrzymać: broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny, zapałki, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a; aby zapobiec takim działaniom ich posiadaczy, które powodują nie spełnienie obowiązków lub łamamie zakazów ustanowionych ustawą.
 <!-- dosł: aby zapobiec ich właścicielom takich działań, które naruszają obowiązek lub nie przestrzegają zakazu ustanowionego w ustawie, ale to lepiej brzmi. -->
 
-(2) Policjant ma prawo zatrzymać: broń kategorii A, B lub C, amunicję do tej broni, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, w której są zapisane bronie z kategorii A, B lub C, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a, jeśli
+(2) Funkcjonariusz policji ma prawo zatrzymać: broń kategorii A, B lub C, amunicję do tej broni, pozwolenie, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, w której są zapisane bronie z kategorii A, B lub C, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a, jeśli
 
 a) istnieje uzasadnione podejrzenie, że u posiadacza pozwolenia na broń doszło do takiej zmiany stanu zdrowia, która może w związku z obsługą broni stanowić zagrożenie dla jego życia lub zdrowia albo życia lub zdrowia innych osób,
 
@@ -18,9 +18,14 @@ b) cofnięto : pozwolenie na broń zgodnie z artykułem 27 ust. 1 punkt a), b) l
 
 c) istnieją podstawy do zatrzymania zgodnie z artykułem 57 ust. 1 i istnieje uzasadnione podejrzenie, że dalsza obsługa broni może stanowić zagrożenie dla jego życia lub zdrowia albo życia lub zdrowia innych osób.
 
-(3)
+(3) Jeżeli posiadacz pozwolenia na broń lub posiadacz licencji na broń na wezwanie funkcjonariusza policji natychmiast nie zrzeknie się przedmiotów, które zostały zatrzymane na podstawie ust. 2, lub nie ujawni miejsca ich przechowywania i uniemożliwi policji ich przejęcie, funkcjonariusz policji ma prawo: wejść do lokalu mieszkalnego, innych pomieszczeń lub terenu, jeśli można rozsądnie założyć, że znajdują się tam przedmioty _(dop. tłumacza:, o których mowa)_ ; i zatrzymać je.
+<!-- teren - szukam odpowiednika, coś jak grunt, ziemia - posiadana przez kogoś-->
 
-(3) Pokud držitel zbrojního průkazu nebo držitel zbrojní licence na výzvu příslušníka policie neprodleně neodevzdá věci, které mají být zadrženy podle odstavce 2, nebo nesdělí místo jejich uložení a neumožní jejich převzetí policií, je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek, lze-li důvodně předpokládat, že se zde tyto věci nalézají, a zadržet je.
-(4) Příslušník policie může zadržet zbraň, zakázaný doplněk zbraně nebo střelivo podle odstavce 1 v místě jejich dosavadního uložení a současně zabránit přístupu k nim osobě, které byly zbraň, zakázaný doplněk zbraně nebo střelivo zadrženy, nebo jiné neoprávněné osobě, je-li to odůvodněno jejich množstvím nebo velikostí.
-(5) Příslušník policie, který zadržel věc uvedenou v odstavcích 1 a 2, vydá jejímu držiteli na místě potvrzení o převzetí zadržené věci a neprodleně ji odevzdá s uvedením důvodu zadržení příslušnému útvaru policie.
-(6) Pominou-li důvody, které vedly k zadržení zbraně, střeliva, zakázaného doplňku zbraně nebo dokladu, musí být tyto věci útvarem policie, u něhož jsou v úschově, bez zbytečného odkladu vráceny po předložení vydaného potvrzení tomu, komu byly zadrženy. Pokud není ten, komu byly věci zadrženy, totožný s jejich vlastníkem, musí být věci vráceny jejich vlastníkovi.
+(4) Funkcjonariusz policji może zatrzymać broń, zakazane akcesoria do broni lub amunicję, o których mowa w ust. 1, we wcześniejszym miejscu ich przechowywania i jednocześnie uniemożliwić dostęp _(dop. tłumacza: posiadacza)_ lub jakiejkolwiek innej osoby nieuprawnionej, jeżeli jest to uzasadnione ze względu na jej ilość lub rozmiary.
+<!-- dosłownie: (...) uniemożliwić dostęp osoby, która posiadała zatrzymaną broń, zakazane akcesoria lub amunicję(...) -->
+
+(5) Funkcjonariusz policji, który zatrzymał przedmioty o którym mowa w ust. 1 i 2, wydaje jej posiadaczowi na miejscu potwierdzenie o przejęciu przedmiotów zajętych i bezzwłocznie przekaże je właściwemu wydziałowi policji podając przyczynę zatrzymania.
+<!-- w poprzedniej, angielskiej wersji to było oczywiste, że przekaże odp. wydziałowi, tutaj brzmi to, że się zrzeknie (kto? funkcjonariusz czy właściciel?) -->
+
+(6) Jeżeli wygasną powody, które doprowadziły do zatrzymania: broni, amunicji, zakazanych akcesoriów lub dokumentów; właściwy wydział policji zwraca zatrzymane przedmioty bez zbędnej zwłoki, po przedłożeniu potwierdzenia przez tych, którym zatrzymano przedmioty. Jeśli nie jest on właścicielem przedmiotów, muszą być one zwrócone właścicielowi.
+<!-- Tłumaczenie bardzo niedokładne, ale logiczne - właściwy organ oddaje, jeśli nie ma już powodów, ale właścicielowi, a nie np. złodziejowi. -->
