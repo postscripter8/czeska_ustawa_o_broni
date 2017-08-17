@@ -1,3 +1,8 @@
+<s><a name="title_9"></a><p align="center">ROZDZIAŁ &emsp; IX<br /> SPECJALNE &emsp; PRZEPISY &emsp; DOTYCZĄCE &emsp; POSTĘPOWANIA &emsp; Z &emsp; BRONIĄ &emsp; PALNĄ &emsp; I &emsp; AMUNICJIĄ</p></s>
+<s><a name="section_56"></a><p align="center">Artykuł 56</p></s>
+<s>Konfiskowanie broni palnej, amunicji, pozwoleń na broń palną, certyfikatów broni palnej i listów przewozowych dotyczących stałego wywozu , przywozu lub tranzytu broni i amunicji</s>
+<s>Policjant będzie upoważniony do zatrzymania broni palnej kategorii A, B, C lub D, amunicji, pozwoleń na broń, świadectw broni palnej i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji aby zapobiec naruszeniu obowiązków przez ich właściciela lub nieprzestrzeganiu zakazów określonych w niniejszej Ustawie. Policjant, który przejął przedmiot, o którym mowa w zdaniu pierwszym, wydaje właścicielowi na miejscu świadectwo potwierdzające przejęcie oraz niezwłocznie przekazuje (przedmiot) odpowiedniej jednostce wraz z powodem przejęcia. Jednostka policji decyduje o przechowaniu (artykuł 57), cofnięciu pozwolenia na broń zgodnie z artykułem 27 lub cofnięciu listów przewozowych dotyczących stałego wywozu , przywozu lub tranzytu broni i amunicji zgodnie z artykułem 48.</s>
+
 <a name="title_9"></a><p align="center">ROZDZIAŁ &emsp; IX<br /> SPECJALNE &emsp; PRZEPISY &emsp; DOTYCZĄCE &emsp; POSTĘPOWANIA &emsp; Z &emsp; BRONIĄ &emsp; PALNĄ &emsp; I &emsp; AMUNICJIĄ</p>
 
 <!--'nakládání' w zależności od kotekstu stosowane tu jako: postępowanie i obsługa - postępowanie w momencie zabrania broni i czynności, które robi policjant, a obsługa w momencie czynności posiadacza -->
