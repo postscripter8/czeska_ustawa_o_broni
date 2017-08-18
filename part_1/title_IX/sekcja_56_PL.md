@@ -8,7 +8,7 @@
 
 <p align="center">Zatrzymanie broni palnej</p>
 
-<--! Trzeba pilnować tłumaczenia: 'zakázaného doplňku zbraně' -- mi to najsensowniej brzmi 'zakazane akcesoria broni', ale równie dobrze to może być 'zakazana broń dodatkowa' -->
+<--! Zgodne z aktualną wersją ustawy. Trzeba pilnować tłumaczenia: 'zakázaného doplňku zbraně' -- mi to najsensowniej brzmi 'zakazane akcesoria broni', ale równie dobrze to może być 'zakazana broń dodatkowa' -->
 
 
 (1) Funkcjonariusz policji ma prawo zatrzymać: broń kategorii A, B, C lub D, amunicję, myśliwski czarny proch, proch bezdymny, spłonki, pozwolenie na broń, licencję na broń, świadectwo broni, listy przewozowe dotyczące stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenie na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejską Kartę Broni, pozwolenie na transport lub zgłoszenie transportu broni i amunicji z artykułu 50 lub 50a; aby zapobiec takim działaniom ich posiadaczy, które powodują nie spełnienie obowiązków lub łamamie zakazów ustanowionych ustawą.
