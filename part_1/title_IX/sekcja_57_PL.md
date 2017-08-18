@@ -44,3 +44,10 @@ natychmiast podporządkowuje lub komunikować zamiast przechowywania ich i nie d
 (6) Odpowiedni wydział policji może, w uzasadnionych przypadkach, w celu zapewnienia, że ​​broń zakazana broń uzupełnienia lub amunicji w miejscu ich dotychczasowego sklepu. Osoba, z którą broń, zakazanych broni lub uzupełnienie amunicji zgodnie z ustępem 1 lub 2 zabezpieczonej zabezpieczenie jest wymagane tolerować, a nie broń, zakazanych broni lub amunicji uzupełnieniem zabezpieczone na podstawie ustępu 1 lub 2 lub wyrzucać takich odpadów w celu umożliwienia drugiej osoby.
 (7) Właściwy policja może zrobić, któremu sprawa na podstawie ustępu 1 lub 2 zabezpieczonej nałożyć obowiązek zwrotu kosztów wdrożenia ich bezpieczeństwa.
 (8) Jeżeli przyczyny, które doprowadziły do ​​strzelby, amunicji, broni zakazanej uzupełnienie lub dokumentu, właściwy policji niezwłocznego spłaty zabezpieczonych rzeczy do tych, które były zabezpieczone. Chyba że osoba, której elementy zostały zajęte, identyczne do ich właściciela, rzeczy muszą być zwrócone do ich właściciela.
+
+Sekcja 57a
+Usunięcie amunicji
+(1) Organ kontrolny zgodnie z sekcją 75a podejmuje decyzję w sprawie usunięcia amunicji, która jest w złym stanie
+Stanie technicznym i zapewnia posiadaczowi rozsądny okres.
+(2) Policja zapewnia usunięcie amunicji, o której mowa w ust. 1, jeżeli życie, zdrowie lub mienie są nieuchronne, lub jeśli właściciel amunicji oświadcza, że nie jest w stanie usunąć ani usunąć amunicji w określonym terminie.
+(3) Właściwy organ policji może nakładać na posiadaczy amunicji, którzy zostali usunięci zgodnie z ust. 2 obowiązkiem pokrycia kosztów usunięcia amunicji.
