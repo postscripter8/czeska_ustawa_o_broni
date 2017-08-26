@@ -1,24 +1,24 @@
-## <a name="title_4"></a><p align="center">T I T L E &emsp; IV<br /> FIREARM &emsp; PERMIT</p>
+## <a name="title_4"></a><p align="center">Rozdział &emsp; IV<br /> Pozwolenia na broń </p>
 
-### <a name="section_16"></a><p align="center">Section 16</p>
+### <a name="section_16"></a><p align="center">Artykuł 16</p>
 
-Firearm Permits and Their Groups
+Pozwolenia na broń i ich grupy
 
-(1) A firearm permit is a public instrument authorising a natural person to acquire and possess firearms and ammunition for such firearms within the scope of authorisation specified for individual groups of firearm permits, and within the scope of such authorisation to carry such firearm or to carry out activities in the field of unexploded ordnance under authorisation stipulated for a firearm permit of Group F. A firearm permit shall be issued for a period of five years. A firearm permit may be issued upon medical certification of the applicant's health condition for a period not exceeding five years.
+(1) Pozwolenie na broń jest dokumentem publicznym zezwalającym osobie fizycznej na zakup i posiadanie broni palnej i amunicji do niej w zakresie zezwolenia określonego dla danej grupy pozwoleń, oraz do noszenia broni, o ile zostało to określone w danym zezwoleniu. Pozwolenie na broń pozwala także na wykonywanie działań z zakresu (usuwania) niewybuchów na podstawie zezwoleń dla pozwolenia na broń grupy F. Pozwolenie na broń wydaje się na okres 10 lat. Pozwolenie na broń może zostać wydane na okres krótszy niż 10 lat z powodów medycznych. <!--- Tłum. ang. podaje 5 lat ---!>
 
-(2) Firearm permits shall be distinguished according to the purpose for which the firearm or ammunition is to be used and according to the scope of authorisation, and shall be divided into the following groups:
+(2) Pozwolenia na broń są podzielone na grupy w zależności od celu posiadania broni i zakresu zezwolenia, na następujące grupy:
 
-a) A - collectors' purposes;
+a) A - cel kolekcjonerski;
 
-b) B - sport purposes;
+b) B - cel sportowy;
 
-c) C - hunting purposes;
+c) C - cel łowiecki;
 
-d) D - pursuing a profession or occupation;
+d) D - wykonywanie zawodu / broń potrzebna do wykonywania zawodu;
 
-e) E - protecting life, health or property; or
+e) E - ochrona życia, zdrowia lub własności; oraz
 
-f) F - activities in the field of unexploded ordnance.
+f) F - działania w zakresie niewybuchów.
 
-**Issuing a Firearm Permit**
+**Wydawanie pozwolenia na broń**
 
