@@ -6,12 +6,13 @@
 
 (3) Je¿eli lekarz orzekaj¹cy wykryje jakieœ zmiany w zdrowiu posiadacza pozwolenia zobowi¹zany jest wystawiæ nowe orzeczenie lekarskie dotycz¹ce faktycznego stanu zdrowia posiadacza i bez zw³oki wys³aæ je do odpowiedniego organu policji. Je¿eli chodzi o posiadaczy pozwolenia typu D w tym przypadku lekarz orzekaj¹cy zobowi¹zany jest niezw³ocznie wys³aæ orzeczenie do pracodawcy posiadacza tego pozwolenia.
 
-(4) Którykolwiek lekarz znajdzie dowody lub ma uzasadnione podejrzenia, ¿e posiadacz pozwolenia cierpi na jak¹œ chorobê, ograniczenie lub jest w stanie wykluczaj¹cym lub ograniczaj¹cym mo¿liwoœæ posiadania czy noszenia przez niego broni musi poinformowaæ posiadacza pozwolenia o takim fakcie oraz poinformowaæ bez zw³oki lekarza orzekaj¹cego. Lekarz orzekaj¹cy w takim przypadku post¹pi zgodnie z paragrafem 3.
+(4) Którykolwiek lekarz znajdzie dowody lub ma uzasadnione podejrzenia, ¿e posiadacz pozwolenia cierpi z powodu choroby, wady lub stanu wykluczaj¹cych lub ograniczaj¹cych mo¿liwoœæ posiadania czy noszenia przez niego broni musi poinformowaæ posiadacza pozwolenia o takim fakcie oraz poinformowaæ bez zw³oki lekarza orzekaj¹cego. Lekarz orzekaj¹cy w takim przypadku post¹pi zgodnie z paragrafem 3.
 
-<!-- k1e - ja znalaz³am zarówno w t³umaczeniu angielskim, jak i czeskim, ¿e chodzi bardziej o: "cierpi z powodu choroby, wady lub stanu, który uniemo¿liwia lub ogranicza posiadanie lub noszenie broni"-->
+<!--- k1e - ja znalaz³am zarówno w t³umaczeniu angielskim, jak i czeskim, ¿e chodzi bardziej o: "cierpi z powodu choroby, wady lub stanu, który uniemo¿liwia lub ogranicza posiadanie lub noszenie broni" --->
 
 (5) W przypadkach opisanych w paragrafie 3 posiadacz pozwolenia jest zobligowany do stawienia siê w wyznaczonym terminie przed lekarzem orzekaj¹cym aby poddaæ siê badaniom lekarskim oceniaj¹cym zdolnoœæ do posiadania broni w celu uzyskania nowego pozwolenia na broñ. Je¿eli osoba wezwana na badania medyczne nie mo¿e stawiæ siê w wyznaczonej dacie z jakichœ wa¿nych przyczyn jest zobligowana na stawienie siê u lekarza orzekaj¹cego nie póŸniej ni¿ w ci¹gu miesi¹ca od daty wyznaczenia wizyty na któr¹ nie móg³ siê stawiæ. Je¿eli posiadacz pozwolenia nie stawi siê u lekarza orzekaj¹cego ten bez zw³oki poinformuje o tym odpowiedzialny wydzia³ policji.
 
-<!-- k1e mi tu lepiej brzmi: jest zobowi¹zany -->
+<!--- k1e mi tu lepiej brzmi: jest zobowi¹zany --->
+<!--- postscripter8: tu nie o brzmienie chodzi, a o wierne oddanie treœci; w ang. jest 'obliged', 'zobligowany' jest odpowiednikiem "1w1"; poza tym IMO obligacja pochodzi niejako z zewn¹trz, wynika z ustawy - zobowi¹zanie jest raczej œwiadomym wziêciem na siebie fakultatywnego obowi¹zku --->
 
 (6) Wymagania medyczne zgodnie z paragrafem 1. typy badañ medycznych, ich treœæ, zawartoœæ i wa¿noœæ, ocena chorób, niezdolnoœci i stan zdrowia dla którego nie da siê wystawiæ pozytywnej opinii i / lub gdy taka opinia mo¿e byæ wystawiona wy³¹cznie przez lekarza specjalistê bêdzie okreœlone przez przepisy prawne.
