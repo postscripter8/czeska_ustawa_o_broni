@@ -14,40 +14,49 @@ posiadaczowi pozwolenia na broń lub listu przewozowego zostało przedstawione o
 <s>(5) Jeżeli wygasną powody, które doprowadziły do zabezpieczenia: broni, amunicji, zakazanych akcesoriów do broni, pozwolenia na broń, świadectwa broni i listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji; właściwy wydział policji zwraca zatrzymane przedmioty bez zbędnej zwłoki, po przedłożeniu potwierdzenia przez tych, którym zatrzymano przedmioty. Jeśli nie jest on właścicielem przedmiotów, muszą być one zwrócone właścicielowi.
 </s>
 
-<!--- Wstępne --->
-§ 57 Świadczenie broni, amunicji lub dokumentu
-(1) Właściwa jednostka policji może zdecydować o dostarczeniu broni palnej kategorii A, B lub C,
-amunicji, broni palnej licencji, licencja broni, świadectwa broni palnej lub list przewozowy na stałe, trwałe eksport import lub tranzyt broni lub amunicji, pozwolenia na wywóz na podstawie ustawy o kontroli handlu produktami, których posiadanie w Czechach ze względów bezpieczeństwa , Europejską kartę broni palnej, które są napisane w kategoriach a, B lub C, zezwolenie na przemieszczanie lub przesyłek raportowania broni i amunicji zgodnie z § 50 lub 50a, jeżeli przed ich posiadaczy zostały zainicjowane
-a) w przypadku osoby fizycznej ściganej za przestępstwo, o którym mowa w § 22 ust. 1,
-(B) w przypadku osoby prawnej, ścigania karnego za przestępstwo umyślne,
-c) w przypadku osoby fizycznej postępowanie administracyjne dotyczące przestępstw popełnionych przez
-1. posiada, przechowuje lub nosi broń z naruszeniem § 8,
-2. niezgodnie z przepisami sekcji 20a ust. 3 nie podlega badaniu lekarskiemu lub nie jest przedstawiony
-Sprawozdanie o stanie zdrowia właściwego departamentu policji,
-3. Fotografowanie z broni z naruszeniem art. 28 ust. 5
-4. wbrew § 29 ust. 1 (L) nie poddawaj się badaniu w celu stwierdzenia, czy nie
-Wpływ na alkohol lub inną substancję uzależniającą lub z naruszeniem art. 29 ust. 3
-(B) nosić broń lub manipulować bronią publicznie lub publicznie
-Mimo że jego zdolność do tego zmniejsza się dzięki użyciu alkoholu
-Napoje, stosowanie innych substancji uzależniających, leków lub w wyniku choroby,
-5. nie postępuje zgodnie z art. 41 ust. 5, lub
-6) nie powiadomi o nabyciu prawa własności broni palnej kategorii A, B lub C zgodnie z sekcją 42 (1)
-Or
-(D) w przypadku osoby prawnej lub fizycznej prowadzącej działalność gospodarczą, postępowania administracyjnego za przestępstwo
-Zaangażowanie w posiadanie lub posiadanie broni lub amunicji z naruszeniem sekcji 8.
-(2) Odpowiedni wydział policja może podjąć decyzję o zapewnieniu kategorii A, B, C lub D, amunicji, prochu czarnego polowania, proch bezdymny, zapałki, licencja pistolet, broń licencji pistolety certyfikatów, broni palnej list przewozowy dla stałych eksportu stały import lub tranzyt broni lub amunicji, pozwolenia na wywóz na podstawie ustawy o kontroli handlu produktami, których posiadanie w Republice Czeskiej ze względów bezpieczeństwa, Europejską kartę broni palnej, zezwolenie na przemieszczanie lub transporty broni i amunicji zgodnie z § 50 i 50a raportowanie, które zostały zajęte przez § 56 i sprawa musi być przedmiotem postępowania na podstawie tego czy specjalna ustawa. Jeżeli w ciągu 1 miesiąca od ich postępowania zatrzymań na podstawie niniejszej ustawy lub sprawy nie jest określany organ uprawniony do prowadzenia postępowania na podstawie specjalnej ustawy, właściwy departament policji postępować zgodnie z pkt 8.
-(3) uczestnikiem postępowania w celu zapewnienia osobie, która kryje w sobie sprawę, o której mowa w ustępie 1 lub 2 i dalszego ich właściciela lub osobę, która jest wymieniona w dokumencie. Osoba rzeczy otrzymano na podstawie ustępu 1 lub 2 posiada, jest on zobowiązany do przekazania tych rzeczy bez zbędnej zwłoki do aresztu policji, który zdecydował o ich bezpieczeństwo lub komunikowania zamiast przechowując je i umożliwić ich przejmowanie przez policję. Policja wyda potwierdzenie przejęcia zabezpieczonych przedmiotów.
-(4) Odwołanie od decyzji zgodnie z ust. 1 i 2 nie ma skutku zawieszającego.
-(5) Jeśli posiadacz broni, amunicji, zakazu uzbrojenia lub dokumentu
-Zabezpieczenie zostało określone zgodnie z ust. 1, na wniosek właściwego departamentu policji
-natychmiast podporządkowuje lub komunikować zamiast przechowywania ich i nie dopuszczać ich przejęcia, odpowiedni departament policji uprawniony w celu zabezpieczenia broni, amunicji, zakazanej broni, akcesoriów lub dowodów, aby usunąć, ale ma prawo wejść do mieszkania, inne pomieszczenia lub ziemię, jeśli można rozsądnie założyć, które znajdują się te rzeczy. Przepisy postępowania administracyjnego w sprawie wykonania świadczenia niepieniężnego nie mają zastosowania.
-(6) Odpowiedni wydział policji może, w uzasadnionych przypadkach, w celu zapewnienia, że ​​broń zakazana broń uzupełnienia lub amunicji w miejscu ich dotychczasowego sklepu. Osoba, z którą broń, zakazanych broni lub uzupełnienie amunicji zgodnie z ustępem 1 lub 2 zabezpieczonej zabezpieczenie jest wymagane tolerować, a nie broń, zakazanych broni lub amunicji uzupełnieniem zabezpieczone na podstawie ustępu 1 lub 2 lub wyrzucać takich odpadów w celu umożliwienia drugiej osoby.
-(7) Właściwy policja może zrobić, któremu sprawa na podstawie ustępu 1 lub 2 zabezpieczonej nałożyć obowiązek zwrotu kosztów wdrożenia ich bezpieczeństwa.
-(8) Jeżeli przyczyny, które doprowadziły do ​​strzelby, amunicji, broni zakazanej uzupełnienie lub dokumentu, właściwy policji niezwłocznego spłaty zabezpieczonych rzeczy do tych, które były zabezpieczone. Chyba że osoba, której elementy zostały zajęte, identyczne do ich właściciela, rzeczy muszą być zwrócone do ich właściciela.
 
-Sekcja 57a
+Zabezpieczenie broni, amunicji lub dokumentu
+(1) Odpowiedni wydział policji może podjąć decyzję o zabezpieczeniu: broni palnej kategorii A, B lub C, amunicji do tej broni, pozwolenia na broń, licencji na broń, świadectwa broni lub listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenia na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa,  	Europejskiej Karty Broni, w której wpisana jest broń w kategoriach A, B lub C, zezwolenie na przewóz lub zgłoszenie przewozu broni i amunicji zgodnie z artykułem 50 lub 50a; jeżeli wszczęto przeciwko ich posiadaczowi
+
+<!-- trestní stíhání - nie wiem, co to oznacza po polsku - ściganie karne? oskarżenie? może postępowanie karne?-->
+a) w przypadku osoby fizycznej oskarżenie za przestępstwo, o którym mowa w § 22 ust. 1,
+
+b) w przypadku osoby prawnej oskarżenie za przestępstwo umyślne,
+
+c) w przypadku osoby fizycznej postępowanie administracyjne za przestępstwa popełnione przez
+1. posiadanie, przechowywanie lub noszenie broni z naruszeniem artykułu 8,
+2. wbrew artykułowi 20a ust. 3 nie poddawanie się badaniu lekarskiemu lub nie przedstawianie zaświadczenia o kondycji zdrowotnej odpowiedniemu wydziałowi policji,
+3. strzelanie z broni z naruszeniem artykułu 28 ust. 5,
+4. naruszanie artykuł 29 ust. 1 lit. l) nie poddając się badaniu w celu stwierdzenia, czy jest pod wpływem alkoholu lub innej substancji uzależniającej lub naruszanie artykuł 29 ust. 3 nosząc broń lub manipulując nią publicznie lub w miejscu publicznie dostępnym mimo, że jego zdolność do wykonywania tych czynności obiża się po spożyciu napojów alkoholowych, innych substancji uzależniających, leków lub w wyniku choroby,
+5. nie postępowanie zgodnie z artykułem 41 ust. 5, lub
+6. nie powiadomienie o nabyciu prawa własności do broni palnej kategorii A, B lub C zgodnie z artykułem 42 ust. 1,
+lub
+
+d) w przypadku osoby prawnej lub fizycznej prowadzącej działalność gospodarczą, postępowania administracyjne za przestępstwo
+popełnione przez posiadanie lub trzymanie broni lub amunicji z naruszeniem sekcji 8.
+<!-- posiadanie poprzez własność a trzymanie w sensie dzierżenia w ręku -->
+
+(2) Odpowiedni wydział policji może podjąć decyzję o zabezpieczeniu: broni kategorii A, B, C lub D, amunicji, myśliwskiego czarnego prochu, prochu bezdymnego, spłonek, pozwolenia na broń, licencji na broń, świadectwa broni, listów przewozowych dotyczących stałego wywozu, przywozu lub tranzytu broni i amunicji, zezwolenia na wywóz produktów, które są objęte kontrolą handlu w Czechach ze względów bezpieczeństwa, Europejskiej Karty Broni, pozwolenia na transport lub zgłoszenia transportu broni i amunicji z artykułu 50 lub 50a; które zostały zatrzymane zgodnie z artykułem 56 i postępowanie ma być prowadzone na podstawie tej lub _[rozporządzenia - dop. tłumacza bardziej konkretnego prawa]_. Jeżeli w ciągu 1 miesiąca od zatrzymania nie wszczęto postępowania na podstawie niniejszej ustawy lub _[rozporządzenia]_, właściwy departament policji postępuje zgodnie z ust. 8.
+
+(3) Uczestnikiem postępowania w sprawie zatrzymania jest osoba, która posiada przedmioty określone w ust. 1 lub 2 oraz dalej ich właściciel lub osoba wskazana w dokumencie. Osoba, która posiada przedmioty zabezpieczone na mocy ust. 1 lub 2, jest zobowiązana do bezzwłocznego przekazania tych przedmiotów do magazynu wydziału policji, który wydał decyzję o zatrzymaniu lub poinformować o miejscu przechowywania i umożliwić ich przejęcie przez policję. Policja wyda potwierdzenie przejęcia zabezpieczonych przedmiotów.
+
+(4) Odwołanie od decyzji zgodnie z ust. 1 i 2 nie ma skutku zawieszającego.
+
+(5)Jeśli posiadacz: broni, amunicji, zakazanych akcesoriów do broni lub dokumentu; o którego zabezpieczeniu postanowiono zgodnie z ust. 1, na prośbę odpowiedniego wydziału policji bezzwłocznie nie zrzeknie się lub nie poinformuje o miejscu przechowywania i uniemożliwi ich przejęcie przez policję, odpowiedni wydział policji jest upoważniony w celu: zabezpieczenia broni, amunicji, zakazanych akcesoriów do broni lub zabrania dokumentów; do wejścia do lokalu mieszkalnego, innych pomieszczeń lub terenu, jeśli można rozsądnie założyć, że znajdują się tam przedmioty (dop. tłumacza:, o których mowa). Postanowienia kodeksu postępowania administracyjnego dotyczące egzekucji świadczeń niepieniężnych nie mają zastosowania.
+
+<!-- je povinna zajištění strpět a nesmí se zbraní,  - nie mam kompletnie pojęcia jak to przetłumaczyć-->
+(6) Odpowiedni wydział policji może, w uzasadnionych przypadkach, wydać decyzję o zabezpieczeniu broni, zakazanych akcesoriów do broni lub amunicji, w dotychczasowym miejscu ich przechowywania. Osoba, u której zabezpieczono broń, zakazane akcesoria do broni lub amunicję zgodnie z ustępem 1 lub 2, jest zobowiązana do _[utrzymania zabezpieczenia i nie dysponowania]_ broni, zakazanych akcesoriów do broni lub amunicji zgodnie z ust. 1 lub 2 lub umożliwienia takich działań innej osobie.
+
+(7) Odpowiedni wydział policji może nałożyć obowiązek zapłaty temu, komu zabezpieczono przedmioty zgodnie z ust. 1 lub 2 za ich zabezpieczenie.
+
+(8) Jeżeli przyczyny, które doprowadziły do zabezpieczenia broni, amunicji, zakazanych akcesoriów do broni lub dokumentów, odpowiedni wydział policji decyduje bezzwłocznie o zwrocie zabezpieczonej rzeczy temu, komu je zabezpieczono. Jeśli osoba, której zabezpieczono przedmioty nie jest ich właścicielem, rzeczy muszą być zwrócone właścicielowi.
+
+<a name="section_57a"></a><p align="center">Artykuł 57a</p>
+
 Usunięcie amunicji
-(1) Organ kontrolny zgodnie z sekcją 75a podejmuje decyzję w sprawie usunięcia amunicji, która jest w złym stanie
-Stanie technicznym i zapewnia posiadaczowi rozsądny okres.
-(2) Policja zapewnia usunięcie amunicji, o której mowa w ust. 1, jeżeli życie, zdrowie lub mienie są nieuchronne, lub jeśli właściciel amunicji oświadcza, że nie jest w stanie usunąć ani usunąć amunicji w określonym terminie.
-(3) Właściwy organ policji może nakładać na posiadaczy amunicji, którzy zostali usunięci zgodnie z ust. 2 obowiązkiem pokrycia kosztów usunięcia amunicji.
+
+(1) Organ kontrolny zgodnie z sekcją 75a podejmuje decyzję w sprawie usunięcia amunicji, która jest w złym stanie technicznym i wyznacza rozsądny termin dla posiadacza.
+
+(2) Policja zapewnia usunięcie amunicji, o której mowa w ust. 1, jeżeli życie, zdrowie lub mienie są bezpośrednio zagrożone, lub jeśli właściciel amunicji oświadcza, że w określonym czasie nie jest w stanie usunąć amunicji, lub nie usuwa jej w określonym czasie.
+
+(3) Właściwy organ policji może nałożyć na posiadaczy amunicji, która została usunięta zgodnie z ust. 2 obowiązek pokrycia kosztów usunięcia amunicji.
